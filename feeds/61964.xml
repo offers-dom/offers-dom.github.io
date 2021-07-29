@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>61964</id>
+		<name>ЖК Дивногорский</name>
+		<latitude>55.02574</latitude>
+		<longitude>82.8097</longitude>
+		<address>г Новосибирск, ул Большая, д 383</address>
+		<buildings>
+			<building>
+				<id>159187</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/61964/1.jpg</plan>
+						<price>2706400</price>
+						<area>39,8</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/61964/2-5.jpg</plan>
+						<price>2661240</price>
+						<area>39,72</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<floor>6</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/61964/2-5.jpg</plan>
+						<price>2661240</price>
+						<area>39,72</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/61964/2-5.jpg</plan>
+						<price>2661240</price>
+						<area>39,72</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/61964/2-5.jpg</plan>
+						<price>2661240</price>
+						<area>39,72</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+73833101310</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
