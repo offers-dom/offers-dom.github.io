@@ -3,9 +3,9 @@
 	<complex>
 		<id>115534</id>
 		<name>ЖК "Семья"</name>
-		<latitude>57.09118</latitude>
-		<longitude>65.54326</longitude>
-		<address>Тюменская обл, Тюменский р-н, деревня Патрушева, ул Александра Пушкина</address>
+		<latitude>57.091343536689</latitude>
+		<longitude>65.54294886375408</longitude>
+		<address>Тюменская обл, Тюменский р-н, деревня Патрушева</address>
 		<buildings>
 			<building>
 				<id>162493</id>
