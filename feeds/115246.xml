@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>115246</id>
+		<name>ЖК "Флагманский-2"</name>
+		<latitude>54.65999</latitude>
+		<longitude>20.50242</longitude>
+		<address>г Калининград, ул У.Громовой</address>
+		<buildings>
+			<building>
+				<id>161407</id>
+				<flats>
+					<flat>
+						<flat_id>2</flat_id>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/115246/2.png</plan>
+						<price>2833890</price>
+						<area>36,26</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/115246/3.png</plan>
+						<price>3663480</price>
+						<area>54,98</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<floor>6</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/115246/5.png</plan>
+						<price>2901200</price>
+						<area>37,38</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/115246/6.png</plan>
+						<price>2976400</price>
+						<area>38,26</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/115246/7.png</plan>
+						<price>2785200</price>
+						<area>35,87</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+74012361100</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
