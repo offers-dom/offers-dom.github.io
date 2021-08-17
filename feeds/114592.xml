@@ -15,7 +15,7 @@
 						<floor>1</floor>
 						<room>3</room>
 						<plan></plan>
-						<price>4400000</price>
+						<price>4600000</price>
 						<area>75,11</area>
 					</flat>
 					<flat>
@@ -31,7 +31,7 @@
 						<floor>1</floor>
 						<room>3</room>
 						<plan></plan>
-						<price>4400000</price>
+						<price>4600000</price>
 						<area>77,81</area>
 					</flat>
 					<flat>
@@ -39,48 +39,8 @@
 						<floor>1</floor>
 						<room>3</room>
 						<plan></plan>
-						<price>4400000</price>
+						<price>4600000</price>
 						<area>75,11</area>
-					</flat>
-					<flat>
-						<flat_id>5</flat_id>
-						<floor>6</floor>
-						<room>3</room>
-						<plan></plan>
-						<price>4882000</price>
-						<area>75,11</area>
-					</flat>
-					<flat>
-						<flat_id>6</flat_id>
-						<floor>1</floor>
-						<room>3</room>
-						<plan></plan>
-						<price>4400000</price>
-						<area>77,81</area>
-					</flat>
-					<flat>
-						<flat_id>7</flat_id>
-						<floor>5</floor>
-						<room>3</room>
-						<plan></plan>
-						<price>5057000</price>
-						<area>77,81</area>
-					</flat>
-					<flat>
-						<flat_id>8</flat_id>
-						<floor>1</floor>
-						<room>3</room>
-						<plan></plan>
-						<price>4400000</price>
-						<area>75,18</area>
-					</flat>
-					<flat>
-						<flat_id>9</flat_id>
-						<floor>7</floor>
-						<room>3</room>
-						<plan></plan>
-						<price>5037000</price>
-						<area>75,18</area>
 					</flat>
 					<flat>
 						<flat_id>10</flat_id>
