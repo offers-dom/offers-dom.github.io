@@ -1,0 +1,317 @@
+<complexes>
+<complex>
+<id>115742</id>
+<name>Жизнь в центре города</name>
+<latitude>51.315642</latitude>
+<longitude>37.883384</longitude>
+<address>Старый Оскол, мкр. Макаренко, д. 41</address>
+<images>
+<image>http://boshe-stroy.ru/images/bsi/14.jpg</image>
+<image>http://boshe-stroy.ru/images/bsi/11.jpg</image>
+<image>http://boshe-stroy.ru/images/bsi/20.jpg</image>
+<image>http://boshe-stroy.ru/images/bsi/13.jpg</image>
+</images>
+<description_main>
+<title>
+Жизнь в центре города. Современные дома для счастливой жизни в центре города. Преимущества. Монолитное строительство. Дома, построенные по монолитной технологии, являются самыми надежными и долговечными. Высококачественные материалы отделки. Класс проекта «Комфорт»предполагает повышенные требования к качеству жилых домов и включение в проект ряд опций, соответствующий жилью бизнес-класса при сохранении демократичной цены. Парковки для колясок и велосипедов. Для любителей кататься на велосипедах или самокатах, а также для молодых семей с маленькими детьми, в каждом доме предусмотрены специальные помещения, где можно под наблюдением оставить коляску, а велосипед на специальной парковке во дворе. Любимый двор и широкие возможности для отдыха. Двор без машин – безопасный двор. Концепция обустройства двора, которая исключает проезд на его территорию какого-либо автотранспорта, за исключением автомобилей специальных служб. Парковочные места расположены на отдельной площадке рядом с домом. Спортивная площадка. Специальные спортивные зоны для улиц в наше время стали привычной частью жизни горожан всех возрастов, что не может не радовать. Уличные спортивные площадки расположены внутри дворового комплекса и предназначены для проведения активного досуга и оздоровления организма. До школы и сада, не пересекая дорог. Территория муниципальных детских садов и школы находится в соседнем дворе. Школьникам и родителям с малышами не придется пересекать оживленные магистрали. Нужно лишь пройти по аллее между домами. Магазины, Торговый центр, аптеки, банки, кафе. В шаговой доступности от жилого комплекса расположен крупнейший в городе Торгово-развлекательный центр – «БОШЕ, в состав которого входят: более 200 популярных магазинов, Гипермаркет «Европа», Кинотеатр «Чарли», Фитнес-клуб «X-fit», более 10 кафе, крупный развлекательный центр для всей семьи – «БОШЕ ПАРК». В непосредственной близости расположены супермаркеты, аптеки, отделения банков и почты. Престижный ВУЗ в округе. Район открывает широкие возможности для развития и получения высшего образования. В непосредственной близости расположился престижный СТИ НИТУ МИСиС. Так же в шаговой доступности расположены Политехнической колледж и Старооскольский техникум агробизнеса, кооперации и сервиса. Детские развивающие секции. В соседнем дворе расположены Центр культурного развития «Молодежный», с большим выбором различных детских секций, а так же крупнейший в город крытый плавательный бассейн. Парки и культурные зоны. В соседнем районе расположен современный парк «Зеленый лог», который стал точкой притяжения жителей города как в летом, так и зимой. Уютная территория перед Центр культурного развития «Молодежный», так же поможет приятно и культурно провести время с семьей под звуки оркестра.
+</title>
+<text/>
+</description_main>
+<infrastructure>
+<parking>наземная</parking>
+<security>-</security>
+<fenced_area>-</fenced_area>
+<sports_ground>+</sports_ground>
+<playground>+</playground>
+<school>+</school>
+<kindergarten>+</kindergarten>
+</infrastructure>
+<profits_main>
+<profit_main>
+<title>не более 500 символов</title>
+<text>не более 3000 символов </text>
+<image>ссылка на сайте или другом общедоступном ресурсе</image>
+</profit_main>
+<profit_main>
+<title>заполняйте предложения начиная с первого</title>
+<text>
+Если поле описание не заполнено, УТП не будет выводиться в ФИД
+</text>
+<image/>
+</profit_main>
+<profit_main>
+<title>Заголовок</title>
+<text>
+Если поле описание не заполнено, УТП не будет выводиться в ФИД
+</text>
+<image/>
+</profit_main>
+</profits_main>
+<profits_secondary>
+<profit_secondary>
+<title>не более 500 символов</title>
+<text>не более 3000 символов </text>
+<image>ссылка на сайте или другом общедоступном ресурсе</image>
+</profit_secondary>
+<profit_secondary>
+<title>Заголовок</title>
+<text>
+Если поле описание не заполнено, УТП не будет выводиться в ФИД
+</text>
+<image/>
+</profit_secondary>
+</profits_secondary>
+<buildings>
+<building>
+<id>163539</id>
+<fz_214>да</fz_214>
+<name>ЖК Жизнь в центре города </name>
+<floors>9</floors>
+<floors_ready>8</floors_ready>
+<building_state>Строится</building_state>
+<built_year>2022</built_year>
+<ready_quarter>3</ready_quarter>
+<building_phase>1</building_phase>
+<building_type>кирпично-монолитный</building_type>
+<image>http://buninapark.ru/wp-content/uploads/2pod2.png</image>
+<flats>
+<flat>
+<flat_id>24</flat_id>
+<apartment>24</apartment>
+<floor>4</floor>
+<room>1 (студия)</room>
+<plan>http://boshe-stroy.ru/images/bsi/9_24.jpg</plan>
+<balcony>Лоджия</balcony>
+<renovation>White box</renovation>
+<price>1787500</price>
+<area>25</area>
+<window_view>Во двор</window_view>
+<bathroom>совмещенный</bathroom>
+<housing_type>0</housing_type>
+</flat>
+<flat>
+<flat_id>25</flat_id>
+<apartment>25</apartment>
+<floor>5</floor>
+<room>2</room>
+<plan>http://boshe-stroy.ru/images/bsi/9_25.jpg</plan>
+<balcony>Балкон</balcony>
+<renovation>White box</renovation>
+<price>3743600</price>
+<area>53,48</area>
+<window_view>Во двор / на улицу</window_view>
+<bathroom>раздельный</bathroom>
+<housing_type>0</housing_type>
+<decoration>0</decoration>
+<ready_housing>1</ready_housing>
+</flat>
+<flat>
+<flat_id>26</flat_id>
+<apartment>26</apartment>
+<floor>5</floor>
+<room>1</room>
+<plan>http://boshe-stroy.ru/images/bsi/9_26.jpg</plan>
+<balcony>Лоджия</balcony>
+<renovation>White box</renovation>
+<price>2765000</price>
+<area>39,5</area>
+<window_view>На улицу</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+<flat>
+<flat_id>27</flat_id>
+<apartment>27</apartment>
+<floor>5</floor>
+<room>1</room>
+<plan>http://boshe-stroy.ru/images/bsi/9_27.jpg</plan>
+<balcony>Лоджия</balcony>
+<renovation>White box</renovation>
+<price>2674000</price>
+<area>38,2</area>
+<window_view>На улицу</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+<flat>
+<flat_id>28</flat_id>
+<apartment>28</apartment>
+<floor>5</floor>
+<room>1</room>
+<plan>http://boshe-stroy.ru/images/bsi/9_28.jpg</plan>
+<balcony>Балкон</balcony>
+<renovation>White box</renovation>
+<price>2611700</price>
+<area>37,31</area>
+<window_view>На улицу</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+<flat>
+<flat_id>29</flat_id>
+<apartment>29</apartment>
+<floor>5</floor>
+<room>1</room>
+<plan>http://boshe-stroy.ru/images/bsi/9_29.jpg</plan>
+<balcony>Балкон</balcony>
+<renovation>White box</renovation>
+<price>2506000</price>
+<area>35,8</area>
+<window_view>Во двор</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+</flats>
+</building>
+<building>
+<id>163540</id>
+<fz_214>да</fz_214>
+<name>ЖК Жизнь в центре города </name>
+<floors>14</floors>
+<floors_ready>8</floors_ready>
+<building_state>Строится</building_state>
+<built_year>2022</built_year>
+<ready_quarter>4</ready_quarter>
+<building_type/>
+<flats>
+<flat>
+<flat_id>36</flat_id>
+<apartment>36</apartment>
+<floor>6</floor>
+<room>2</room>
+<plan>http://boshe-stroy.ru/images/bsi/14_36.jpg</plan>
+<balcony>Балкон</balcony>
+<renovation>White box</renovation>
+<price>4258800</price>
+<area>60,84</area>
+<window_view>Во двор / на улицу</window_view>
+<bathroom>раздельный</bathroom>
+</flat>
+<flat>
+<flat_id>37</flat_id>
+<apartment>37</apartment>
+<floor>6</floor>
+<room>1</room>
+<plan>http://boshe-stroy.ru/images/bsi/14_37.jpg</plan>
+<balcony>Лоджия</balcony>
+<renovation>White box</renovation>
+<price>2856700</price>
+<area>40,81</area>
+<window_view>На улицу</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+<flat>
+<flat_id>38</flat_id>
+<apartment>38</apartment>
+<floor>6</floor>
+<room>1</room>
+<plan>http://boshe-stroy.ru/images/bsi/14_38.jpg</plan>
+<balcony>Лоджия</balcony>
+<renovation>White box</renovation>
+<price>2646000</price>
+<area>37,8</area>
+<window_view>На улицу</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+<flat>
+<flat_id>39</flat_id>
+<apartment>39</apartment>
+<floor>6</floor>
+<room>1</room>
+<plan>http://boshe-stroy.ru/images/bsi/14_39.jpg</plan>
+<balcony>Балкон</balcony>
+<renovation>White box</renovation>
+<price>2769900</price>
+<area>39,57</area>
+<window_view>На улицу</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+<flat>
+<flat_id>40</flat_id>
+<apartment>40</apartment>
+<floor>6</floor>
+<room>1</room>
+<plan>http://boshe-stroy.ru/images/bsi/14_40.jpg</plan>
+<balcony>Балкон</balcony>
+<renovation>White box</renovation>
+<price>2982700</price>
+<area>42,61</area>
+<window_view>Во двор / на улицу</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+<flat>
+<flat_id>41</flat_id>
+<apartment>41</apartment>
+<floor>6</floor>
+<room>1 (студия)</room>
+<plan>http://boshe-stroy.ru/images/bsi/14_41.jpg</plan>
+<balcony>Лоджия</balcony>
+<renovation>White box</renovation>
+<price>2260830</price>
+<area>31,62</area>
+<window_view>Во двор</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+<flat>
+<flat_id>42</flat_id>
+<apartment>42</apartment>
+<floor>6</floor>
+<room>1</room>
+<plan>http://boshe-stroy.ru/images/bsi/14_42.jpg</plan>
+<balcony>Лоджия</balcony>
+<renovation>White box</renovation>
+<price>2457700</price>
+<area>35,11</area>
+<window_view>Во двор</window_view>
+<bathroom>совмещенный</bathroom>
+</flat>
+</flats>
+</building>
+</buildings>
+<sales_info>
+<sales_phone>+74725410055</sales_phone>
+<responsible_officer_phone>+79107410055</responsible_officer_phone>
+<address>
+Старый Оскол, мкр. Ольминского, д. 17, 3 очередь, 4 этаж.
+</address>
+<sales_latitude>52,608465</sales_latitude>
+<sales_longitude>38,520564</sales_longitude>
+<timezone>UTC/GMT+3</timezone>
+<work_days>
+<work_day>
+<day>пн</day>
+<open_at>11:00</open_at>
+<close_at>19:00</close_at>
+</work_day>
+<work_day>
+<day>вт</day>
+<open_at>10:00</open_at>
+<close_at>19:00</close_at>
+</work_day>
+<work_day>
+<day>ср</day>
+<open_at>10:00</open_at>
+<close_at>19:00</close_at>
+</work_day>
+<work_day>
+<day>чт</day>
+<open_at>10:00</open_at>
+<close_at>19:00</close_at>
+</work_day>
+<work_day>
+<day>пт</day>
+<open_at>10:00</open_at>
+<close_at>18:00</close_at>
+</work_day>
+<work_day>
+<day>сб</day>
+<open_at>09:00</open_at>
+<close_at>14:00</close_at>
+</work_day>
+</work_days>
+</sales_info>
+<developer>
+<id>295660</id>
+<name>ООО СЗ БСИ</name>
+<phone>+74725233737</phone>
+<site>boshe-story.ru</site>
+<logo>http://boshe-stroy.ru/images/logo-red.webp</logo>
+</developer>
+</complex>
+</complexes>
