@@ -82,12 +82,13 @@
 <room>1 (студия)</room>
 <plan>http://boshe-stroy.ru/images/bsi/9_24.jpg</plan>
 <balcony>Лоджия</balcony>
-<renovation>White box</renovation>
 <price>1787500</price>
 <area>25</area>
 <window_view>Во двор</window_view>
 <bathroom>совмещенный</bathroom>
 <housing_type>0</housing_type>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>25</flat_id>
@@ -96,7 +97,6 @@
 <room>2</room>
 <plan>http://boshe-stroy.ru/images/bsi/9_25.jpg</plan>
 <balcony>Балкон</balcony>
-<renovation>White box</renovation>
 <price>3743600</price>
 <area>53,48</area>
 <window_view>Во двор / на улицу</window_view>
@@ -104,6 +104,8 @@
 <housing_type>0</housing_type>
 <decoration>0</decoration>
 <ready_housing>1</ready_housing>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>26</flat_id>
@@ -112,11 +114,12 @@
 <room>1</room>
 <plan>http://boshe-stroy.ru/images/bsi/9_26.jpg</plan>
 <balcony>Лоджия</balcony>
-<renovation>White box</renovation>
 <price>2765000</price>
 <area>39,5</area>
 <window_view>На улицу</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>27</flat_id>
@@ -125,11 +128,12 @@
 <room>1</room>
 <plan>http://boshe-stroy.ru/images/bsi/9_27.jpg</plan>
 <balcony>Лоджия</balcony>
-<renovation>White box</renovation>
 <price>2674000</price>
 <area>38,2</area>
 <window_view>На улицу</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>28</flat_id>
@@ -138,11 +142,12 @@
 <room>1</room>
 <plan>http://boshe-stroy.ru/images/bsi/9_28.jpg</plan>
 <balcony>Балкон</balcony>
-<renovation>White box</renovation>
 <price>2611700</price>
 <area>37,31</area>
 <window_view>На улицу</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>29</flat_id>
@@ -151,11 +156,12 @@
 <room>1</room>
 <plan>http://boshe-stroy.ru/images/bsi/9_29.jpg</plan>
 <balcony>Балкон</balcony>
-<renovation>White box</renovation>
 <price>2506000</price>
 <area>35,8</area>
 <window_view>Во двор</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 </flats>
 </building>
@@ -177,11 +183,12 @@
 <room>2</room>
 <plan>http://boshe-stroy.ru/images/bsi/14_36.jpg</plan>
 <balcony>Балкон</balcony>
-<renovation>White box</renovation>
 <price>4258800</price>
 <area>60,84</area>
 <window_view>Во двор / на улицу</window_view>
 <bathroom>раздельный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>37</flat_id>
@@ -190,11 +197,12 @@
 <room>1</room>
 <plan>http://boshe-stroy.ru/images/bsi/14_37.jpg</plan>
 <balcony>Лоджия</balcony>
-<renovation>White box</renovation>
 <price>2856700</price>
 <area>40,81</area>
 <window_view>На улицу</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>38</flat_id>
@@ -203,11 +211,12 @@
 <room>1</room>
 <plan>http://boshe-stroy.ru/images/bsi/14_38.jpg</plan>
 <balcony>Лоджия</balcony>
-<renovation>White box</renovation>
 <price>2646000</price>
 <area>37,8</area>
 <window_view>На улицу</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>39</flat_id>
@@ -216,11 +225,12 @@
 <room>1</room>
 <plan>http://boshe-stroy.ru/images/bsi/14_39.jpg</plan>
 <balcony>Балкон</balcony>
-<renovation>White box</renovation>
 <price>2769900</price>
 <area>39,57</area>
 <window_view>На улицу</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>40</flat_id>
@@ -229,11 +239,12 @@
 <room>1</room>
 <plan>http://boshe-stroy.ru/images/bsi/14_40.jpg</plan>
 <balcony>Балкон</balcony>
-<renovation>White box</renovation>
 <price>2982700</price>
 <area>42,61</area>
 <window_view>Во двор / на улицу</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>41</flat_id>
@@ -242,11 +253,12 @@
 <room>1 (студия)</room>
 <plan>http://boshe-stroy.ru/images/bsi/14_41.jpg</plan>
 <balcony>Лоджия</balcony>
-<renovation>White box</renovation>
 <price>2260830</price>
 <area>31,62</area>
 <window_view>Во двор</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 <flat>
 <flat_id>42</flat_id>
@@ -255,11 +267,12 @@
 <room>1</room>
 <plan>http://boshe-stroy.ru/images/bsi/14_42.jpg</plan>
 <balcony>Лоджия</balcony>
-<renovation>White box</renovation>
 <price>2457700</price>
 <area>35,11</area>
 <window_view>Во двор</window_view>
 <bathroom>совмещенный</bathroom>
+<decoration>1</decoration> 
+<renovation>предчистовая</renovation>
 </flat>
 </flats>
 </building>
