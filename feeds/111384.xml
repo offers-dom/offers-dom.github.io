@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>111384</id>
+		<name>ЖК "Олимп"</name>
+		<latitude>54.7544</latitude>
+		<longitude>32.10281</longitude>
+		<address>г Смоленск, ул Рыленкова</address>
+		<buildings>
+			<building>
+				<id>148788</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111384/59,30.PNG</plan>
+						<price>2 600 400  </price>
+						<area>59.82</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<floor>9</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/111384/75,04.PNG</plan>
+						<price>3 445 400  </price>
+						<area>75.16</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<floor>10</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/111384/75,04.PNG</plan>
+						<price>3 379 500  </price>
+						<area>75.16</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<floor>11</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/111384/75,04.PNG</plan>
+						<price>3 366 000  </price>
+						<area>75.04</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111384/55,24.PNG</plan>
+						<price>2 425 500  </price>
+						<area>55.24</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<floor>7</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111384/56,24.PNG</plan>
+						<price>2 488 500  </price>
+						<area>56.24</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/111384/40,21.PNG</plan>
+						<price>1 900 800  </price>
+						<area>40.21</area>
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<floor>13</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/111384/40,09.PNG</plan>
+						<price>1 847 100  </price>
+						<area>40.09</area>
+					</flat>
+					<flat>
+						<flat_id>9</flat_id>
+						<floor>13</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111384/56,12.PNG</plan>
+						<price>2 539 200  </price>
+						<area>56.12</area>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<floor>14</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/111384/40,09.PNG</plan>
+						<price>1 861 200  </price>
+						<area>40.09</area>
+					</flat>
+					<flat>
+						<flat_id>11</flat_id>
+						<floor>15</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111384/56,12.PNG</plan>
+						<price>2 539 200  </price>
+						<area>56.12</area>
+					</flat>
+					<flat>
+						<flat_id>12</flat_id>
+						<floor>16</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/111384/40,09.PNG</plan>
+						<price>1 856 500  </price>
+						<area>40.09</area>
+					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111384/59,30.PNG</plan>
+						<price>2 609 200  </price>
+						<area>59.30</area>
+					</flat>
+					<flat>
+						<flat_id>14</flat_id>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/111384/38,9.PNG</plan>
+						<price>1 842 000  </price>
+						<area>38.90</area>
+					</flat>
+					<flat>
+						<flat_id>15</flat_id>
+						<floor>16</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/111384/39,5.PNG</plan>
+						<price>1 856 500  </price>
+						<area>39.50</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+74812555555</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
