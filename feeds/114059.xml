@@ -6,6 +6,16 @@
 		<latitude>57.695097652737516</latitude>
 		<longitude>39.802966183852895</longitude>
 		<address>Россия, Ярославль, жилой комплекс Волга-Лайф Резиденции</address>
+		<videos>
+                <video>
+                <type>youtube</type>
+                <url>https://youtu.be/8CEDg-PAmRs</url>
+                </video>
+                <video>
+                <type>youtube</type>
+                <url>https://youtu.be/qzMm1Z5eYwE</url>
+                </video>
+                </videos>
 		<buildings>
 			<building>
 				<id>157252</id>
