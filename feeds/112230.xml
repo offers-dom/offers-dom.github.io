@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>112230</id>
+		<name>Дом по ул. Мира</name>
+		<latitude>55.86245</latitude>
+		<longitude>48.34184</longitude>
+		<address>Республика Марий Эл, г Волжск, ул Мира</address>
+		<buildings>
+			<building>
+				<id>162754</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/112230/1.jpg</plan>
+						<price>3083220</price>
+						<area>73,41</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+78363143967</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
