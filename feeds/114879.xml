@@ -11,14 +11,6 @@
 				<id>160000</id>
 				<flats>
 					<flat>
-						<flat_id>1</flat_id>
-						<floor>8</floor>
-						<room>0</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179151/1-14%20-.JPG</plan>
-						<price>2370720</price>
-						<area>26,94</area>
-					</flat>
-					<flat>
 						<flat_id>2</flat_id>
 						<floor>18</floor>
 						<room>0</room>
