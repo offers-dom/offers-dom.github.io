@@ -10,15 +10,7 @@
 			<building>
 				<id>158928</id>
 				<flats>
-					<flat>
-						<flat_id>1</flat_id>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15180700/1%20(14).jpg</plan>
-						<price>3825000</price>
-						<area>37,5</area>
-					</flat>
-					<flat>
+						<flat>
 						<flat_id>2</flat_id>
 						<floor>1</floor>
 						<room>1</room>
