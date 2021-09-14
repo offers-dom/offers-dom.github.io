@@ -11,14 +11,6 @@
 				<id>150503</id>
 				<flats>
 					<flat>
-						<flat_id>1</flat_id>
-						<floor>8</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/112001/1.jpg</plan>
-						<price>5710000</price>
-						<area>67,9</area>
-					</flat>
-					<flat>
 						<flat_id>2</flat_id>
 						<floor>2</floor>
 						<room>2</room>
