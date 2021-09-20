@@ -11,22 +11,6 @@
 				<id>156991</id>
 				<flats>
 					<flat>
-						<flat_id>1</flat_id>
-						<floor>4</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15177135/1-4%20(1).JPG</plan>
-						<price>4455000</price>
-						<area>55</area>
-					</flat>
-					<flat>
-						<flat_id>2</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15177135/1-4%20(1).JPG</plan>
-						<price>4455000</price>
-						<area>55</area>
-					</flat>
-					<flat>
 						<flat_id>3</flat_id>
 						<floor>6</floor>
 						<room>1</room>
@@ -265,46 +249,6 @@
 						<plan>http://moemesto.ru/Evgeny2802/file/15177141/26-40.JPG</plan>
 						<price>7290000</price>
 						<area>90</area>
-					</flat>
-					<flat>
-						<flat_id>105</flat_id>
-						<floor>11</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15177140/16-25.JPG</plan>
-						<price>5000000</price>
-						<area>50</area>
-					</flat>
-					<flat>
-						<flat_id>106</flat_id>
-						<floor>12</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15177140/16-25.JPG</plan>
-						<price>5000000</price>
-						<area>50</area>
-					</flat>
-					<flat>
-						<flat_id>107</flat_id>
-						<floor>13</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15177140/16-25.JPG</plan>
-						<price>5000000</price>
-						<area>50</area>
-					</flat>
-					<flat>
-						<flat_id>108</flat_id>
-						<floor>14</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15177140/16-25.JPG</plan>
-						<price>5000000</price>
-						<area>50</area>
-					</flat>
-					<flat>
-						<flat_id>109</flat_id>
-						<floor>15</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15177140/16-25.JPG</plan>
-						<price>5000000</price>
-						<area>50</area>
 					</flat>
 					<flat>
 						<flat_id>201</flat_id>
