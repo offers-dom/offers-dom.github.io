@@ -11,43 +11,11 @@
 				<id>158925</id>
 				<flats>
 					<flat>
-						<flat_id>1</flat_id>
-						<floor>1</floor>
-						<room>3</room>
-						<plan></plan>
-						<price>4600000</price>
-						<area>75,11</area>
-					</flat>
-					<flat>
-						<flat_id>2</flat_id>
-						<floor>6</floor>
-						<room>3</room>
-						<plan></plan>
-						<price>4882000</price>
-						<area>75,11</area>
-					</flat>
-					<flat>
-						<flat_id>3</flat_id>
-						<floor>1</floor>
-						<room>3</room>
-						<plan></plan>
-						<price>4600000</price>
-						<area>77,81</area>
-					</flat>
-					<flat>
-						<flat_id>4</flat_id>
-						<floor>1</floor>
-						<room>3</room>
-						<plan></plan>
-						<price>4600000</price>
-						<area>75,11</area>
-					</flat>
-					<flat>
 						<flat_id>10</flat_id>
 						<floor>3</floor>
 						<room>4</room>
 						<plan></plan>
-						<price>5200000</price>
+						<price>5300000</price>
 						<area>96,48</area>
 					</flat>
 					<flat>
