@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <complexes>
 <complex>
 <id>110301</id>
@@ -17,7 +16,7 @@ This XML file does not appear to have any style information associated with it. 
 <floor>1</floor>
 <room>0</room>
 <plan/>
-<price>1400000</price>
+<price>1650000</price>
 <area>21,6</area>
 </flat>
 <flat>
@@ -25,7 +24,7 @@ This XML file does not appear to have any style information associated with it. 
 <floor>5</floor>
 <room>0</room>
 <plan/>
-<price>1400000</price>
+<price>1650000</price>
 <area>21,6</area>
 </flat>
 <flat>
@@ -33,7 +32,7 @@ This XML file does not appear to have any style information associated with it. 
 <floor>4</floor>
 <room>1</room>
 <plan/>
-<price>2391200</price>
+<price>2448000</price>
 <area>42,7</area>
 </flat>
 <flat>
@@ -41,7 +40,7 @@ This XML file does not appear to have any style information associated with it. 
 <floor>8</floor>
 <room>1</room>
 <plan/>
-<price>2391200</price>
+<price>2448000</price>
 <area>42,7</area>
 </flat>
 <flat>
@@ -65,7 +64,7 @@ This XML file does not appear to have any style information associated with it. 
 <floor>3</floor>
 <room>2</room>
 <plan/>
-<price>2928800</price>
+<price>3085700</price>
 <area>52,3</area>
 </flat>
 <flat>
