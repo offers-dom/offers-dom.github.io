@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>113964</id>
+		<name>ЖК "Европа"</name>
+		<latitude>55.44442</latitude>
+		<longitude>65.3162</longitude>
+		<address>г Курган, мкр 15-й</address>
+		<buildings>
+			<building>
+				<id>156943</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113964/106,2.jpg</plan>
+						<price>4885200</price>
+						<area>106,2</area>
+					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>161654</id>
+				<flats>
+					<flat>
+						<flat_id>2</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113964/134,1.jpg</plan>
+						<price>6168600</price>
+						<area>134,1</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113964/160,1.jpg</plan>
+						<price>7364600</price>
+						<area>160,1</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+73522249249</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
