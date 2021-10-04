@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>113073</id>
+		<name>ЖК "Три богатыря"</name>
+		<latitude>55.46603</latitude>
+		<longitude>65.27878</longitude>
+		<address>г Курган, мкр 5-й, д 35</address>
+		<buildings>
+			<building>
+				<id>163250</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<floor>2</floor>
+						<room>0</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>1 305 850</price>
+						<area>26,65</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<floor>10</floor>
+						<room>0</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>1 305 850</price>
+						<area>26,65</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<floor>16</floor>
+						<room>0</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>1 305 850</price>
+						<area>26,65</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>2 145 600</price>
+						<area>44,7</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<floor>11</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>2 145 600</price>
+						<area>44,7</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<floor>17</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>2 145 600</price>
+						<area>44,7</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>2 839 200</price>
+						<area>59,15</area>
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<floor>12</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>2 839 200</price>
+						<area>59,15</area>
+					</flat>
+					<flat>
+						<flat_id>9</flat_id>
+						<floor>17</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>2 839 200</price>
+						<area>59,15</area>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<floor>5</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>4 314 800</price>
+						<area>93,8</area>
+					</flat>
+					<flat>
+						<flat_id>11</flat_id>
+						<floor>7</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>4 314 800</price>
+						<area>93,8</area>
+					</flat>
+					<flat>
+						<flat_id>12</flat_id>
+						<floor>14</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>4 314 800</price>
+						<area>93,8</area>
+					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>4 324 000</price>
+						<area>94</area>
+					</flat>
+					<flat>
+						<flat_id>14</flat_id>
+						<floor>9</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>4 324 000</price>
+						<area>94</area>
+					</flat>
+					<flat>
+						<flat_id>15</flat_id>
+						<floor>13</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
+						<price>4 324 000</price>
+						<area>94</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+73522550029</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
