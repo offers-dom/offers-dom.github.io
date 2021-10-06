@@ -1,14 +1,11 @@
 ﻿<complexes>
     <complex>
 		<id>111848</id>
-		<name>
-            ЖК Маяк
-        </name>
+		<name>ЖК Маяк</name>
 		<latitude>53,38564</latitude>
 		<longitude>83,72863</longitude>
 		<address/>
 		<images>
-			<image>http://barnaul-gi.ru/upload/iblock/3e0/3e07be9ca83b8cc8478c8d27b24815c0.jpg</image>
 			<image>http://barnaul-gi.ru/upload/iblock/3e0/3e07be9ca83b8cc8478c8d27b24815c0.jpg</image>
 		</images>
 		<sales_info>
@@ -19,7 +16,7 @@
 				<id>149993</id>
 				<flats>
 					<flat>
-						<flat_id>b61f5225-1d41-11e9-816b-0cc47a6a06b3</flat_id>
+						<flat_id>1</flat_id>
 						<apartment>85</apartment>
 						<floor>3</floor>
 						<room>4</room>
@@ -28,100 +25,59 @@
 						<renovation>да</renovation>
 						<price>5910696</price>
 						<area>101,33</area>
-						<kitchen_area>6,02</kitchen_area>
-						<living_area>96,58</living_area>
-						<window_view>во двор и на улицу</window_view>
-						<bathroom>более 2</bathroom>
 					</flat>
 					<flat>
-						<flat_id>b61f521e-1d41-11e9-816b-0cc47a6a06b3</flat_id>
+						<flat_id>2</flat_id>
 						<apartment>92</apartment>
 						<floor>4</floor>
 						<room>4</room>
 						<plan>http://barnaul-gi.ru/flat/image/plan/b61f521e-1d41-11e9-816b-0cc47a6a06b3/</plan>
-						<balcony>лоджия</balcony>
-						<renovation>да</renovation>
 						<price>5910696</price>
 						<area>101,33</area>
-						<kitchen_area>6,02</kitchen_area>
-						<living_area>96,58</living_area>
-						<window_view>во двор и на улицу</window_view>
-						<bathroom>более 2</bathroom>
 					</flat>
 					<flat>
-						<flat_id>b61f5217-1d41-11e9-816b-0cc47a6a06b3</flat_id>
+						<flat_id>3</flat_id>
 						<apartment>99</apartment>
 						<floor>5</floor>
 						<room>4</room>
 						<plan>http://barnaul-gi.ru/flat/image/plan/b61f5217-1d41-11e9-816b-0cc47a6a06b3/</plan>
-						<balcony>лоджия</balcony>
-						<renovation>да</renovation>
 						<price>5910696</price>
 						<area>101,33</area>
-						<kitchen_area>6,02</kitchen_area>
-						<living_area>96,58</living_area>
-						<window_view>во двор и на улицу</window_view>
-						<bathroom>более 2</bathroom>
 					</flat>
 					<flat>
-						<flat_id>b61f5210-1d41-11e9-816b-0cc47a6a06b3</flat_id>
+						<flat_id>4</flat_id>
 						<apartment>106</apartment>
 						<floor>6</floor>
 						<room>4</room>
 						<plan>http://barnaul-gi.ru/flat/image/plan/b61f5210-1d41-11e9-816b-0cc47a6a06b3/</plan>
-						<balcony>лоджия</balcony>
-						<renovation>да</renovation>
 						<price>5910696</price>
 						<area>101,33</area>
-						<kitchen_area>6,02</kitchen_area>
-						<living_area>96,58</living_area>
-						<window_view>во двор и на улицу</window_view>
-						<bathroom>более 2</bathroom>
 					</flat>
 					<flat>
-						<flat_id>b61f5209-1d41-11e9-816b-0cc47a6a06b3</flat_id>
+						<flat_id>5</flat_id>
 						<apartment>113</apartment>
 						<floor>7</floor>
 						<room>4</room>
 						<plan>http://barnaul-gi.ru/flat/image/plan/b61f5209-1d41-11e9-816b-0cc47a6a06b3/</plan>
-						<balcony>лоджия</balcony>
-						<renovation>да</renovation>
 						<price>5910696</price>
 						<area>101,33</area>
-						<kitchen_area>6,02</kitchen_area>
-						<living_area>96,58</living_area>
-						<window_view>во двор и на улицу</window_view>
-						<bathroom>более 2</bathroom>
 					</flat>
 					<flat>
-						<flat_id>b61f5202-1d41-11e9-816b-0cc47a6a06b3</flat_id>
+						<flat_id>6</flat_id>
 						<apartment>120</apartment>
 						<floor>8</floor>
 						<room>4</room>
 						<plan>http://barnaul-gi.ru/flat/image/plan/b61f5202-1d41-11e9-816b-0cc47a6a06b3/</plan>
-						<balcony>лоджия</balcony>
-						<renovation>да</renovation>
 						<price>5910696</price>
 						<area>101,33</area>
-						<kitchen_area>6,02</kitchen_area>
-						<living_area>96,58</living_area>
-						<window_view>во двор и на улицу</window_view>
-						<bathroom>более 2</bathroom>
-					</flat>
 					<flat>
-						<flat_id>b61f51fb-1d41-11e9-816b-0cc47a6a06b3</flat_id>
+						<flat_id>7</flat_id>
 						<apartment>127</apartment>
 						<floor>9</floor>
 						<room>4</room>
 						<plan>http://barnaul-gi.ru/flat/image/plan/b61f51fb-1d41-11e9-816b-0cc47a6a06b3/</plan>
-						<balcony>лоджия</balcony>
-						<renovation>да</renovation>
 						<price>5910696</price>
 						<area>101,33</area>
-						<kitchen_area>6,02</kitchen_area>
-						<living_area>96,58</living_area>
-						<window_view>во двор и на улицу</window_view>
-						<bathroom>более 2</bathroom>
 					</flat>
 				</flats>
 			</building>
