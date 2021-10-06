@@ -51,8 +51,8 @@
 </discount>
 </discounts>
 <sales_info>
-<sales_phone>+79880308975</sales_phone>
-<responsible_officer_phone>+79880308975</responsible_officer_phone>
+<sales_phone>+79873774180</sales_phone>
+<responsible_officer_phone>+79873774180</responsible_officer_phone>
 <sales_address>г. Волгоград, ул. 10 Дивизии НКВД д. 1а</sales_address>
 <sales_latitude>48.705712</sales_latitude>
 <sales_longitude>44.507561</sales_longitude>
@@ -97,7 +97,7 @@
 <developer>
 <id>225385</id>
 <name>Лига Сервис</name>
-<phone>+79880308975</phone>
+<phone>+79873774180</phone>
 <site>https://repnikov-house.ru/</site>
 <logo>
 https://plan7.ru/img/img/cat_sk/83/logo/cc716790bedfe985.png
@@ -2961,8 +2961,7 @@ http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
 <apartment>441</apartment>
 <room>1</room>
 <area>46.4</area>
-<price>3675000
-</price>
+<price>3675000 </price>
 <floor>19</floor>
 <plan>
 http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
