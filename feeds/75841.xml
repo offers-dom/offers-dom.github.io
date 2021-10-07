@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>75841</id>
+		<name>мкр "Северный-2"</name>
+		<latitude>44.06322</latitude>
+		<longitude>42.8803</longitude>
+		<address>Ставропольский край, г. Ессентуки, мкр. Северный - 2</address>
+		<buildings>
+			<building>
+				<id>162811</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/75841/60,3.PNG</plan>
+						<price>4 165 000</price>
+						<area>60,3</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/37,6.PNG</plan>
+						<price>2 627 000</price>
+						<area>37,6</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/36,9.PNG</plan>
+						<price>2 579 000</price>
+						<area>36,9</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/46,2.PNG</plan>
+						<price>3 222 000</price>
+						<area>46,2</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/34,3.PNG</plan>
+						<price>2 399 000</price>
+						<area>34,3</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<floor>3</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/75841/60,3.PNG</plan>
+						<price>3 954 000</price>
+						<area>60,3</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/37,6.PNG</plan>
+						<price>2 444 000</price>
+						<area>37,6</area>
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/36,9.PNG</plan>
+						<price>2 398 000</price>
+						<area>36,9</area>
+					</flat>
+					<flat>
+						<flat_id>9</flat_id>
+						<floor>4</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/75841/60,3.PNG</plan>
+						<price>3 919 000</price>
+						<area>60,3</area>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/37,6.PNG</plan>
+						<price>2 477 000</price>
+						<area>37,6</area>
+					</flat>
+					<flat>
+						<flat_id>11</flat_id>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/36,9.PNG</plan>
+						<price>2 398 000</price>
+						<area>36,9</area>
+					</flat>
+					<flat>
+						<flat_id>12</flat_id>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/46,2.PNG</plan>
+						<price>3 038 000</price>
+						<area>46,2</area>
+					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/34,3.PNG</plan>
+						<price>2 229 000</price>
+						<area>34,3</area>
+					</flat>
+					<flat>
+						<flat_id>14</flat_id>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/75841/60,3.PNG</plan>
+						<price>4 044 000</price>
+						<area>60,3</area>
+					</flat>
+					<flat>
+						<flat_id>15</flat_id>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/37,6.PNG</plan>
+						<price>2 552 000</price>
+						<area>37,6</area>
+					</flat>
+					<flat>
+						<flat_id>16</flat_id>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/36,9.PNG</plan>
+						<price>2 505 000</price>
+						<area>36,9</area>
+					</flat>
+					<flat>
+						<flat_id>17</flat_id>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/46,2.PNG</plan>
+						<price>3 130 000</price>
+						<area>46,2</area>
+					</flat>
+					<flat>
+						<flat_id>18</flat_id>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/34,3.PNG</plan>
+						<price>2 330 000</price>
+						<area>34,3</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+7 (879) 346-64-45</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
