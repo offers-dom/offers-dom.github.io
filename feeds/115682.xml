@@ -8,7 +8,7 @@
 		<address>г Екатеринбург</address>
 		<buildings>
 			<building>
-				<id>163794</id>
+				<id>164212</id>
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
@@ -170,6 +170,11 @@
 						<price>2 065 880</price>
 						<area>26,4</area>
 					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>164211</id>
+				<flats>
 					<flat>
 						<flat_id>21</flat_id>
 						<floor>6  </floor>
@@ -778,6 +783,11 @@
 						<price>3 207 560</price>
 						<area>42,9</area>
 					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>163794</id>
+				<flats>
 					<flat>
 						<flat_id>97</flat_id>
 						<floor>11   </floor>
