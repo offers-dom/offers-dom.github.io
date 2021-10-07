@@ -1,36 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
-	<complex>
-		<id>114592</id>
-		<name>Клубный дом "Аристократ"</name>
-		<latitude>51.512283</latitude>
-		<longitude>45.9938782</longitude>
-		<address>г Саратов, ул им Чернышевского Н.Г., д 52</address>
-		<buildings>
-			<building>
-				<id>158925</id>
-				<flats>
-					<flat>
-						<flat_id>10</flat_id>
-						<floor>3</floor>
-						<room>4</room>
-						<plan></plan>
-						<price>5300000</price>
-						<area>96,48</area>
-					</flat>
-					<flat>
-						<flat_id>11</flat_id>
-						<floor>10</floor>
-						<room>4</room>
-						<plan></plan>
-						<price>5976000</price>
-						<area>96,48</area>
-					</flat>
-				</flats>
-			</building>
-		</buildings>
-		<sales_info>
-			<sales_phone>+79921218032</sales_phone>
-		</sales_info>
-	</complex>
+<complex>
+<id>114592</id>
+<name>Клубный дом "Аристократ"</name>
+<latitude>51.512283</latitude>
+<longitude>45.9938782</longitude>
+<address>г Саратов, ул им Чернышевского Н.Г., д 52</address>
+<buildings>
+<building>
+<id>158925</id>
+<flats>
+<flat>
+<flat_id>10</flat_id>
+<floor>3</floor>
+<room>4</room>
+<plan/>
+<price>5300000</price>
+<area>96,48</area>
+</flat>
+<flat>
+<flat_id>11</flat_id>
+<floor>10</floor>
+<room>4</room>
+<plan/>
+<price>5976000</price>
+<area>96,48</area>
+</flat>
+</flats>
+</building>
+</buildings>
+<sales_info>
+<sales_phone>+79873774180</sales_phone>
+</sales_info>
+</complex>
 </complexes>
