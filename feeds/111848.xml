@@ -2,15 +2,9 @@
     <complex>
 		<id>111848</id>
 		<name>ЖК Маяк</name>
-		<latitude>53,38564</latitude>
-		<longitude>83,72863</longitude>
-		<address/>
 		<images>
 			<image>http://barnaul-gi.ru/upload/iblock/3e0/3e07be9ca83b8cc8478c8d27b24815c0.jpg</image>
 		</images>
-		<sales_info>
-			<sales_phone>+738529635300951</sales_phone>
-		</sales_info>
 		<buildings>
 			<building>
 				<id>149993</id>
@@ -82,5 +76,8 @@
 				</flats>
 			</building>
 		</buildings>
+		<sales_info>
+			<sales_phone>+738529635300951</sales_phone>
+		</sales_info>
 	</complex>
 </complexes>
