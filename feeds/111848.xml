@@ -18,7 +18,7 @@
                         <balcony>лоджия</balcony>
                         <renovation>да</renovation>
                         <price>5910696</price>
-                        <area>101,33</area>
+                        <area>101</area>
                     </flat>
                     <flat>
                         <flat_id>2</flat_id>
@@ -27,7 +27,7 @@
                         <room>4</room>
                         <plan>http://barnaul-gi.ru/flat/image/plan/b61f521e-1d41-11e9-816b-0cc47a6a06b3/</plan>
                         <price>5910696</price>
-                        <area>101,33</area>
+                        <area>101</area>
                     </flat>
                     <flat>
                         <flat_id>3</flat_id>
@@ -36,7 +36,7 @@
                         <room>4</room>
                         <plan>http://barnaul-gi.ru/flat/image/plan/b61f5217-1d41-11e9-816b-0cc47a6a06b3/</plan>
                         <price>5910696</price>
-                        <area>101,33</area>
+                        <area>101</area>
                     </flat>
                     <flat>
                         <flat_id>4</flat_id>
@@ -45,7 +45,7 @@
                         <room>4</room>
                         <plan>http://barnaul-gi.ru/flat/image/plan/b61f5210-1d41-11e9-816b-0cc47a6a06b3/</plan>
                         <price>5910696</price>
-                        <area>101,33</area>
+                        <area>101</area>
                     </flat>
                     <flat>
                         <flat_id>5</flat_id>
@@ -54,7 +54,7 @@
                         <room>4</room>
                         <plan>http://barnaul-gi.ru/flat/image/plan/b61f5209-1d41-11e9-816b-0cc47a6a06b3/</plan>
                         <price>5910696</price>
-                        <area>101,33</area>
+                        <area>101</area>
                     </flat>
                     <flat>
                         <flat_id>6</flat_id>
@@ -63,7 +63,7 @@
                         <room>4</room>
                         <plan>http://barnaul-gi.ru/flat/image/plan/b61f5202-1d41-11e9-816b-0cc47a6a06b3/</plan>
                         <price>5910696</price>
-                        <area>101,33</area>
+                        <area>101</area>
                     </flat>
                     <flat>
                         <flat_id>7</flat_id>
@@ -72,7 +72,7 @@
                         <room>4</room>
                         <plan>http://barnaul-gi.ru/flat/image/plan/b61f51fb-1d41-11e9-816b-0cc47a6a06b3/</plan>
                         <price>5910696</price>
-                        <area>101,33</area>
+                        <area>101</area>
                     </flat>
                 </flats>
 			</building>
