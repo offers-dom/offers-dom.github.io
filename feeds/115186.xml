@@ -5,626 +5,460 @@
 		<name>ЖК "Настроение"</name>
 		<latitude>48.44048</latitude>
 		<longitude>135.10275</longitude>
-		<address>г Хабаровск, ул Морозова Павла Леонтьевича, д 25</address>
+		<address>г Хабаровск, ул Морозова Павла Леонтьевича</address>
 		<buildings>
 			<building>
 				<id>161121</id>
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
-						<floor>6</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4500000</price>
-						<area>38,91</area>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179553/13-28.JPG</plan>
+						<price>7100000</price>
+						<area>64,45</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>2</flat_id>
-						<floor>7</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4500000</price>
-						<area>38,91</area>
+						<floor>3</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179553/13-28.JPG</plan>
+						<price>7100000</price>
+						<area>64,64</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>3</flat_id>
-						<floor>10</floor>
+						<floor>2</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4500000</price>
-						<area>38,91</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179554/29-41.JPG</plan>
+						<price>5200000</price>
+						<area>44,99</area> 
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>4</flat_id>
-						<floor>12</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4700000</price>
-						<area>38,91</area>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
+						<area>62,26</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>5</flat_id>
-						<floor>13</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4700000</price>
-						<area>38,91</area>
+						<floor>3</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
+						<area>62,52</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>6</flat_id>
-						<floor>14</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4700000</price>
-						<area>38,91</area>
+						<floor>4</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
+						<area>62,52</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>7</flat_id>
-						<floor>15</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4700000</price>
-						<area>38,91</area>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
+						<area>62,52</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>8</flat_id>
-						<floor>16</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4700000</price>
-						<area>38,91</area>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
+						<area>62,52</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>9</flat_id>
-						<floor>17</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4700000</price>
-						<area>38,91</area>
+						<floor>7</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
+						<area>62,52</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>10</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4500000</price>
-						<area>38,91</area>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
+						<area>62,52</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>11</flat_id>
-						<floor>6</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4500000</price>
-						<area>38,91</area>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
+						<area>62,52</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>12</flat_id>
-						<floor>7</floor>
+						<floor>12</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7300000</price>
+						<area>62,52</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
+					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<floor>2</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4500000</price>
-						<area>38,91</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
+						<price>5200000</price>
+						<area>41,94</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>14</flat_id>
-						<floor>12</floor>
+						<floor>3</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4700000</price>
-						<area>38,91</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
+						<price>5200000</price>
+						<area>42,31</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>15</flat_id>
-						<floor>16</floor>
+						<floor>4</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4700000</price>
-						<area>38,91</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
+						<price>5200000</price>
+						<area>42,31</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
+					</flat>
+					<flat>
+						<flat_id>16</flat_id>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
+						<price>5200000</price>
+						<area>42,31</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
+					</flat>
+					<flat>
+						<flat_id>17</flat_id>
+						<floor>9</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
+						<price>5200000</price>
+						<area>42,31</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
+					</flat>
+					<flat>
+						<flat_id>18</flat_id>
+						<floor>10</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
+						<price>5200000</price>
+						<area>42,31</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
+					</flat>
+					<flat>
+						<flat_id>19</flat_id>
+						<floor>12</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
+						<price>5400000</price>
+						<area>42,31</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>20</flat_id>
-						<floor>2</floor>
+						<floor>13</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/20-21.jpg</plan>
-						<price>4900000</price>
-						<area>41,94</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
+						<price>5400000</price>
+						<area>42,31</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>21</flat_id>
-						<floor>2</floor>
+						<floor>5</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/20-21.jpg</plan>
-						<price>4900000</price>
-						<area>41,94</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>4800000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>22</flat_id>
-						<floor>3</floor>
+						<floor>6</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>4900000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>4800000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>23</flat_id>
-						<floor>4</floor>
+						<floor>7</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>4900000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>4800000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>24</flat_id>
-						<floor>5</floor>
+						<floor>10</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>4900000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>4800000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>25</flat_id>
-						<floor>6</floor>
+						<floor>12</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>4900000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>26</flat_id>
-						<floor>8</floor>
+						<floor>13</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>4900000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
 						<flat_id>27</flat_id>
-						<floor>9</floor>
+						<floor>14</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>4900000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+					        <area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>28</flat_id>
-						<floor>10</floor>
+						<floor>15</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>4900000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>29</flat_id>
-						<floor>11</floor>
+						<floor>16</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>4900000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>30</flat_id>
-						<floor>12</floor>
+						<floor>17</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>5100000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>31</flat_id>
-						<floor>13</floor>
+						<floor>2</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>5100000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179560/118-130.JPG</plan>
+						<price>4800000</price>
+						<area>41,3</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>32</flat_id>
-						<floor>14</floor>
+						<floor>5</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>5100000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>4800000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>33</flat_id>
-						<floor>15</floor>
+						<floor>6</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/22-34.jpg</plan>
-						<price>5100000</price>
-						<area>42,31</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>4800000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
+					</flat>
+					<flat>
+						<flat_id>34</flat_id>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>4800000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>35</flat_id>
-						<floor>3</floor>
+						<floor>9</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/35-41.jpg</plan>
-						<price>4900000</price>
-						<area>42,47</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>4800000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>36</flat_id>
-						<floor>4</floor>
+						<floor>12</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/35-41.jpg</plan>
-						<price>4900000</price>
-						<area>42,47</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>37</flat_id>
-						<floor>5</floor>
+						<floor>13</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/35-41.jpg</plan>
-						<price>4900000</price>
-						<area>42,47</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
+					</flat>
+					<flat>
+						<flat_id>38</flat_id>
+						<floor>14</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
+					</flat>
+					<flat>
+						<flat_id>39</flat_id>
+						<floor>15</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>40</flat_id>
-						<floor>10</floor>
+						<floor>16</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/35-41.jpg</plan>
-						<price>4900000</price>
-						<area>42,47</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
+					</flat>
+					<flat>
+						<flat_id>41</flat_id>
+						<floor>17</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
+						<price>5000000</price>
+						<area>38,91</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>42</flat_id>
 						<floor>2</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/42-43.jpg</plan>
-						<price>4900000</price>
-						<area>44,99</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
+						<price>5200000</price>
+						<area>41,94</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>43</flat_id>
-						<floor>2</floor>
+						<floor>3</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/42-43.jpg</plan>
-						<price>4900000</price>
-						<area>44,99</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179561/131-142.JPG</plan>
+						<price>5200000</price>
+						<area>42,47</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
 						<flat_id>44</flat_id>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/44-52.jpg</plan>
-						<price>4900000</price>
-						<area>45,18</area>
-					</flat>
-					<flat>
-						<flat_id>53</flat_id>
 						<floor>2</floor>
 						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/53-54.jpg</plan>
-						<price>6800000</price>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
 						<area>62,26</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
-						<flat_id>54</flat_id>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/53-54.jpg</plan>
-						<price>6800000</price>
-						<area>62,26</area>
-					</flat>
-					<flat>
-						<flat_id>55</flat_id>
-						<floor>3</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>56</flat_id>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>57</flat_id>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>58</flat_id>
-						<floor>6</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>59</flat_id>
+						<flat_id>45</flat_id>
 						<floor>7</floor>
 						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
+						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
+						<price>7100000</price>
 						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>60</flat_id>
-						<floor>8</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>61</flat_id>
-						<floor>9</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>62</flat_id>
-						<floor>10</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>63</flat_id>
-						<floor>11</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>64</flat_id>
-						<floor>12</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>7000000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>65</flat_id>
-						<floor>13</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>7000000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>66</flat_id>
-						<floor>14</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>7000000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>67</flat_id>
-						<floor>16</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>7000000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>68</flat_id>
-						<floor>3</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>69</flat_id>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>71</flat_id>
-						<floor>6</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>72</flat_id>
-						<floor>7</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>73</flat_id>
-						<floor>8</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>74</flat_id>
-						<floor>9</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>6800000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>77</flat_id>
-						<floor>12</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/55-80.jpg</plan>
-						<price>7000000</price>
-						<area>62,52</area>
-					</flat>
-					<flat>
-						<flat_id>82</flat_id>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/81-89.jpg</plan>
-						<price>6400000</price>
-						<area>63,57</area>
-					</flat>
-					<flat>
-						<flat_id>83</flat_id>
-						<floor>6</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/81-89.jpg</plan>
-						<price>6400000</price>
-						<area>63,57</area>
-					</flat>
-					<flat>
-						<flat_id>85</flat_id>
-						<floor>12</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/81-89.jpg</plan>
-						<price>6600000</price>
-						<area>63,57</area>
-					</flat>
-					<flat>
-						<flat_id>86</flat_id>
-						<floor>13</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/81-89.jpg</plan>
-						<price>6600000</price>
-						<area>63,57</area>
-					</flat>
-					<flat>
-						<flat_id>87</flat_id>
-						<floor>14</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/81-89.jpg</plan>
-						<price>6600000</price>
-						<area>63,57</area>
-					</flat>
-					<flat>
-						<flat_id>88</flat_id>
-						<floor>15</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/81-89.jpg</plan>
-						<price>6600000</price>
-						<area>63,57</area>
-					</flat>
-					<flat>
-						<flat_id>91</flat_id>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/90-118.jpg</plan>
-						<price>6400000</price>
-						<area>63,67</area>
-					</flat>
-					<flat>
-						<flat_id>94</flat_id>
-						<floor>12</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/90-118.jpg</plan>
-						<price>6600000</price>
-						<area>63,67</area>
-					</flat>
-					<flat>
-						<flat_id>95</flat_id>
-						<floor>13</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/90-118.jpg</plan>
-						<price>6600000</price>
-						<area>63,67</area>
-					</flat>
-					<flat>
-						<flat_id>97</flat_id>
-						<floor>16</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/90-118.jpg</plan>
-						<price>6600000</price>
-						<area>63,67</area>
-					</flat>
-					<flat>
-						<flat_id>99</flat_id>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/90-118.jpg</plan>
-						<price>6800000</price>
-						<area>64,45</area>
-					</flat>
-					<flat>
-						<flat_id>111</flat_id>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/90-118.jpg</plan>
-						<price>6800000</price>
-						<area>64,45</area>
-					</flat>
-					<flat>
-						<flat_id>112</flat_id>
-						<floor>3</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/90-118.jpg</plan>
-						<price>6800000</price>
-						<area>64,64</area>
-					</flat>
-					<flat>
-						<flat_id>113</flat_id>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/90-118.jpg</plan>
-						<price>6800000</price>
-						<area>64,64</area>
-					</flat>
-					<flat>
-						<flat_id>115</flat_id>
-						<floor>6</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/90-118.jpg</plan>
-						<price>6800000</price>
-						<area>64,64</area>
-					</flat>
-					<flat>
-						<flat_id>119</flat_id>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/119-120.jpg</plan>
-						<price>6400000</price>
-						<area>64,89</area>
-					</flat>
-					<flat>
-						<flat_id>120</flat_id>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/119-120.jpg</plan>
-						<price>6400000</price>
-						<area>64,89</area>
-					</flat>
-					<flat>
-						<flat_id>124</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4500000</price>
-						<area>38,91</area>
-					</flat>
-					<flat>
-						<flat_id>125</flat_id>
-						<floor>8</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>4500000</price>
-						<area>38,91</area>
-					</flat>
-					<flat>
-						<flat_id>126</flat_id>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115186/119-120.jpg</plan>
-						<price>6400000</price>
-						<area>65,26</area>
+                                                <decoration>1</decoration> 
+                                                <renovation>чистовая</renovation> 	
 					</flat>
 				</flats>
 			</building>
