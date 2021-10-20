@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<complexes>
+    <complex>
+    <id>112415</id>
+    <name>мкр. Первый</name>
+    <buildings>
+        <building>
+        <id>151934</id>
+        <flats>
+            <flat>
+            <flat_id>321</flat_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plan>https://offers-dom.github.io/img/112415/1.jpeg</plan>
+            <price>3640000</price>
+            <area>36,6</area>
+            </flat>
+        </flats>
+        </building>
+    </buildings> 
+    <sales_info>
+    <sales_phone>+7(930)063-01-11</sales_phone>
+    </sales_info>
+    </complex>
+</complexes>
