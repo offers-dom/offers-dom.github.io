@@ -458,6 +458,11 @@
 						<price>3083570</price>
 						<area>62,93</area>
 					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>164149</id>
+				<flats>
 					<flat>
 						<flat_id>57</flat_id>
 						<floor>17</floor>
