@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>115992</id>
+		<name>ЖК "Петровский"</name>
+		<latitude>55.1766293124525</latitude>
+		<longitude>36.656017288360445</longitude>
+		<address>Россия, Калужская область, Боровский район, Балабаново, жилой комплекс Петровский</address>
+		<buildings>
+			<building>
+				<id>164542</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<floor>7</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/115992/1.png</plan>
+						<price>3472000</price>
+						<area>49,6</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/115992/2.png</plan>
+						<price>5154000</price>
+						<area>75,8</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<floor>4</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/115992/3.png</plan>
+						<price>6800000</price>
+						<area>105,3</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+78002222114</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
