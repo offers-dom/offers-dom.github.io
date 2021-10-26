@@ -3,9 +3,6 @@
 	<complex>
 		<id>111190</id>
 		<name>ЖК "Самоцветы"</name>
-		<latitude>47.279930</latitude>
-		<longitude>39.868364</longitude>
-		<address>Ростовская область, Аксай, улица Строителей, 4к2</address>
 		<buildings>
 			<building>
 				<id>163309</id>
