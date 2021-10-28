@@ -1,7 +1,10 @@
-﻿<complexes>
+<complexes>
     <complex>
 		<id>111848</id>
 		<name>ЖК Маяк</name>
+	        <latitude>53.385787</latitude>
+    		<longitude>83.728674</longitude>
+   		<address>Россия, Барнаул, проспект Космонавтов, 17</address>
 		<images>
 			<image>http://barnaul-gi.ru/upload/iblock/3e0/3e07be9ca83b8cc8478c8d27b24815c0.jpg</image>
 		</images>
