@@ -5,120 +5,74 @@
   <buildings>
     <building>
     <id>150403</id>
-    <fz_214>1</fz_214>
-    <name>поз.2</name>
-    <floors>5</floors>
-    <flats>
-      <flat>
-      <flat_id>258370</flat_id>
-      <apartment>196</apartment>
-      <floor>3</floor>
-      <room>1</room>
-      <plan>
-      https://fs.roomberry.ru/images/4bsi/71dgow66h1s8ks0kgog4o0sgg.png
-      </plan>
-      <balcony>балкон</balcony>
-      <renovation>нет</renovation>
-      <price>1930300.00</price>
-      <area>19.90</area>
-      <rooms_area>
-      <area>15.7</area>
-      <area>15.7</area>
-      </rooms_area>
-      <living_area>31.4</living_area>
-      <kitchen_area>31.4</kitchen_area>
-      <window_view>во двор и на улицу</window_view>
-      <bathroom>раздельный</bathroom>
-      <housing_type>0</housing_type>
-      </flat>
-      <flat>
-      <flat_id>258483</flat_id>
-      <apartment>172</apartment>
-      <floor>1</floor>
-      <room>2</room>
-      <plan>
-      https://fs.roomberry.ru/images/4bvf/4amcy2t4n4w0sccwc4k8w8g0k.png
-      </plan>
-      <balcony>балкон</balcony>
-      <renovation>нет</renovation>
-      <price>6959700.00</price>
-      <area>66.60</area>
-      <rooms_area>
-      <area>20.2</area>
-      <area>13.3</area>
-      <area>15.5</area>
-      </rooms_area>
-      <living_area>49</living_area>
-      <kitchen_area>20.2</kitchen_area>
-      <window_view>во двор и на улицу</window_view>
-      <bathroom>раздельный</bathroom>
-      <housing_type>0</housing_type>
-      </flat>
-      <flat>
-      <flat_id>258312</flat_id>
-      <apartment>157</apartment>
-      <floor>4</floor>
-      <room>1</room>
-      <plan>
-      https://fs.roomberry.ru/images/4bsi/9kjj85ctpngg008oksoww0kkk.png
-      </plan>
-      <balcony>балкон</balcony>
-      <renovation>нет</renovation>
-      <price>3938800.00</price>
-      <area>45.80</area>
-      <rooms_area>
-      <area>16.4</area>
-      <area>19.0</area>
-      <area>19</area>
-      <area>16.4</area>
-      </rooms_area>
-      <living_area>70.8</living_area>
-      <kitchen_area>38</kitchen_area>
-      <window_view>во двор и на улицу</window_view>
-      <bathroom>раздельный</bathroom>
-      <housing_type>0</housing_type>
-      </flat>
-      </flats>
-      </building>
+        <flats>
+            <!-- 1 -->
+            <flat>
+            <flat_id>1</flat_id>
+            <apartment>11</apartment>
+            <floor>3</floor>
+            <room>1</room>
+            <plan>
+                https://fs.roomberry.ru/images/4bsi/71dgow66h1s8ks0kgog4o0sgg.png
+            </plan>
+            <balcony>балкон</balcony>
+            <renovation>нет</renovation>
+            <price>1930300.00</price>
+            <area>19.90</area>
+        </flat>
+        <!-- 2 -->
+        <flat>
+            <flat_id>2</flat_id>
+            <apartment>22</apartment>
+            <floor>1</floor>
+            <room>2</room>
+            <plan>
+                https://fs.roomberry.ru/images/4bvf/4amcy2t4n4w0sccwc4k8w8g0k.png
+            </plan>
+            <balcony>балкон</balcony>
+            <renovation>нет</renovation>
+            <price>6959700.00</price>
+            <area>66.60</area>
+          </flat>
+          <!-- 3 -->
+          <flat>
+            <flat_id>3</flat_id>
+            <apartment>33</apartment>
+            <floor>4</floor>
+            <room>1</room>
+            <plan>
+                https://fs.roomberry.ru/images/4bsi/9kjj85ctpngg008oksoww0kkk.png
+            </plan>
+            <balcony>балкон</balcony>
+            <renovation>нет</renovation>
+            <price>3938800.00</price>
+            <area>45.80</area>
+          </flat>
+        </flats>
+    </building>
       <building>
-      <id>150402</id>
-      <fz_214>1</fz_214>
-      <name>поз. 1</name>
-      <floors>4</floors>
-      <building_state>unfinished</building_state>
-      <built_year>2020</built_year>
-      <ready_quarter>1</ready_quarter>
-      <building_phase>1</building_phase>
-      <building_type>кирпично-монолитный</building_type>
-      <flats>
-      <flat>
-      <flat_id>231820</flat_id>
-      <apartment>8</apartment>
-      <floor>2</floor>
-      <room>2</room>
-      <plan>
-      https://fs.roomberry.ru/images/4bsi/6mc1pxtigl0cssc0s0k4sgk00.png
-      </plan>
-      <balcony>балкон</balcony>
-      <renovation>нет</renovation>
-      <price>3680000.00</price>
-      <area>46.00</area>
-      <rooms_area>
-      <area>11.5</area>
-      <area>14.0</area>
-      </rooms_area>
-      <living_area>25.5</living_area>
-      <kitchen_area>10</kitchen_area>
-      <window_view>во двор и на улицу</window_view>
-      <bathroom>раздельный</bathroom>
-      <housing_type>0</housing_type>
-      </flat>
-    </flats>
+        <id>150402</id>
+        <flats>
+            <!-- 4 -->
+            <flat>
+                <flat_id>4</flat_id>
+                <apartment>44</apartment>
+                <floor>2</floor>
+                <room>2</room>
+                <plan>
+                    https://fs.roomberry.ru/images/4bsi/6mc1pxtigl0cssc0s0k4sgk00.png
+                </plan>
+                <balcony>балкон</balcony>
+                <renovation>нет</renovation>
+                <price>3680000.00</price>
+                <area>46.00</area>
+            </flat>
+        </flats>
     </building>
   </buildings>
-  <sales_info>
-  <sales_phone>89054742566</sales_phone>
-  <responsible_officer_phone>89054742566</responsible_officer_phone>
-  </sales_info>
+    <sales_info>
+        <sales_phone>89054742566</sales_phone>
+        <responsible_officer_phone>89054742566</responsible_officer_phone>
+    </sales_info>
   </complex>
 </complexes>
