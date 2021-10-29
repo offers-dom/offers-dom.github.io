@@ -2,22 +2,6 @@
   <complex>
   <id>111964</id>
   <name>ЖК «Holiday House»</name>
-  <latitude>44.802164000000000</latitude>
-  <longitude>37.420464000000000</longitude>
-  <address>
-  Россия, Краснодарский край, Анапа, с. Сукко, ул. Мирная 11
-  </address>
-  <images>
-  <image>
-  https://fs.roomberry.ru/images/4bsd/4bdc4t1xe9a8880c8cockgs4w.jpg
-  </image>
-  <image>
-  https://fs.roomberry.ru/images/4bsd/9lqijjshre4okccscocogckoo.jpg
-  </image>
-  <image>
-  https://fs.roomberry.ru/images/4bsd/dl0usmbojw8wwwcw4c8ws04ck.jpg
-  </image>
-  </images>
   <buildings>
     <building>
     <id>150403</id>
