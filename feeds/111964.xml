@@ -5,22 +5,8 @@
   <buildings>
     <building>
     <id>150403</id>
-        <flats>
-            <!-- 1 -->
-            <flat>
-            <flat_id>1</flat_id>
-            <apartment>11</apartment>
-            <floor>3</floor>
-            <room>1</room>
-            <plan>
-                https://fs.roomberry.ru/images/4bsi/71dgow66h1s8ks0kgog4o0sgg.png
-            </plan>
-            <balcony>балкон</balcony>
-            <renovation>нет</renovation>
-            <price>1930300.00</price>
-            <area>19.90</area>
-        </flat>
-        <!-- 2 -->
+    
+        <!-- 1 -->
         <flat>
             <flat_id>2</flat_id>
             <apartment>22</apartment>
@@ -34,26 +20,12 @@
             <price>6959700.00</price>
             <area>66.60</area>
           </flat>
-          <!-- 3 -->
-          <flat>
-            <flat_id>3</flat_id>
-            <apartment>33</apartment>
-            <floor>4</floor>
-            <room>1</room>
-            <plan>
-                https://fs.roomberry.ru/images/4bsi/9kjj85ctpngg008oksoww0kkk.png
-            </plan>
-            <balcony>балкон</balcony>
-            <renovation>нет</renovation>
-            <price>3938800.00</price>
-            <area>45.80</area>
-          </flat>
         </flats>
     </building>
       <building>
         <id>150402</id>
         <flats>
-            <!-- 4 -->
+            <!-- 2 -->
             <flat>
                 <flat_id>4</flat_id>
                 <apartment>44</apartment>
