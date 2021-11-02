@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>114987</id>
+		<name>Жилые дома в д. Каримово</name>
+		<latitude>57.72517</latitude>
+		<longitude>40.88218</longitude>
+		<address>Костромская обл, Костромской р-н</address>
+		<buildings>
+			<building>
+				<id>160326</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/114987/32,01.png</plan>
+						<price>2400750</price>
+						<area>32,01</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/114987/39,57.png</plan>
+						<price>2967750</price>
+						<area>39,57</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/114987/62,41.png</plan>
+						<price>3684600</price>
+						<area>62,41</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/114987/62,41.png</plan>
+						<price>3742200</price>
+						<area>62,37</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/114987/68,68.png</plan>
+						<price>4120800</price>
+						<area>68,68</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/114987/77,13.png</plan>
+						<price>4627800</price>
+						<area>77,13</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+7 (494) 222-22-11</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
