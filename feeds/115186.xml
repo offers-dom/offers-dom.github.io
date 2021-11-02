@@ -13,452 +13,138 @@
 					<flat>
 						<flat_id>1</flat_id>
 						<floor>2</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179553/13-28.JPG</plan>
-						<price>7100000</price>
-						<area>64,45</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>2</flat_id>
-						<floor>3</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179553/13-28.JPG</plan>
-						<price>7100000</price>
-						<area>64,64</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>3</flat_id>
-						<floor>2</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179554/29-41.JPG</plan>
-						<price>5200000</price>
-						<area>44,99</area> 
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>4</flat_id>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,26</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>5</flat_id>
-						<floor>3</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,52</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>6</flat_id>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,52</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>7</flat_id>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,52</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>8</flat_id>
-						<floor>6</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,52</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>9</flat_id>
-						<floor>7</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,52</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>10</flat_id>
-						<floor>8</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,52</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>11</flat_id>
-						<floor>9</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,52</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>12</flat_id>
-						<floor>12</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7300000</price>
-						<area>62,52</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>13</flat_id>
-						<floor>2</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
 						<price>5200000</price>
 						<area>41,94</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
-						<flat_id>14</flat_id>
+						<flat_id>2</flat_id>
 						<floor>3</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
 						<price>5200000</price>
 						<area>42,31</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
-						<flat_id>15</flat_id>
-						<floor>4</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
-						<price>5200000</price>
-						<area>42,31</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>16</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
-						<price>5200000</price>
-						<area>42,31</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>17</flat_id>
-						<floor>9</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
-						<price>5200000</price>
-						<area>42,31</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>18</flat_id>
-						<floor>10</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
-						<price>5200000</price>
-						<area>42,31</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>19</flat_id>
-						<floor>12</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
-						<price>5400000</price>
-						<area>42,31</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>20</flat_id>
-						<floor>13</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
-						<price>5400000</price>
-						<area>42,31</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>21</flat_id>
+						<flat_id>3</flat_id>
 						<floor>5</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>4800000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
-						<flat_id>22</flat_id>
+						<flat_id>4</flat_id>
 						<floor>6</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>4800000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
-						<flat_id>23</flat_id>
+						<flat_id>5</flat_id>
 						<floor>7</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>4800000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
-						<flat_id>24</flat_id>
-						<floor>10</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
-						<price>4800000</price>
-						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
-					</flat>
-					<flat>
-						<flat_id>25</flat_id>
+						<flat_id>6</flat_id>
 						<floor>12</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>5000000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
-						<flat_id>26</flat_id>
+						<flat_id>7</flat_id>
 						<floor>13</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>5000000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 
 					</flat>
 					<flat>
-						<flat_id>27</flat_id>
+						<flat_id>8</flat_id>
 						<floor>14</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>5000000</price>
-					        <area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
+						<area>38,91</area>
 					</flat>
 					<flat>
-						<flat_id>28</flat_id>
+						<flat_id>9</flat_id>
 						<floor>15</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>5000000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
-						<flat_id>29</flat_id>
-						<floor>16</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
-						<price>5000000</price>
-						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
-					</flat>
-					<flat>
-						<flat_id>30</flat_id>
+						<flat_id>10</flat_id>
 						<floor>17</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>5000000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
-						<flat_id>31</flat_id>
+						<flat_id>11</flat_id>
 						<floor>2</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179560/118-130.JPG</plan>
 						<price>4800000</price>
 						<area>41,3</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
-						<flat_id>32</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
-						<price>4800000</price>
-						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
-					</flat>
-					<flat>
-						<flat_id>33</flat_id>
+						<flat_id>12</flat_id>
 						<floor>6</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>4800000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
-						<flat_id>34</flat_id>
-						<floor>8</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
-						<price>4800000</price>
-						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
-					</flat>
-					<flat>
-						<flat_id>35</flat_id>
-						<floor>9</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
-						<price>4800000</price>
-						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
-					</flat>
-					<flat>
-						<flat_id>36</flat_id>
-						<floor>12</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
-						<price>5000000</price>
-						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
-					</flat>
-					<flat>
-						<flat_id>37</flat_id>
+						<flat_id>13</flat_id>
 						<floor>13</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>5000000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
-						<flat_id>38</flat_id>
+						<flat_id>14</flat_id>
 						<floor>14</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>5000000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
-						<flat_id>39</flat_id>
+						<flat_id>15</flat_id>
 						<floor>15</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>5000000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
-						<flat_id>40</flat_id>
+						<flat_id>16</flat_id>
 						<floor>16</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
 						<price>5000000</price>
 						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
 					</flat>
 					<flat>
-						<flat_id>41</flat_id>
-						<floor>17</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179557/74-89.JPG</plan>
-						<price>5000000</price>
-						<area>38,91</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
-					</flat>
-					<flat>
-						<flat_id>42</flat_id>
-						<floor>2</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179556/58-73.JPG</plan>
-						<price>5200000</price>
-						<area>41,94</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
-					</flat>
-					<flat>
-						<flat_id>43</flat_id>
+						<flat_id>17</flat_id>
 						<floor>3</floor>
 						<room>1</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15179561/131-142.JPG</plan>
 						<price>5200000</price>
 						<area>42,47</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
-					</flat>
-					<flat>
-						<flat_id>44</flat_id>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,26</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
-					</flat>
-					<flat>
-						<flat_id>45</flat_id>
-						<floor>7</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15179555/42-57.JPG</plan>
-						<price>7100000</price>
-						<area>62,52</area>
-                                                <decoration>1</decoration> 
-                                                <renovation>чистовая</renovation> 	
 					</flat>
 				</flats>
 			</building>
