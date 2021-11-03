@@ -15,7 +15,7 @@
 						<floor>2</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/75841/60,3.PNG</plan>
-						<price>4 165 000</price>
+						<price>4286000</price>
 						<area>60,3</area>
 					</flat>
 					<flat>
@@ -23,7 +23,7 @@
 						<floor>2</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/75841/37,6.PNG</plan>
-						<price>2 627 000</price>
+						<price>2702000</price>
 						<area>37,6</area>
 					</flat>
 					<flat>
@@ -31,7 +31,7 @@
 						<floor>2</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/75841/36,9.PNG</plan>
-						<price>2 579 000</price>
+						<price>2652000</price>
 						<area>36,9</area>
 					</flat>
 					<flat>
@@ -39,7 +39,7 @@
 						<floor>2</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/75841/46,2.PNG</plan>
-						<price>3 222 000</price>
+						<price>3315000</price>
 						<area>46,2</area>
 					</flat>
 					<flat>
@@ -47,7 +47,7 @@
 						<floor>2</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/75841/34,3.PNG</plan>
-						<price>2 399 000</price>
+						<price>2468000</price>
 						<area>34,3</area>
 					</flat>
 					<flat>
@@ -55,7 +55,7 @@
 						<floor>3</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/75841/60,3.PNG</plan>
-						<price>3 954 000</price>
+						<price>4075000</price>
 						<area>60,3</area>
 					</flat>
 					<flat>
@@ -63,23 +63,15 @@
 						<floor>3</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/75841/37,6.PNG</plan>
-						<price>2 444 000</price>
+						<price>2519000</price>
 						<area>37,6</area>
-					</flat>
-					<flat>
-						<flat_id>8</flat_id>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/75841/36,9.PNG</plan>
-						<price>2 398 000</price>
-						<area>36,9</area>
 					</flat>
 					<flat>
 						<flat_id>9</flat_id>
 						<floor>4</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/75841/60,3.PNG</plan>
-						<price>3 919 000</price>
+						<price>4040000</price>
 						<area>60,3</area>
 					</flat>
 					<flat>
@@ -87,7 +79,7 @@
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/75841/37,6.PNG</plan>
-						<price>2 477 000</price>
+						<price>2552000</price>
 						<area>37,6</area>
 					</flat>
 					<flat>
@@ -95,7 +87,7 @@
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/75841/36,9.PNG</plan>
-						<price>2 398 000</price>
+						<price>2472000</price>
 						<area>36,9</area>
 					</flat>
 					<flat>
@@ -103,7 +95,7 @@
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/75841/46,2.PNG</plan>
-						<price>3 038 000</price>
+						<price>3130000</price>
 						<area>46,2</area>
 					</flat>
 					<flat>
@@ -111,7 +103,7 @@
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/75841/34,3.PNG</plan>
-						<price>2 229 000</price>
+						<price>2298000</price>
 						<area>34,3</area>
 					</flat>
 					<flat>
@@ -119,42 +111,10 @@
 						<floor>5</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/75841/60,3.PNG</plan>
-						<price>4 044 000</price>
+						<price>4286000</price>
 						<area>60,3</area>
 					</flat>
-					<flat>
-						<flat_id>15</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/75841/37,6.PNG</plan>
-						<price>2 552 000</price>
-						<area>37,6</area>
-					</flat>
-					<flat>
-						<flat_id>16</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/75841/36,9.PNG</plan>
-						<price>2 505 000</price>
-						<area>36,9</area>
-					</flat>
-					<flat>
-						<flat_id>17</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/75841/46,2.PNG</plan>
-						<price>3 130 000</price>
-						<area>46,2</area>
-					</flat>
-					<flat>
-						<flat_id>18</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/75841/34,3.PNG</plan>
-						<price>2 330 000</price>
-						<area>34,3</area>
-					</flat>
-				</flats>
+					</flats>
 			</building>
 		</buildings>
 		<sales_info>
