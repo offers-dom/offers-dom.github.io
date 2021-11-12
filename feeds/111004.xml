@@ -3,9 +3,9 @@
 	<complex>
 		<id>111004</id>
 		<name>ЖК "Лайм"</name>
-		<latitude>56.206518</latitude>
-		<longitude>43.883387</longitude>
-		<address>Россия, городской округ Нижний Новгород, сельский посёлок Новинки, улица Студгородок, 18</address>
+		<latitude>56.206651</latitude>
+		<longitude>43.883972</longitude>
+		<address>Россия, городской округ Нижний Новгород, сельский посёлок Новинки, улица Студгородок, 20</address>
 		<buildings>
 			<building>
 				<id>163566</id>
