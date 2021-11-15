@@ -1,350 +1,199 @@
 <complexes>
-<complex>
-<id>110563</id>
-<name>ЖК Южный</name>
-<latitude>46.96819</latitude>
-<longitude>142.74195</longitude>
-<address>г. Южно-Сахалинск, ул Фабричная</address>
-<buildings>
-<building>
-<id>161323</id>
-<flats>
-<flat>
-<flat_id>1</flat_id>
-<floor>3</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57</area>
-</flat>
-<flat>
-<flat_id>2</flat_id>
-<floor>4</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57</area>
-</flat>
-<flat>
-<flat_id>3</flat_id>
-<floor>5</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
-<price>9500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57</area>
-</flat>
-<flat>
-<flat_id>4</flat_id>
-<floor>6</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
-<price>9500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57</area>
-</flat>
-<flat>
-<flat_id>5</flat_id>
-<floor>8</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
-<price>9800000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57</area>
-</flat>
-<flat>
-<flat_id>6</flat_id>
-<floor>9</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
-<price>9800000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57</area>
-</flat>
-<flat>
-<flat_id>7</flat_id>
-<floor>10</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
-<price>9800000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57</area>
-</flat>
-<flat>
-<flat_id>8</flat_id>
-<floor>5</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/8-15.jpg</plan>
-<price>9500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,1</area>
-</flat>
-<flat>
-<flat_id>9</flat_id>
-<floor>8</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/8-15.jpg</plan>
-<price>9800000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,1</area>
-</flat>
-<flat>
-<flat_id>10</flat_id>
-<floor>9</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/8-15.jpg</plan>
-<price>9800000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,1</area>
-</flat>
-<flat>
-<flat_id>11</flat_id>
-<floor>5</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/8-15.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,1</area>
-</flat>
-<flat>
-<flat_id>12</flat_id>
-<floor>5</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/8-15.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,1</area>
-</flat>
-<flat>
-<flat_id>13</flat_id>
-<floor>8</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/8-15.jpg</plan>
-<price>9500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,1</area>
-</flat>
-<flat>
-<flat_id>14</flat_id>
-<floor>9</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/8-15.jpg</plan>
-<price>9500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,1</area>
-</flat>
-<flat>
-<flat_id>15</flat_id>
-<floor>10</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/8-15.jpg</plan>
-<price>9500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,1</area>
-</flat>
-<flat>
-<flat_id>16</flat_id>
-<floor>2</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/16.jpg</plan>
-<price>9000000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,5</area>
-</flat>
-<flat>
-<flat_id>17</flat_id>
-<floor>2</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/17-20.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,7</area>
-</flat>
-<flat>
-<flat_id>18</flat_id>
-<floor>4</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/17-20.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,7</area>
-</flat>
-<flat>
-<flat_id>19</flat_id>
-<floor>7</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/17-20.jpg</plan>
-<price>9500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,7</area>
-</flat>
-<flat>
-<flat_id>20</flat_id>
-<floor>9</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/17-20.jpg</plan>
-<price>9800000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>57,7</area>
-</flat>
-<flat>
-<flat_id>21</flat_id>
-<floor>2</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/21.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>58,4</area>
-</flat>
-<flat>
-<flat_id>22</flat_id>
-<floor>3</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/22-26.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>58,5</area>
-</flat>
-<flat>
-<flat_id>23</flat_id>
-<floor>4</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/22-26.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>58,5</area>
-</flat>
-<flat>
-<flat_id>24</flat_id>
-<floor>5</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/22-26.jpg</plan>
-<price>9500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>58,5</area>
-</flat>
-<flat>
-<flat_id>25</flat_id>
-<floor>6</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/22-26.jpg</plan>
-<price>9500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>58,5</area>
-</flat>
-<flat>
-<flat_id>26</flat_id>
-<floor>8</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/22-26.jpg</plan>
-<price>9800000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>58,5</area>
-</flat>
-<flat>
-<flat_id>27</flat_id>
-<floor>2</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/27.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>58,9</area>
-</flat>
-<flat>
-<flat_id>28</flat_id>
-<floor>2</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/28-29.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>59</area>
-</flat>
-<flat>
-<flat_id>29</flat_id>
-<floor>2</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110563/28-29.jpg</plan>
-<price>9300000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>59</area>
-</flat>
-<flat>
-<flat_id>30</flat_id>
-<floor>6</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/110563/30-33.jpg</plan>
-<price>12000000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>76,1</area>
-</flat>
-<flat>
-<flat_id>31</flat_id>
-<floor>8</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/110563/30-33.jpg</plan>
-<price>12500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>76,1</area>
-</flat>
-<flat>
-<flat_id>32</flat_id>
-<floor>9</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/110563/30-33.jpg</plan>
-<price>12500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>76,1</area>
-</flat>
-<flat>
-<flat_id>33</flat_id>
-<floor>10</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/110563/30-33.jpg</plan>
-<price>12500000</price>
-<decoration>1</decoration> 
-<renovation>чистовая</renovation> 
-<area>76,1</area>
-</flat>
-</flats>
-</building>
-</buildings>
-<sales_info>
-<sales_phone>+74242456456</sales_phone>
-</sales_info>
-</complex>
+	<complex>
+		<id>110563</id>
+		<name>ЖК Южный</name>
+		<latitude>46.96819</latitude>
+		<longitude>142.74195</longitude>
+		<address>г. Южно-Сахалинск, ул Фабричная</address>
+		<buildings>
+			<building>
+				<id>161323</id>
+				<flats>
+					<flat>
+						<flat_id>14</flat_id>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/22-26.jpg</plan>
+						<price>9500000</price>
+						<area>58,4</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>23</flat_id>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/22-26.jpg</plan>
+						<price>10000000</price>
+						<area>58,4</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>24</flat_id>
+						<floor>8</floor>
+						<room>3</room>
+						<plan>offers-dom.github.io/img/110563/30-33.jpg</plan>
+						<price>13500000</price>
+						<area>79,3</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>26</flat_id>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/22-26.jpg</plan>
+						<price>10000000</price>
+						<area>58,4</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>30</flat_id>
+						<floor>10</floor>
+						<room>3</room>
+						<plan>offers-dom.github.io/img/110563/30-33.jpg</plan>
+						<price>14000000</price>
+						<area>79,3</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>31</flat_id>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/21.jpg</plan>
+						<price>9800000</price>
+						<area>59,9</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>38</flat_id>
+						<floor>4</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
+						<price>9500000</price>
+						<area>58,3</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>41</flat_id>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
+						<price>9800000</price>
+						<area>58,3</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>44</flat_id>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
+						<price>9800000</price>
+						<area>58,3</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>46</flat_id>
+						<floor>7</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/28-29.jpg</plan>
+						<price>10300000</price>
+						<area>59,2</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>50</flat_id>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
+						<price>10000000</price>
+						<area>58,3</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>52</flat_id>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/28-29.jpg</plan>
+						<price>10300000</price>
+						<area>59,2</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>53</flat_id>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
+						<price>10000000</price>
+						<area>58,3</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>56</flat_id>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/1-7.jpg</plan>
+						<price>10000000</price>
+						<area>58,3</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>103</flat_id>
+						<floor>4</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/16.jpg</plan>
+						<price>9500000</price>
+						<area>58,6</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>119</flat_id>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/16.jpg</plan>
+						<price>9800000</price>
+						<area>58,6</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>123</flat_id>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/16.jpg</plan>
+						<price>9800000</price>
+						<area>58,6</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>127</flat_id>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110563/16.jpg</plan>
+						<price>9800000</price>
+						<area>58,6</area>
+                                                <decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+74242456456</sales_phone>
+		</sales_info>
+	</complex>
 </complexes>
-
