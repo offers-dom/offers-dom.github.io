@@ -1,3103 +1,531 @@
 <complexes>
-<complex>
-<id>61064</id>
-<name>Репников</name>
-<latitude>48.71385</latitude>
-<longitude>44.51059</longitude>
-<address>ул. Пархоменко, д.2</address>
-<description_main>
-<title>ЖК Репников</title>
-</description_main>
-<description_secondary>
-<title/>
-<text/>
-</description_secondary>
-<images/>
-<infrastructure>
-<parking>Подземная</parking>
-<security>Да</security>
-<sports_ground>Да</sports_ground>
-<playground>Да</playground>
-<school/>
-<kindergarten/>
-<fenced_area>Да</fenced_area>
-</infrastructure>
-<videos>
-<video>
-<type>youtube</type>
-<url/>
-</video>
-</videos>
-<profits_main>
-<profit_main>
-<title/>
-<text/>
-<image/>
-</profit_main>
-</profits_main>
-<profits_secondary>
-<profit_secondary>
-<title/>
-<text/>
-<image/>
-</profit_secondary>
-</profits_secondary>
-<discounts>
-<discount>
-<name/>
-<description/>
-<image/>
-<site/>
-</discount>
-</discounts>
-<sales_info>
-<sales_phone>79880606248</sales_phone>
-<responsible_officer_phone>79880606248</responsible_officer_phone>
-<sales_address>г. Волгоград, ул. 10 Дивизии НКВД д. 1а</sales_address>
-<sales_latitude>48.705712</sales_latitude>
-<sales_longitude>44.507561</sales_longitude>
-<work_days>
-<work_day>
-<day>вс</day>
-<open_at>00:00</open_at>
-<close_at>00:00</close_at>
-</work_day>
-<work_day>
-<day>пн</day>
-<open_at>09:00</open_at>
-<close_at>18:00</close_at>
-</work_day>
-<work_day>
-<day>вт</day>
-<open_at>09:00</open_at>
-<close_at>18:00</close_at>
-</work_day>
-<work_day>
-<day>ср</day>
-<open_at>09:00</open_at>
-<close_at>18:00</close_at>
-</work_day>
-<work_day>
-<day>чт</day>
-<open_at>09:00</open_at>
-<close_at>18:00</close_at>
-</work_day>
-<work_day>
-<day>пт</day>
-<open_at>09:00</open_at>
-<close_at>17:00</close_at>
-</work_day>
-<work_day>
-<day>сб</day>
-<open_at>00:00</open_at>
-<close_at>00:00</close_at>
-</work_day>
-</work_days>
-</sales_info>
-<developer>
-<id>225385</id>
-<name>Лига Сервис</name>
-<phone>+79880606248</phone>
-<site>https://repnikov-house.ru/</site>
-<logo>
-https://plan7.ru/img/img/cat_sk/83/logo/cc716790bedfe985.png
-</logo>
-</developer>
-<buildings>
-<building>
-<id>125719</id>
-<name>1, под.1</name>
-<fz_214>Нет</fz_214>
-<floors>23</floors>
-<floors_ready>23</floors_ready>
-<building_state>ready</building_state>
-<built_year>2020</built_year>
-<ready_quarter>4</ready_quarter>
-<building_phase>1</building_phase>
-<building_type>Монолитный</building_type>
-<image/>
-<flats>
-<flat>
-<flat_id>21520</flat_id>
-<apartment>9</apartment>
-<room>3</room>
-<area>107</area>
-<price>8800000</price>
-<floor>3</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21522</flat_id>
-<apartment>11</apartment>
-<room>1</room>
-<area>46.2</area>
-<price>3675000</price>
-<floor>3</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21524</flat_id>
-<apartment>13</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>3675000</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21527</flat_id>
-<apartment>16</apartment>
-<room>1</room>
-<area>51.8</area>
-<price>4036000</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21528</flat_id>
-<apartment>17</apartment>
-<room>2</room>
-<area>77.1</area>
-<price>8796000</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21529</flat_id>
-<apartment>18</apartment>
-<room>1</room>
-<area>43.8</area>
-<price>4204000</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21531</flat_id>
-<apartment>20</apartment>
-<room>3</room>
-<area>107.3</area>
-<price>8800000</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21533</flat_id>
-<apartment>22</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21553</flat_id>
-<apartment>25</apartment>
-<room>1</room>
-<area>45.5</area>
-<price>3802500</price>
-<floor>5</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21554</flat_id>
-<apartment>26</apartment>
-<room>1</room>
-<area>47.1</area>
-<price>4372000</price>
-<floor>5</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21555</flat_id>
-<apartment>27</apartment>
-<room>1</room>
-<area>51.9</area>
-<price>4612000</price>
-<floor>5</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21559</flat_id>
-<apartment>31</apartment>
-<room>3</room>
-<area>106.7</area>
-<price>8800000</price>
-<floor>5</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21565</flat_id>
-<apartment>37</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>4372000</price>
-<floor>6</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21566</flat_id>
-<apartment>38</apartment>
-<room>1</room>
-<area>51.8</area>
-<price>4604000</price>
-<floor>6</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21568</flat_id>
-<apartment>40</apartment>
-<room>1</room>
-<area>43.8</area>
-<price>4260000</price>
-<floor>6</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21570</flat_id>
-<apartment>42</apartment>
-<room>3</room>
-<area>107.3</area>
-<price>8800000</price>
-<floor>6</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21572</flat_id>
-<apartment>44</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>6</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21576</flat_id>
-<apartment>48</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>4372000</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21577</flat_id>
-<apartment>49</apartment>
-<room>1</room>
-<area>51.8</area>
-<price>4812000</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21579</flat_id>
-<apartment>51</apartment>
-<room>1</room>
-<area>43.8</area>
-<price>4085600</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21580</flat_id>
-<apartment>52</apartment>
-<room>2</room>
-<area>71.2</area>
-<price>6700000</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21583</flat_id>
-<apartment>55</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21584</flat_id>
-<apartment>56</apartment>
-<room>1</room>
-<area>61.6</area>
-<price>4372000</price>
-<floor>8</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21587</flat_id>
-<apartment>59</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>4372000</price>
-<floor>8</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21588</flat_id>
-<apartment>60</apartment>
-<room>1</room>
-<area>51.8</area>
-<price>4812000</price>
-<floor>8</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21594</flat_id>
-<apartment>66</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>8</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21599</flat_id>
-<apartment>71</apartment>
-<room>1</room>
-<area>51.8</area>
-<price>4218000</price>
-<floor>9</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21602</flat_id>
-<apartment>74</apartment>
-<room>2</room>
-<area>71.1</area>
-<price>8796000</price>
-<floor>9</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21605</flat_id>
-<apartment>77</apartment>
-<room>1</room>
-<area>46.1</area>
-<price>3675000</price>
-<floor>9</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21606</flat_id>
-<apartment>78</apartment>
-<room>1</room>
-<area>61.5</area>
-<price>4365000</price>
-<floor>10</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21607</flat_id>
-<apartment>79</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>3675000</price>
-<floor>10</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21609</flat_id>
-<apartment>81</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>4404000</price>
-<floor>10</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21610</flat_id>
-<apartment>82</apartment>
-<room>1</room>
-<area>51.8</area>
-<price>4732000</price>
-<floor>10</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21616</flat_id>
-<apartment>88</apartment>
-<room>1</room>
-<area>46.2</area>
-<price>3675000</price>
-<floor>10</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21617</flat_id>
-<apartment>89</apartment>
-<room>1</room>
-<area>61.5</area>
-<price>4365000</price>
-<floor>11</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21618</flat_id>
-<apartment>90</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>3675000</price>
-<floor>11</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21621</flat_id>
-<apartment>93</apartment>
-<room>1</room>
-<area>51.8</area>
-<price>4148000</price>
-<floor>11</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21627</flat_id>
-<apartment>99</apartment>
-<room>1</room>
-<area>46.2</area>
-<price>3675000</price>
-<floor>11</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21628</flat_id>
-<apartment>100</apartment>
-<room>1</room>
-<area>61.5</area>
-<price>4365000</price>
-<floor>12</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21629</flat_id>
-<apartment>101</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>3675000</price>
-<floor>12</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21634</flat_id>
-<apartment>106</apartment>
-<room>1</room>
-<area>43.6</area>
-<price>4072000</price>
-<floor>12</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21638</flat_id>
-<apartment>110</apartment>
-<room>1</room>
-<area>46.2</area>
-<price>3675000</price>
-<floor>12</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21639</flat_id>
-<apartment>111</apartment>
-<room>1</room>
-<area>61.5</area>
-<price>4365000</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21640</flat_id>
-<apartment>112</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>3675000</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21642</flat_id>
-<apartment>114</apartment>
-<room>1</room>
-<area>47.5</area>
-<price>4404000</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21643</flat_id>
-<apartment>115</apartment>
-<room>1</room>
-<area>51.8</area>
-<price>4440000</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21645</flat_id>
-<apartment>117</apartment>
-<room>1</room>
-<area>43.6</area>
-<price>4072000</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21649</flat_id>
-<apartment>121</apartment>
-<room>1</room>
-<area>46.2</area>
-<price>3675000</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21650</flat_id>
-<apartment>122</apartment>
-<room>1</room>
-<area>61.3</area>
-<price>4351000</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21651</flat_id>
-<apartment>123</apartment>
-<room>1</room>
-<area>47.3</area>
-<price>3675000</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21656</flat_id>
-<apartment>128</apartment>
-<room>1</room>
-<area>43.5</area>
-<price>4119600</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21660</flat_id>
-<apartment>132</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21661</flat_id>
-<apartment>133</apartment>
-<room>1</room>
-<area>61.3</area>
-<price>4351000</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21662</flat_id>
-<apartment>134</apartment>
-<room>1</room>
-<area>47.3</area>
-<price>3675000</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21666</flat_id>
-<apartment>138</apartment>
-<room>2</room>
-<area>77.2</area>
-<price>8796000</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21667</flat_id>
-<apartment>139</apartment>
-<room>1</room>
-<area>43.5</area>
-<price>4119600</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21671</flat_id>
-<apartment>143</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21672</flat_id>
-<apartment>144</apartment>
-<room>1</room>
-<area>61.3</area>
-<price>4351000</price>
-<floor>16</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21678</flat_id>
-<apartment>150</apartment>
-<room>1</room>
-<area>43.5</area>
-<price>4119600</price>
-<floor>16</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21682</flat_id>
-<apartment>154</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>16</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21683</flat_id>
-<apartment>155</apartment>
-<room>1</room>
-<area>61.3</area>
-<price>4351000</price>
-<floor>17</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21693</flat_id>
-<apartment>165</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>17</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21694</flat_id>
-<apartment>166</apartment>
-<room>1</room>
-<area>61.3</area>
-<price>4351000</price>
-<floor>18</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21704</flat_id>
-<apartment>176</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>18</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21705</flat_id>
-<apartment>177</apartment>
-<room>1</room>
-<area>61.3</area>
-<price>4351000</price>
-<floor>19</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21706</flat_id>
-<apartment>178</apartment>
-<room>1</room>
-<area>47.3</area>
-<price>3763000</price>
-<floor>19</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21715</flat_id>
-<apartment>187</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>19</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21716</flat_id>
-<apartment>188</apartment>
-<room>1</room>
-<area>61.1</area>
-<price>4337000</price>
-<floor>20</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21726</flat_id>
-<apartment>198</apartment>
-<room>1</room>
-<area>46</area>
-<price>3675000</price>
-<floor>20</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21727</flat_id>
-<apartment>199</apartment>
-<room>1</room>
-<area>43.9</area>
-<price>3133000</price>
-<floor>21</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176924/plan_floor_21.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21733</flat_id>
-<apartment>205</apartment>
-<room>1</room>
-<area>56</area>
-<price>4540000</price>
-<floor>21</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176924/plan_floor_21.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21737</flat_id>
-<apartment>209</apartment>
-<room>1</room>
-<area>45.9</area>
-<price>3675000</price>
-<floor>21</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176924/plan_floor_21.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21754</flat_id>
-<apartment>217</apartment>
-<room>1</room>
-<area>46.3</area>
-<price>3675000</price>
-<floor>3</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21756</flat_id>
-<apartment>219</apartment>
-<room>1</room>
-<area>54.4</area>
-<price>4085600</price>
-<floor>3</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21757</flat_id>
-<apartment>220</apartment>
-<room>1</room>
-<area>46.2</area>
-<price>3675000</price>
-<floor>3</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21759</flat_id>
-<apartment>222</apartment>
-<room>1</room>
-<area>43.1</area>
-<price>3675000</price>
-<floor>3</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21761</flat_id>
-<apartment>224</apartment>
-<room>1</room>
-<area>48.8</area>
-<price>4079400</price>
-<floor>3</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21763</flat_id>
-<apartment>226</apartment>
-<room>1</room>
-<area>51.3</area>
-<price>3888400</price>
-<floor>3</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21766</flat_id>
-<apartment>229</apartment>
-<room>1</room>
-<area>47.4</area>
-<price>3675000</price>
-<floor>3</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21768</flat_id>
-<apartment>231</apartment>
-<room>1</room>
-<area>46.1</area>
-<price>3675000</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21770</flat_id>
-<apartment>233</apartment>
-<room>1</room>
-<area>54.1</area>
-<price>4065200</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21775</flat_id>
-<apartment>238</apartment>
-<room>1</room>
-<area>48.8</area>
-<price>4079400</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21777</flat_id>
-<apartment>240</apartment>
-<room>1</room>
-<area>51.3</area>
-<price>3902000</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21778</flat_id>
-<apartment>241</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3786400</price>
-<floor>4</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21782</flat_id>
-<apartment>245</apartment>
-<room>1</room>
-<area>46.1</area>
-<price>3675000</price>
-<floor>5</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21789</flat_id>
-<apartment>252</apartment>
-<room>1</room>
-<area>48.7</area>
-<price>4073100</price>
-<floor>5</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21791</flat_id>
-<apartment>254</apartment>
-<room>1</room>
-<area>51.3</area>
-<price>3888400</price>
-<floor>5</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21798</flat_id>
-<apartment>261</apartment>
-<room>1</room>
-<area>54.1</area>
-<price>4065200</price>
-<floor>6</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21805</flat_id>
-<apartment>268</apartment>
-<room>1</room>
-<area>51.2</area>
-<price>3895200</price>
-<floor>6</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21806</flat_id>
-<apartment>269</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3786400</price>
-<floor>6</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21810</flat_id>
-<apartment>273</apartment>
-<room>1</room>
-<area>46.1</area>
-<price>3675000</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21815</flat_id>
-<apartment>278</apartment>
-<room>1</room>
-<area>42.7</area>
-<price>3675000</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21816</flat_id>
-<apartment>279</apartment>
-<room>1</room>
-<area>38.6</area>
-<price>3675000</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21817</flat_id>
-<apartment>280</apartment>
-<room>1</room>
-<area>48.8</area>
-<price>4066800</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21819</flat_id>
-<apartment>282</apartment>
-<room>1</room>
-<area>51.2</area>
-<price>4072000</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21820</flat_id>
-<apartment>283</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3772800</price>
-<floor>7</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21824</flat_id>
-<apartment>287</apartment>
-<room>1</room>
-<area>46.1</area>
-<price>3675000</price>
-<floor>8</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21826</flat_id>
-<apartment>289</apartment>
-<room>1</room>
-<area>54.1</area>
-<price>4065200</price>
-<floor>8</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21831</flat_id>
-<apartment>294</apartment>
-<room>1</room>
-<area>48.8</area>
-<price>4066800</price>
-<floor>8</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21838</flat_id>
-<apartment>301</apartment>
-<room>1</room>
-<area>46.5</area>
-<price>3675000</price>
-<floor>9</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21840</flat_id>
-<apartment>303</apartment>
-<room>1</room>
-<area>54</area>
-<price>4058400</price>
-<floor>9</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21845</flat_id>
-<apartment>308</apartment>
-<room>1</room>
-<area>48.7</area>
-<price>4060500</price>
-<floor>9</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21847</flat_id>
-<apartment>310</apartment>
-<room>1</room>
-<area>51.2</area>
-<price>4072000</price>
-<floor>9</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21848</flat_id>
-<apartment>311</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3772800</price>
-<floor>9</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21852</flat_id>
-<apartment>315</apartment>
-<room>1</room>
-<area>46.6</area>
-<price>3675000</price>
-<floor>10</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21854</flat_id>
-<apartment>317</apartment>
-<room>1</room>
-<area>54</area>
-<price>4058400</price>
-<floor>10</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21861</flat_id>
-<apartment>324</apartment>
-<room>1</room>
-<area>51.2</area>
-<price>3990400</price>
-<floor>10</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21862</flat_id>
-<apartment>325</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3800000</price>
-<floor>10</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21866</flat_id>
-<apartment>329</apartment>
-<room>1</room>
-<area>46.6</area>
-<price>3675000</price>
-<floor>11</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21873</flat_id>
-<apartment>336</apartment>
-<room>1</room>
-<area>48.7</area>
-<price>4073100</price>
-<floor>11</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21875</flat_id>
-<apartment>338</apartment>
-<room>1</room>
-<area>51.2</area>
-<price>3990400</price>
-<floor>11</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21876</flat_id>
-<apartment>339</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3800000</price>
-<floor>11</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21882</flat_id>
-<apartment>345</apartment>
-<room>1</room>
-<area>54</area>
-<price>4058400</price>
-<floor>12</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21886</flat_id>
-<apartment>349</apartment>
-<room>1</room>
-<area>38.5</area>
-<price>3675000</price>
-<floor>12</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21887</flat_id>
-<apartment>350</apartment>
-<room>1</room>
-<area>48.7</area>
-<price>4073100</price>
-<floor>12</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21889</flat_id>
-<apartment>352</apartment>
-<room>1</room>
-<area>51.2</area>
-<price>3990400</price>
-<floor>12</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21890</flat_id>
-<apartment>353</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3800000</price>
-<floor>12</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21894</flat_id>
-<apartment>357</apartment>
-<room>1</room>
-<area>46.6</area>
-<price>3675000</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21896</flat_id>
-<apartment>359</apartment>
-<room>1</room>
-<area>54</area>
-<price>4058400</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21900</flat_id>
-<apartment>363</apartment>
-<room>1</room>
-<area>38.5</area>
-<price>3675000</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21901</flat_id>
-<apartment>364</apartment>
-<room>1</room>
-<area>48.7</area>
-<price>4073100</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21903</flat_id>
-<apartment>366</apartment>
-<room>1</room>
-<area>51.2</area>
-<price>3990400</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21904</flat_id>
-<apartment>367</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3800000</price>
-<floor>13</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21908</flat_id>
-<apartment>371</apartment>
-<room>1</room>
-<area>46.4</area>
-<price>3675000</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21910</flat_id>
-<apartment>373</apartment>
-<room>1</room>
-<area>53.8</area>
-<price>4044800</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21913</flat_id>
-<apartment>376</apartment>
-<room>1</room>
-<area>42.6</area>
-<price>3675000</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21915</flat_id>
-<apartment>378</apartment>
-<room>1</room>
-<area>48.6</area>
-<price>4066800</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21917</flat_id>
-<apartment>380</apartment>
-<room>1</room>
-<area>51.2</area>
-<price>3990400</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21918</flat_id>
-<apartment>381</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3800000</price>
-<floor>14</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21922</flat_id>
-<apartment>385</apartment>
-<room>1</room>
-<area>46.4</area>
-<price>3675000</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21924</flat_id>
-<apartment>387</apartment>
-<room>1</room>
-<area>53.8</area>
-<price>4044800</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21929</flat_id>
-<apartment>392</apartment>
-<room>1</room>
-<area>48.6</area>
-<price>4066800</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21931</flat_id>
-<apartment>394</apartment>
-<room>1</room>
-<area>51.2</area>
-<price>3990400</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21932</flat_id>
-<apartment>395</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3800000</price>
-<floor>15</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21936</flat_id>
-<apartment>399</apartment>
-<room>1</room>
-<area>46.4</area>
-<price>3675000</price>
-<floor>16</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21938</flat_id>
-<apartment>401</apartment>
-<area>53.8</area>
-<price>4044800</price>
-<floor>16</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21943</flat_id>
-<apartment>406</apartment>
-<room>1</room>
-<area>48.6</area>
-<price>4066800</price>
-<floor>16</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21952</flat_id>
-<apartment>415</apartment>
-<room>1</room>
-<area>53.8</area>
-<price>4044800</price>
-<floor>17</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21957</flat_id>
-<apartment>420</apartment>
-<room>1</room>
-<area>48.6</area>
-<price>4066800</price>
-<floor>17</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21963</flat_id>
-<apartment>426</apartment>
-<room>1</room>
-<area>62</area>
-<price>5020000</price>
-<floor>17</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21971</flat_id>
-<apartment>434</apartment>
-<room>1</room>
-<area>48.6</area>
-<price>4384800</price>
-<floor>18</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21972</flat_id>
-<apartment>435</apartment>
-<room>1</room>
-<area>30.6</area>
-<price>3675000</price>
-<floor>18</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21978</flat_id>
-<apartment>441</apartment>
-<room>1</room>
-<area>46.4</area>
-<price>3675000 </price>
-<floor>19</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21988</flat_id>
-<apartment>451</apartment>
-<room>1</room>
-<area>48.2</area>
-<price>3800000</price>
-<floor>19</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21991</flat_id>
-<apartment>454</apartment>
-<room>1</room>
-<area>62</area>
-<price>5020000</price>
-<floor>19</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>нет</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21992</flat_id>
-<apartment>455</apartment>
-<room>1</room>
-<area>298.3</area>
-<price>25072500</price>
-<floor>20</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>раздельный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21993</flat_id>
-<apartment>456</apartment>
-<room>2</room>
-<area>92</area>
-<price>8796000</price>
-<floor>20</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21994</flat_id>
-<apartment>457</apartment>
-<room>1</room>
-<area>82.3</area>
-<price>7940000</price>
-<floor>20</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-<flat>
-<flat_id>21995</flat_id>
-<apartment>458</apartment>
-<room>1</room>
-<area>40.9</area>
-<price>4403500</price>
-<floor>20</floor>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176923/plan_floor_3-20.png
-</plan>
-<balcony>лоджия</balcony>
-<renovation>нет</renovation>
-<kitchen_area>0</kitchen_area>
-<living_area>0</living_area>
-<window_view>на улицу</window_view>
-<bathroom>совмещенный</bathroom>
-<rooms_area>
-<area>0</area>
-</rooms_area>
-</flat>
-</flats>
-</building>
-</buildings>
-</complex>
+	<complex>
+		<id>61064</id>
+		<name>Репников</name>
+		<latitude>48.71385</latitude>
+		<longitude>44.51059</longitude>
+		<address>ул. Пархоменко, д.2</address>
+		<buildings>
+			<building>
+				<id>125719</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>8905000</price>
+						<area>117,4</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4372000</price>
+						<area>53,9</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<floor>4</floor>
+						<room>2</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>8122500</price>
+						<area>107,5</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4157000</price>
+						<area>48,2</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<floor>5</floor>
+						<room>3</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>9516000</price>
+						<area>117,7</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<floor>6</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4911000</price>
+						<area>53,9</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<floor>6</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4717600</price>
+						<area>56,8</area>
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<floor>7</floor>
+						<room>2</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>9735000</price>
+						<area>107,5</area>
+					</flat>
+					<flat>
+						<flat_id>9</flat_id>
+						<floor>7</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4796000</price>
+						<area>59,2</area>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4930800</price>
+						<area>59,4</area>
+					</flat>
+					<flat>
+						<flat_id>11</flat_id>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4500000</price>
+						<area>59,2</area>
+					</flat>
+					<flat>
+						<flat_id>12</flat_id>
+						<floor>9</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4672500</price>
+						<area>61,5</area>
+					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<floor>9</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4780000</price>
+						<area>59</area>
+					</flat>
+					<flat>
+						<flat_id>14</flat_id>
+						<floor>12</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4780000</price>
+						<area>59</area>
+					</flat>
+					<flat>
+						<flat_id>15</flat_id>
+						<floor>16</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4836000</price>
+						<area>59,7</area>
+					</flat>
+					<flat>
+						<flat_id>16</flat_id>
+						<floor>18</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5025300</price>
+						<area>61,3</area>
+					</flat>
+					<flat>
+						<flat_id>17</flat_id>
+						<floor>20</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5009100</price>
+						<area>61,1</area>
+					</flat>
+					<flat>
+						<flat_id>18</flat_id>
+						<floor>21</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5161500</price>
+						<area>53,7</area>
+					</flat>
+					<flat>
+						<flat_id>19</flat_id>
+						<floor>21</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5740000</price>
+						<area>56,8</area>
+					</flat>
+					<flat>
+						<flat_id>20</flat_id>
+						<floor>21</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5100000</price>
+						<area>56</area>
+					</flat>
+					<flat>
+						<flat_id>21</flat_id>
+						<floor>21</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>28599000</price>
+						<area>317,1</area>
+					</flat>
+					<flat>
+						<flat_id>22</flat_id>
+						<floor>22</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>10140000</price>
+						<area>112</area>
+					</flat>
+					<flat>
+						<flat_id>23</flat_id>
+						<floor>22</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>50055000</price>
+						<area>555,5</area>
+					</flat>
+					<flat>
+						<flat_id>24</flat_id>
+						<floor>23</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>30636000</price>
+						<area>382,2</area>
+					</flat>
+					<flat>
+						<flat_id>25</flat_id>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4845000</price>
+						<area>63,8</area>
+					</flat>
+					<flat>
+						<flat_id>26</flat_id>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4185000</price>
+						<area>55</area>
+					</flat>
+					<flat>
+						<flat_id>27</flat_id>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4845000</price>
+						<area>63,8</area>
+					</flat>
+					<flat>
+						<flat_id>28</flat_id>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5156000</price>
+						<area>63,7</area>
+					</flat>
+					<flat>
+						<flat_id>29</flat_id>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4564000</price>
+						<area>56,3</area>
+					</flat>
+					<flat>
+						<flat_id>30</flat_id>
+						<floor>7</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4477500</price>
+						<area>58,9</area>
+					</flat>
+					<flat>
+						<flat_id>31</flat_id>
+						<floor>7</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5148000</price>
+						<area>63,6</area>
+					</flat>
+					<flat>
+						<flat_id>32</flat_id>
+						<floor>7</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4780000</price>
+						<area>59</area>
+					</flat>
+					<flat>
+						<flat_id>33</flat_id>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5148000</price>
+						<area>63,6</area>
+					</flat>
+					<flat>
+						<flat_id>34</flat_id>
+						<floor>9</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4764000</price>
+						<area>58,8</area>
+					</flat>
+					<flat>
+						<flat_id>35</flat_id>
+						<floor>9</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5140000</price>
+						<area>63,5</area>
+					</flat>
+					<flat>
+						<flat_id>36</flat_id>
+						<floor>9</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4780000</price>
+						<area>59</area>
+					</flat>
+					<flat>
+						<flat_id>37</flat_id>
+						<floor>10</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4764000</price>
+						<area>58,8</area>
+					</flat>
+					<flat>
+						<flat_id>38</flat_id>
+						<floor>10</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4684000</price>
+						<area>57,8</area>
+					</flat>
+					<flat>
+						<flat_id>39</flat_id>
+						<floor>10</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4460000</price>
+						<area>55</area>
+					</flat>
+					<flat>
+						<flat_id>40</flat_id>
+						<floor>11</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4470000</price>
+						<area>58,8</area>
+					</flat>
+					<flat>
+						<flat_id>41</flat_id>
+						<floor>11</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5156000</price>
+						<area>63,7</area>
+					</flat>
+					<flat>
+						<flat_id>42</flat_id>
+						<floor>11</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4684000</price>
+						<area>57,8</area>
+					</flat>
+					<flat>
+						<flat_id>43</flat_id>
+						<floor>12</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4764000</price>
+						<area>58,8</area>
+					</flat>
+					<flat>
+						<flat_id>44</flat_id>
+						<floor>12</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5156000</price>
+						<area>63,7</area>
+					</flat>
+					<flat>
+						<flat_id>45</flat_id>
+						<floor>12</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4684000</price>
+						<area>57,8</area>
+					</flat>
+					<flat>
+						<flat_id>46</flat_id>
+						<floor>12</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4460000</price>
+						<area>55</area>
+					</flat>
+					<flat>
+						<flat_id>47</flat_id>
+						<floor>13</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4764000</price>
+						<area>58,8</area>
+					</flat>
+					<flat>
+						<flat_id>48</flat_id>
+						<floor>13</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5156000</price>
+						<area>63,7</area>
+					</flat>
+					<flat>
+						<flat_id>49</flat_id>
+						<floor>13</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4684000</price>
+						<area>57,8</area>
+					</flat>
+					<flat>
+						<flat_id>50</flat_id>
+						<floor>14</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5148000</price>
+						<area>63,6</area>
+					</flat>
+					<flat>
+						<flat_id>51</flat_id>
+						<floor>14</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4684000</price>
+						<area>57,8</area>
+					</flat>
+					<flat>
+						<flat_id>52</flat_id>
+						<floor>14</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4185000</price>
+						<area>55</area>
+					</flat>
+					<flat>
+						<flat_id>53</flat_id>
+						<floor>15</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5148000</price>
+						<area>63,6</area>
+					</flat>
+					<flat>
+						<flat_id>54</flat_id>
+						<floor>15</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4684000</price>
+						<area>57,8</area>
+					</flat>
+					<flat>
+						<flat_id>55</flat_id>
+						<floor>15</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4460000</price>
+						<area>55</area>
+					</flat>
+					<flat>
+						<flat_id>56</flat_id>
+						<floor>16</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5148000</price>
+						<area>63,6</area>
+					</flat>
+					<flat>
+						<flat_id>57</flat_id>
+						<floor>17</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4748000</price>
+						<area>58,6</area>
+					</flat>
+					<flat>
+						<flat_id>58</flat_id>
+						<floor>17</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5148000</price>
+						<area>63,6</area>
+					</flat>
+					<flat>
+						<flat_id>59</flat_id>
+						<floor>18</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5148000</price>
+						<area>63,6</area>
+					</flat>
+					<flat>
+						<flat_id>60</flat_id>
+						<floor>19</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>4100000</price>
+						<area>40,4</area>
+					</flat>
+					<flat>
+						<flat_id>61</flat_id>
+						<floor>20</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>26740000</price>
+						<area>333,5</area>
+					</flat>
+					<flat>
+						<flat_id>62</flat_id>
+						<floor>20</floor>
+						<room>2</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>11940000</price>
+						<area>132</area>
+					</flat>
+					<flat>
+						<flat_id>63</flat_id>
+						<floor>20</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>9910000</price>
+						<area>98,5</area>
+					</flat>
+					<flat>
+						<flat_id>64</flat_id>
+						<floor>20</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/61064/1.png</plan>
+						<price>5170000</price>
+						<area>51,1</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+79880606248</sales_phone>
+		</sales_info>
+	</complex>
 </complexes>
