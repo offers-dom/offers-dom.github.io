@@ -107,22 +107,6 @@
 						<area>39,6</area>
 					</flat>
 					<flat>
-						<flat_id>13</flat_id>
-						<floor>3</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113723/81.PNG</plan>
-						<price>5241600</price>
-						<area>81,9</area>
-					</flat>
-					<flat>
-						<flat_id>14</flat_id>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113723/32,5.PNG</plan>
-						<price>2323750</price>
-						<area>32,5</area>
-					</flat>
-					<flat>
 						<flat_id>15</flat_id>
 						<floor>3</floor>
 						<room>1</room>
@@ -139,14 +123,6 @@
 						<area>39,6</area>
 					</flat>
 					<flat>
-						<flat_id>17</flat_id>
-						<floor>4</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113723/81.PNG</plan>
-						<price>5323500</price>
-						<area>81,9</area>
-					</flat>
-					<flat>
 						<flat_id>18</flat_id>
 						<floor>4</floor>
 						<room>1</room>
@@ -161,14 +137,6 @@
 						<plan>https://offers-dom.github.io/img/113723/39,6.PNG</plan>
 						<price>2772000</price>
 						<area>39,6</area>
-					</flat>
-					<flat>
-						<flat_id>20</flat_id>
-						<floor>5</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113723/81.PNG</plan>
-						<price>5323500</price>
-						<area>81,9</area>
 					</flat>
 					<flat>
 						<flat_id>21</flat_id>
@@ -193,14 +161,6 @@
 						<plan>https://offers-dom.github.io/img/113723/39,6.PNG</plan>
 						<price>2772000</price>
 						<area>39,6</area>
-					</flat>
-					<flat>
-						<flat_id>24</flat_id>
-						<floor>6</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113723/81.PNG</plan>
-						<price>5200650</price>
-						<area>81,9</area>
 					</flat>
 					<flat>
 						<flat_id>25</flat_id>
@@ -235,14 +195,6 @@
 						<area>39,6</area>
 					</flat>
 					<flat>
-						<flat_id>29</flat_id>
-						<floor>8</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113723/81.PNG</plan>
-						<price>5159700</price>
-						<area>81,9</area>
-					</flat>
-					<flat>
 						<flat_id>30</flat_id>
 						<floor>8</floor>
 						<room>2</room>
@@ -257,38 +209,6 @@
 						<plan>https://offers-dom.github.io/img/113723/56.PNG</plan>
 						<price>3728530</price>
 						<area>55,9</area>
-					</flat>
-					<flat>
-						<flat_id>32</flat_id>
-						<floor>8</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113723/42,2.PNG</plan>
-						<price>2856940</price>
-						<area>42,2</area>
-					</flat>
-					<flat>
-						<flat_id>33</flat_id>
-						<floor>8</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113723/39,6.PNG</plan>
-						<price>2720520</price>
-						<area>39,6</area>
-					</flat>
-					<flat>
-						<flat_id>34</flat_id>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113723/26,9.PNG</plan>
-						<price>1856100</price>
-						<area>26,9</area>
-					</flat>
-					<flat>
-						<flat_id>35</flat_id>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113723/42,2.PNG</plan>
-						<price>2801600</price>
-						<area>41,2</area>
 					</flat>
 					<flat>
 						<flat_id>36</flat_id>
@@ -321,14 +241,6 @@
 						<plan>https://offers-dom.github.io/img/113723/32,5.PNG</plan>
 						<price>2265250</price>
 						<area>32,5</area>
-					</flat>
-					<flat>
-						<flat_id>40</flat_id>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113723/37,2.PNG</plan>
-						<price>2548200</price>
-						<area>37,2</area>
 					</flat>
 					<flat>
 						<flat_id>41</flat_id>
@@ -386,15 +298,7 @@
 						<price>5216000</price>
 						<area>81,5</area>
 					</flat>
-					<flat>
-						<flat_id>48</flat_id>
-						<floor>6</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113723/39,6.PNG</plan>
-						<price>2752200</price>
-						<area>39,6</area>
-					</flat>
-				</flats>
+					</flats>
 			</building>
 		</buildings>
 		<sales_info>
