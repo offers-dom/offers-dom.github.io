@@ -4,7 +4,7 @@
 		<name>ЖК "Питерский квартал"</name>
 		<latitude>55.75639</latitude>
 		<longitude>52.46059</longitude>
-		<address>Респ Татарстан, г Набережные Челны, 63-й комплекс</address>
+		<address>Респ Татарстан, г Набережные Челны</address>
 		<buildings>
 			<building>
 				<id>165046</id>
@@ -90,14 +90,6 @@
 						<area>59,05</area>
 					</flat>
 					<flat>
-						<flat_id>12</flat_id>
-						<floor>6</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/116012/82,59.jpg</plan>
-						<price>5533530</price>
-						<area>82,59</area>
-					</flat>
-					<flat>
 						<flat_id>13</flat_id>
 						<floor>6</floor>
 						<room>2</room>
@@ -112,14 +104,6 @@
 						<plan>https://offers-dom.github.io/img/116012/59,05.jpg</plan>
 						<price>4251600</price>
 						<area>59,05</area>
-					</flat>
-					<flat>
-						<flat_id>15</flat_id>
-						<floor>7</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/116012/82,59.jpg</plan>
-						<price>5533530</price>
-						<area>82,59</area>
 					</flat>
 					<flat>
 						<flat_id>16</flat_id>
@@ -138,23 +122,7 @@
 						<area>59,05</area>
 					</flat>
 					<flat>
-						<flat_id>18</flat_id>
-						<floor>8</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/116012/82,59.jpg</plan>
-						<price>5533530</price>
-						<area>82,59</area>
-					</flat>
-					<flat>
 						<flat_id>19</flat_id>
-						<floor>8</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/116012/59,05.jpg</plan>
-						<price>4251600</price>
-						<area>59,05</area>
-					</flat>
-					<flat>
-						<flat_id>20</flat_id>
 						<floor>8</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/116012/59,05.jpg</plan>
@@ -184,14 +152,6 @@
 						<plan>https://offers-dom.github.io/img/116012/59,05.jpg</plan>
 						<price>4251600</price>
 						<area>59,05</area>
-					</flat>
-					<flat>
-						<flat_id>24</flat_id>
-						<floor>10</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/116012/82,59.jpg</plan>
-						<price>5533530</price>
-						<area>82,59</area>
 					</flat>
 					<flat>
 						<flat_id>25</flat_id>
@@ -348,14 +308,6 @@
 					<flat>
 						<flat_id>45</flat_id>
 						<floor>3</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/116012/59,05.jpg</plan>
-						<price>4251600</price>
-						<area>59,05</area>
-					</flat>
-					<flat>
-						<flat_id>47</flat_id>
-						<floor>4</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/116012/59,05.jpg</plan>
 						<price>4251600</price>
