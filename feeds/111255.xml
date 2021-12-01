@@ -1,10 +1,10 @@
 <complexes>
 	<complex>
-		<id>112269</id>
-		<name>ЖК "Свобода"</name>
-		<latitude>47.242331</latitude>
-		<longitude>39.77767</longitude>
-		<address>г. Ростов-на-Дону, ул. Горсоветская, д. 49</address>
+		<id>111255</id>
+		<name>ЖК "Новая Дема"</name>
+		<latitude>54.71502</latitude>
+		<longitude>55.84565</longitude>
+		<address>г Уфа, ул Генерала Кусимова</address>
 		<buildings>
 			<building>
 				<id>161086</id>
@@ -527,7 +527,7 @@
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+78632046182</sales_phone>
+			<sales_phone>+73472935393</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
