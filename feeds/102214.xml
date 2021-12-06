@@ -9,6 +9,7 @@
 		<buildings>
 			<building>
 				<id>160625</id>
+				<name>Коорпус 1</name>
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
