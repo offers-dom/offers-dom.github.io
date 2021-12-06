@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>108057</id>
 		<name>Многоквартирные дома по улице Иркутской д.4, д.6, д.8</name>
-		<latitude>54.70739</latitude>
-		<longitude>20.50731</longitude>
-		<address>г Калининград, ул Иркутская</address>
+		<latitude>54.689235</latitude>
+		<longitude>20.469197</longitude>
+		<address>г. Калининград, ул. А. Суворова-ул. Иркутская</address>
 		<buildings>
 			<building>
 				<id>140773</id>
