@@ -226,6 +226,17 @@
 						<plan>https://offers-dom.github.io/img/102214/88.5.png</plan>
 						<price>9261000</price>
 						<area>88,2</area>
+						<balcony>Нет</balcony>
+						<renovation>Нет</renovation>
+						<kitchen_area>20</kitchen_area>
+						<living_area>60</living_area>
+						<rooms_area>
+						    <area>20</area>
+						    <area>20</area>
+						    <area>10</area>
+						</rooms_area>
+						<window_view>1</window_view>
+						<bathroom>1</bathroom>
 					</flat>
 					<flat>
 						<flat_id>28</flat_id>
@@ -243,7 +254,7 @@
 						    <area>20</area>
 						    <area>10</area>
 						</rooms_area>
-						<window_view>Во двор и на улицу</window_view>
+						<window_view>На улицу</window_view>
 						<bathroom>1</bathroom>
 					</flat>
 				</flats>
