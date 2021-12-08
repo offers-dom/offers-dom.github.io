@@ -4,50 +4,100 @@
 		<name>ЖК "Настроение"</name>
 		<latitude>48.44048</latitude>
 		<longitude>135.10275</longitude>
-		<address>г Хабаровск, ул Морозова Павла Леонтьевича</address>
+		<address>г Хабаровск, ул Морозова Павла Леонтьевича, д 25</address>
 		<buildings>
 			<building>
 				<id>161121</id>
 				<flats>
 					<flat>
-						<flat_id>87</flat_id>
-						<floor>12</floor>
-						<room>1</room>
-						<plan>http://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>5000000</price>
-						<area>38,91</area>
+						<flat_id>1</flat_id>
+						<apartment>23</apartment>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>11500000</price>
+						<area>58,4</area>
 					</flat>
 					<flat>
-						<flat_id>111</flat_id>
-						<floor>15</floor>
-						<room>1</room>
-						<plan>http://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>5000000</price>
-						<area>38,91</area>
+						<flat_id>2</flat_id>
+						<apartment>26</apartment>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>11500000</price>
+						<area>58,4</area>
 					</flat>
 					<flat>
-						<flat_id>127</flat_id>
-						<floor>17</floor>
-						<room>1</room>
-						<plan>http://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>5000000</price>
-						<area>38,91</area>
+						<flat_id>3</flat_id>
+						<apartment>41</apartment>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>10500000</price>
+						<area>58,3</area>
 					</flat>
 					<flat>
-						<flat_id>218</flat_id>
-						<floor>13</floor>
-						<room>1</room>
-						<plan>http://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>5000000</price>
-						<area>38,91</area>
+						<flat_id>4</flat_id>
+						<apartment>44</apartment>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>10500000</price>
+						<area>58,3</area>
 					</flat>
 					<flat>
-						<flat_id>234</flat_id>
-						<floor>15</floor>
-						<room>1</room>
-						<plan>http://offers-dom.github.io/img/115186/1-16.jpg</plan>
-						<price>5000000</price>
-						<area>38,91</area>
+						<flat_id>5</flat_id>
+						<apartment>50</apartment>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>11000000</price>
+						<area>58,3</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<apartment>52</apartment>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>11300000</price>
+						<area>58,3</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<apartment>53</apartment>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>11000000</price>
+						<area>58,3</area>
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<apartment>56</apartment>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>11000000</price>
+						<area>58,3</area>
+					</flat>
+					<flat>
+						<flat_id>9</flat_id>
+						<apartment>123</apartment>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>10500000</price>
+						<area>58,6</area>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<apartment>127</apartment>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/115186/53-54.jpg</plan>
+						<price>10500000</price>
+						<area>58,6</area>
 					</flat>
 				</flats>
 			</building>
