@@ -5,7 +5,7 @@
 		<name>ЖК "Новый Смоленск"</name>
 		<latitude>54.731998</latitude>
 		<longitude>32.051712</longitude>
-		<address>г Смоленск, Киевское шоссе, д 57</address>
+		<address>г Смоленск, Киевское шоссе</address>
 		<buildings>
 			<building>
 				<id>155368</id>
