@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>62387</id>
+		<name>ЖК "CitiMix"</name>
+		<latitude>55.66772</latitude>
+		<longitude>37.45793</longitude>
+		<address>г Москва, ул Никулинская</address>
+		<buildings>
+			<building>
+				<id>139844</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>285</apartment>
+						<floor>21</floor>
+						<room>1</room>
+						<plan>https://raw.githubusercontent.com/offers-dom/offers-dom.github.io/main/img/62387/43%2C1.PNG</plan>
+						<price>13100000</price>
+						<area>43,1</area>
+<decoration>1</decoration>
+<renovation>чистовая</renovation>
+
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>155</apartment>
+						<floor>21</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/62387/60,3.PNG</plan>
+						<price>13604500</price>
+						<area>60,3</area>
+<decoration>1</decoration>
+<renovation>чистовая</renovation>
+
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<apartment>74</apartment>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/62387/72,7.PNG</plan>
+						<price>16357500</price>
+						<area>72,7</area>
+<decoration>1</decoration>
+<renovation>чистовая</renovation>
+
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<apartment>104</apartment>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/62387/72,6.PNG</plan>
+						<price>16380000</price>
+						<area>72,6</area>
+<decoration>1</decoration>
+<renovation>чистовая</renovation>
+
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<apartment>224</apartment>
+						<floor>16</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/62387/72,7.PNG</plan>
+						<price>16743000</price>
+						<area>72,7</area>
+<decoration>1</decoration>
+<renovation>чистовая</renovation>
+
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<apartment>31</apartment>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/62387/65.PNG</plan>
+						<price>17900000</price>
+						<area>65</area>
+<decoration>1</decoration>
+<renovation>чистовая</renovation>
+
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<apartment>147</apartment>
+						<floor>20</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/62387/60,3.PNG</plan>
+						<price>42255000</price>
+						<area>60,3</area>
+<decoration>1</decoration>
+<renovation>чистовая</renovation>
+
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<apartment>143</apartment>
+						<floor>19</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/62387/65,4.PNG</plan>
+						<price>45825000</price>
+						<area>65,4</area>
+<decoration>1</decoration>
+<renovation>чистовая</renovation>
+
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+7 (495) 255-00-74</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
