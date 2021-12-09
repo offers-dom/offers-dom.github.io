@@ -1,394 +1,222 @@
 <complexes>
-<complex>
-<id>7385</id>
-<name>ЖК Ольховский парк</name>
-<latitude>56.852116758307645</latitude>
-<longitude>60.574512851866764</longitude>
-<address>
-Россия, Свердловская область, Екатеринбург, улица Колмогорова, 73к6
-</address>
-<buildings>
-<building>
-<id>158885</id>
-<flats>
-<flat>
-<flat_id>1</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176058/1.png</plan>
-<price>5290393</price>
-<area>45,3</area>
-</flat>
-<flat>
-<flat_id>51</flat_id>
-<floor>9</floor>
-<room>1</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176059/2%20(1).png
-</plan>
-<price>6302036</price>
-<area>44,9</area>
-</flat>
-<flat>
-<flat_id>2</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176059/2%20(1).png
-</plan>
-<price>5051250</price>
-<area>44,9</area>
-</flat>
-<flat>
-<flat_id>3</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176060/3%20(1).png
-</plan>
-<price>5197500</price>
-<area>46,2</area>
-</flat>
-<flat>
-<flat_id>8</flat_id>
-<floor>2</floor>
-<room>2</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176062/8.png</plan>
-<price>7846607</price>
-<area>75,5</area>
-</flat>
-<flat>
-<flat_id>9</flat_id>
-<floor>5</floor>
-<room>2</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176063/9.png</plan>
-<price>7750179</price>
-<area>62,9</area>
-</flat>
-<flat>
-<flat_id>10</flat_id>
-<floor>10</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176064/10%20(1).png
-</plan>
-<price>7727143</price>
-<area>60,1</area>
-</flat>
-<flat>
-<flat_id>11</flat_id>
-<floor>1</floor>
-<room>2</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176065/11.png</plan>
-<price>7237607</price>
-<area>75,9</area>
-</flat>
-<flat>
-<flat_id>12</flat_id>
-<floor>1</floor>
-<room>2</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176066/12.png</plan>
-<price>7199464</price>
-<area>75,5</area>
-</flat>
-<flat>
-<flat_id>13</flat_id>
-<floor>7</floor>
-<room>3</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176067/13.17.png
-</plan>
-<price>9741000</price>
-<area>76,4</area>
-</flat>
-<flat>
-<flat_id>17</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176067/13.17.png
-</plan>
-<price>7612714</price>
-<area>76,4</area>
-</flat>
-<flat>
-<flat_id>18</flat_id>
-<floor>13</floor>
-<room>4</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176069/18.png</plan>
-<price>12826500</price>
-<area>100,6</area>
-</flat>
-</flats>
-</building>
-<building>
-<id>161212</id>
-<flats>
-<flat>
-<flat_id>19</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176070/19.23.png
-</plan>
-<price>5024545</price>
-<area>44,6</area>
-</flat>
-<flat>
-<flat_id>20</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176071/20.png</plan>
-<price>5066860</price>
-<area>46,1</area>
-</flat>
-<flat>
-<flat_id>21</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176072/21.png</plan>
-<price>4926542</price>
-<area>45,2</area>
-</flat>
-<flat>
-<flat_id>24</flat_id>
-<floor>1</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176075/24-25.png
-</plan>
-<price>6752150</price>
-<area>76</area>
-</flat>
-<flat>
-<flat_id>25</flat_id>
-<floor>2</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176075/24-25.png
-</plan>
-<price>6982337</price>
-<area>76</area>
-</flat>
-<flat>
-<flat_id>26</flat_id>
-<floor>1</floor>
-<room>2</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176076/26.png</plan>
-<price>6924343</price>
-<area>75,6</area>
-</flat>
-<flat>
-<flat_id>27</flat_id>
-<floor>17</floor>
-<room>2</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176077/27.png</plan>
-<price>11109548</price>
-<area>72,2</area>
-</flat>
-<flat>
-<flat_id>28</flat_id>
-<floor>8</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176078/28-29.png
-</plan>
-<price>8907758</price>
-<area>69,7</area>
-</flat>
-<flat>
-<flat_id>29</flat_id>
-<floor>10</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176078/28-29.png
-</plan>
-<price>9089549</price>
-<area>69,7</area>
-</flat>
-<flat>
-<flat_id>30</flat_id>
-<floor>17</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176079/30-31.png
-</plan>
-<price>8120622</price>
-<area>69,1</area>
-</flat>
-<flat>
-<flat_id>31</flat_id>
-<floor>9</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176079/30-31.png
-</plan>
-<price>7663742</price>
-<area>69,1</area>
-</flat>
-<flat>
-<flat_id>32</flat_id>
-<floor>14</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176080/32-33.png
-</plan>
-<price>7315201</price>
-<area>63,1</area>
-</flat>
-<flat>
-<flat_id>33</flat_id>
-<floor>17</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176080/32-33.png
-</plan>
-<price>7378643</price>
-<area>63,1</area>
-</flat>
-<flat>
-<flat_id>34</flat_id>
-<floor>5</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176081/34-36.png
-</plan>
-<price>7461866</price>
-<area>63</area>
-</flat>
-<flat>
-<flat_id>35</flat_id>
-<floor>14</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176081/34-36.png
-</plan>
-<price>8008607</price>
-<area>63</area>
-</flat>
-<flat>
-<flat_id>36</flat_id>
-<floor>16</floor>
-<room>2</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176081/34-36.png
-</plan>
-<price>8122606</price>
-<area>63</area>
-</flat>
-<flat>
-<flat_id>37</flat_id>
-<floor>2</floor>
-<room>3</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176082/37.png</plan>
-<price>7950499</price>
-<area>76,2</area>
-</flat>
-<flat>
-<flat_id>38</flat_id>
-<floor>6</floor>
-<room>3</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176083/38-39.png
-</plan>
-<price>8409354</price>
-<area>76,4</area>
-</flat>
-<flat>
-<flat_id>39</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176083/38-39.png
-</plan>
-<price>7707574</price>
-<area>76,4</area>
-</flat>
-<flat>
-<flat_id>40</flat_id>
-<floor>13</floor>
-<room>3</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176084/40.png</plan>
-<price>9937780</price>
-<area>76,5</area>
-</flat>
-<flat>
-<flat_id>41</flat_id>
-<floor>16</floor>
-<room>3</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176085/41.png</plan>
-<price>11475658</price>
-<area>78,5</area>
-</flat>
-<flat>
-<flat_id>42</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176086/42.png</plan>
-<price>7720093</price>
-<area>87,8</area>
-</flat>
-<flat>
-<flat_id>43</flat_id>
-<floor>6</floor>
-<room>3</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176087/43-44.png
-</plan>
-<price>8446799</price>
-<area>90,9</area>
-</flat>
-<flat>
-<flat_id>44</flat_id>
-<floor>7</floor>
-<room>3</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176087/43-44.png
-</plan>
-<price>8534787</price>
-<area>90,9</area>
-</flat>
-<flat>
-<flat_id>45</flat_id>
-<floor>6</floor>
-<room>3</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176088/45.png</plan>
-<price>9601755</price>
-<area>91</area>
-</flat>
-<flat>
-<flat_id>46</flat_id>
-<floor>15</floor>
-<room>4</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176089/46-48.png
-</plan>
-<price>10008823</price>
-<area>95,4</area>
-</flat>
-<flat>
-<flat_id>47</flat_id>
-<floor>19</floor>
-<room>4</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176089/46-48.png
-</plan>
-<price>10771400</price>
-<area>95,4</area>
-</flat>
-<flat>
-<flat_id>50</flat_id>
-<floor>18</floor>
-<room>4</room>
-<plan>http://moemesto.ru/Evgeny2802/file/15176091/50.png</plan>
-<price>12682035</price>
-<area>100,7</area>
-</flat>
-</flats>
-</building>
-</buildings>
-<sales_info>
-<sales_phone>+73433110369</sales_phone>
-</sales_info>
-</complex>
+	<complex>
+		<id>7385</id>
+		<name>ЖК Ольховский парк</name>
+		<latitude>56.852116758307645</latitude>
+		<longitude>60.574512851866764</longitude>
+		<address>Россия, Свердловская область, Екатеринбург, улица Колмогорова, 73к6</address>
+		<buildings>
+			<building>
+				<id>158885</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>93</apartment>
+						<floor>13</floor>
+						<room>4</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176069/18.png</plan>
+						<price>12826500</price>
+						<area>100.6</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>100</apartment>
+						<floor>14</floor>
+						<room>4</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176069/18.png</plan>
+						<price>13433334</price>
+						<area>100.6</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<apartment>102</apartment>
+						<floor>14</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176077/27.png</plan>
+						<price>9770580</price>
+						<area>72.1</area>
+					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>161212</id>
+				<flats>
+					<flat>
+						<flat_id>4</flat_id>
+						<apartment>205</apartment>
+						<floor>13</floor>
+						<room>3</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176084/40.png</plan>
+						<price>10136535</price>
+						<area>76.5</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<apartment>226</apartment>
+						<floor>16</floor>
+						<room>3</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176085/41.png</plan>
+						<price>11705171</price>
+						<area>78.5</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<apartment>232</apartment>
+						<floor>17</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176077/27.png</plan>
+						<price>11331738</price>
+						<area>72.2</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<apartment>237</apartment>
+						<floor>18</floor>
+						<room>4</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176091/50.png</plan>
+						<price>12935675</price>
+						<area>100.7</area>
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<apartment>172</apartment>
+						<floor>9</floor>
+						<room>3</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176088/45.png</plan>
+						<price>10723282</price>
+						<area>91</area>
+					</flat>
+					<flat>
+						<flat_id>9</flat_id>
+						<apartment>180</apartment>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>http://offers-dom.github.io/img/7385/60.png</plan>
+						<price>8575936</price>
+						<area>60</area>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<apartment>191</apartment>
+						<floor>11</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176080/32-33.png</plan>
+						<price>7756611</price>
+						<area>63.1</area>
+					</flat>
+					<flat>
+						<flat_id>11</flat_id>
+						<apartment>247</apartment>
+						<floor>19</floor>
+						<room>3</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176085/41.png</plan>
+						<price>12431477</price>
+						<area>78.5</area>
+					</flat>
+					<flat>
+						<flat_id>12</flat_id>
+						<apartment>162</apartment>
+						<floor>7</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176059/2%20(1)</plan>
+						<price>5979592</price>
+						<area>44.8</area>
+					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<apartment>168</apartment>
+						<floor>8</floor>
+						<room>3</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176083/38-39.png</plan>
+						<price>9018927</price>
+						<area>76.4</area>
+					</flat>
+					<flat>
+						<flat_id>14</flat_id>
+						<apartment>246</apartment>
+						<floor>19</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176077/27.png</plan>
+						<price>11747582</price>
+						<area>72.2</area>
+					</flat>
+					<flat>
+						<flat_id>15</flat_id>
+						<apartment>223</apartment>
+						<floor>16</floor>
+						<room>4</room>
+						<plan>http://offers-dom.github.io/img/7385/98,6.png</plan>
+						<price>11780682</price>
+						<area>98.6</area>
+					</flat>
+					<flat>
+						<flat_id>16</flat_id>
+						<apartment>236</apartment>
+						<floor>17</floor>
+						<room>4</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176089/46-48.png</plan>
+						<price>10941507</price>
+						<area>95.4</area>
+					</flat>
+					<flat>
+						<flat_id>17</flat_id>
+						<apartment>211</apartment>
+						<floor>14</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176078/28-29.png</plan>
+						<price>10124304</price>
+						<area>69.7</area>
+					</flat>
+					<flat>
+						<flat_id>18</flat_id>
+						<apartment>227</apartment>
+						<floor>16</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176080/32-33.png</plan>
+						<price>8140601</price>
+						<area>63.1</area>
+					</flat>
+					<flat>
+						<flat_id>19</flat_id>
+						<apartment>212</apartment>
+						<floor>14</floor>
+						<room>3</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176084/40.png</plan>
+						<price>10234948</price>
+						<area>76.5</area>
+					</flat>
+					<flat>
+						<flat_id>20</flat_id>
+						<apartment>233</apartment>
+						<floor>17</floor>
+						<room>3</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176085/41.png</plan>
+						<price>11759506</price>
+						<area>78.5</area>
+					</flat>
+					<flat>
+						<flat_id>21</flat_id>
+						<apartment>244</apartment>
+						<floor>19</floor>
+						<room>4</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176091/50.png</plan>
+						<price>13288467</price>
+						<area>100.7</area>
+					</flat>
+					<flat>
+						<flat_id>22</flat_id>
+						<apartment>254</apartment>
+						<floor>20</floor>
+						<room>3</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176085/41.png</plan>
+						<price>12655468</price>
+						<area>78.5</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+73433110369</sales_phone>
+		</sales_info>
+	</complex>
 </complexes>
