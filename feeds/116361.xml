@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>116361</id>
 		<name>ЖК "Квартет"</name>
-		<latitude>51.78606</latitude>
-		<longitude>55.05541</longitude>
-		<address>г Оренбург, ул Ткачева, д 4</address>
+		<latitude>51.78949997055791</latitude>
+		<longitude>55.061804386289964</longitude>
+		<address>Россия, Оренбург, Промышленный район, жилой комплекс Квартет</address>
 		<buildings>
 			<building>
 				<id>165711</id>
