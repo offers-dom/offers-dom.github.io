@@ -1287,6 +1287,15 @@
 						<price>3 136 000 </price>
 						<area>48.70</area>
 					</flat>
+					<flat>
+						<flat_id>14414</flat_id>
+						<apartment>136</apartment>
+						<floor>11</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/115022/48,7.jpg</plan>
+						<price>3096800</price>
+						<area>48.70</area>
+					</flat>	
 				</flats>
 			</building>
 		</buildings>
