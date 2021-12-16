@@ -1,71 +1,96 @@
 <complexes>
-<complex>
-<id>110625</id>
-<name>м-н Новый город</name>
-<latitude>57.74598</latitude>
-<longitude>40.92385</longitude>
-<address>г Кострома, мкр Новый город, д 8</address>
-<buildings>
-<building>
-<id>151144</id>
-<flats>
-<flat_id>2</flat_id>
-<floor>14</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/110625/43,9.jpg</plan>
-<price>3200000</price>
-<area>43,9</area>
-</flat>
-<flat>
-<flat_id>3</flat_id>
-<floor>2</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/110625/43,8.jpg</plan>
-<price>3400000</price>
-<area>47,4</area>
-</flat>
-<flat>
-<flat_id>4</flat_id>
-<floor>5</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/110625/84,1.jpg</plan>
-<price>6100000</price>
-<area>84,1</area>
-</flat>
-<flat>
-<flat_id>5</flat_id>
-<floor>4</floor>
-<room>2</room>
-<plan>https://offers-dom.github.io/img/110625/67,5.jpg</plan>
-<price>4910000</price>
-<area>67,5</area>
-</flat>
-</flats>
-</building>
-<building>
-<id>156971</id>
-<flats>
-<flat>
-<flat_id>6</flat_id>
-<floor>4</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/110625/40,8.jpg</plan>
-<price>3250000</price>
-<area>40,8</area>
-</flat>
-<flat>
-<flat_id>16</flat_id>
-<floor>2</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/110625/40,8.jpg</plan>
-<price>3250000</price>
-<area>40,8</area>
-</flat>
-</flats>
-</building>
-</buildings>
-<sales_info>
-<sales_phone>+74942303709</sales_phone>
-</sales_info>
-</complex>
+	<complex>
+		<id>110625</id>
+		<name>м-н Новый город</name>
+		<latitude>57.74598</latitude>
+		<longitude>40.92385</longitude>
+		<address>г Кострома, мкр Новый город, д 8</address>
+		<buildings>
+			<building>
+				<id>151144</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>3</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/110625/43,7.jpg</plan>
+						<price>3450000</price>
+						<area>47,3</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>111</apartment>
+						<floor>14</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/110625/43,9.jpg</plan>
+						<price>3450000</price>
+						<area>43,9</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<apartment>61</apartment>
+						<floor>5</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/110625/84,1.jpg</plan>
+						<price>6400000</price>
+						<area>84,1</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<apartment>125</apartment>
+						<floor>4</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/110625/67,5.jpg</plan>
+						<price>4910000</price>
+						<area>67,5</area>
+					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>156971</id>
+				<flats>
+					<flat>
+						<flat_id>5</flat_id>
+						<apartment>2</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/110625/40,8.jpg</plan>
+						<price>3400000</price>
+						<area>40,8</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<apartment>6</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/110625/40,8.jpg</plan>
+						<price>3550000</price>
+						<area>40,8</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<apartment>11</apartment>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/110625/40,8.jpg</plan>
+						<price>3450000</price>
+						<area>40,8</area>
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<apartment>49</apartment>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>https://github.com/offers-dom/offers-dom.github.io/blob/main/img/110625/60,1.jpg?raw=true</plan>
+						<price>5100000</price>
+						<area>60,5</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+74942303709</sales_phone>
+		</sales_info>
+	</complex>
 </complexes>
