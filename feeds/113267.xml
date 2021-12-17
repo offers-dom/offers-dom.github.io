@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>113267</id>
@@ -489,6 +488,59 @@
 						<plan>https://offers-dom.github.io/img/113267/52-60.jpg</plan>
 						<price>6054380</price>
 						<area>64,1</area>
+					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>162762</id>
+				<flats>
+					<flat>
+						<flat_id>61</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113267/126,54.jpg</plan>
+						<price>11565865</price>
+						<area>126,54</area>
+					</flat>
+					<flat>
+						<flat_id>62</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113267/154,77.jpg</plan>
+						<price>14123865</price>
+						<area>154,77</area>
+					</flat>
+					<flat>
+						<flat_id>63</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113267/160,87.jpg</plan>
+						<price>14676592</price>
+						<area>160,87</area>
+					</flat>
+					<flat>
+						<flat_id>64</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113267/138,88.jpg</plan>
+						<price>12684134</price>
+						<area>138,88</area>
+					</flat>
+					<flat>
+						<flat_id>65</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113267/155,78.jpg</plan>
+						<price>14215382</price>
+						<area>155,78</area>
+					</flat>
+					<flat>
+						<flat_id>66</flat_id>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/113267/126,7.jpg</plan>
+						<price>11580414</price>
+						<area>126,7</area>
 					</flat>
 				</flats>
 			</building>
