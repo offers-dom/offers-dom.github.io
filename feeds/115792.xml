@@ -5,13 +5,7 @@
 		<latitude>53.50504</latitude>
 		<longitude>49.24704</longitude>
 		<address>Самарская обл, г Тольятти</address>
-                <videos>
-                <video>
-                <type>disk.yandex.ru</type>
-                <url>https://disk.yandex.ru/i/w6aP5n_tBq7lBA</url>
-                </video>
-                </videos>
-		<buildings>
+               		<buildings>
 			<building>
 				<id>163768</id>
 				<flats>
