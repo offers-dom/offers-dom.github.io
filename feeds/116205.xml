@@ -10,15 +10,6 @@
 				<id>165074</id>
 				<flats>
 					<flat>
-						<flat_id>1</flat_id>
-						<apartment>1</apartment>
-						<floor>1</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/116205/1.png</plan>
-						<price>6127500</price>
-						<area>64,5</area>
-					</flat>
-					<flat>
 						<flat_id>2</flat_id>
 						<apartment>2</apartment>
 						<floor>1</floor>
