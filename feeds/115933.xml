@@ -3,9 +3,9 @@
 	<complex>
 		<id>115933</id>
 		<name>Дом по ул.Счастливая</name>
-		<latitude>53.26683</latitude>
-		<longitude>34.31769</longitude>
-		<address>г Брянск, ул Счастливая, д 7</address>
+		<latitude>53,26677832</latitude>
+		<longitude>34,32036942</longitude>
+		<address>г Брянск, ул Счастливая, д 3</address>
 		<buildings>
 			<building>
 				<id>164273</id>
