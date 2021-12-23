@@ -2,9 +2,9 @@
 	<complex>
 		<id>115688</id>
 		<name>Дом по ул.Завалишина, №9</name>
-		<latitude>55.18565</latitude>
-		<longitude>61.47146</longitude>
-		<address>г Челябинск, ул Завалишина</address>
+		<latitude>55.18540444849895</latitude>
+		<longitude>61.47833181949458</longitude>
+		<address>Россия, Челябинск, улица Завалишина, 9</address>
 		<buildings>
 			<building>
 				<id>163326</id>
