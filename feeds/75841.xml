@@ -122,6 +122,24 @@
 						<price>4309000</price>
 						<area>60,2</area>
 					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<apartment>30</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://github.com/offers-dom/offers-dom.github.io/blob/main/img/75841/30.jpg?raw=true</plan>
+						<price>2 536 000</price>
+						<area>34,3</area>
+					</flat>
+					<flat>
+						<flat_id>14</flat_id>
+						<apartment>58</apartment>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>https://github.com/offers-dom/offers-dom.github.io/blob/main/img/75841/58.jpg?raw=true</plan>
+						<price>2 540 000</price>
+						<area>36,9</area>
+					</flat>
 				</flats>
 			</building>
 		</buildings>
