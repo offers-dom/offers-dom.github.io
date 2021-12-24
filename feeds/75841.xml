@@ -109,7 +109,7 @@
 						<apartment>22</apartment>
 						<floor>4</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/75841/22.PNG</plan>
+						<plan>https://offers-dom.github.io/img/75841/22PNG</plan>
 						<price>2738000</price>
 						<area>38,1</area>
 					</flat>
@@ -122,6 +122,11 @@
 						<price>4309000</price>
 						<area>60,2</area>
 					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>162811</id>
+				<flats>
 					<flat>
 						<flat_id>13</flat_id>
 						<apartment>30</apartment>
