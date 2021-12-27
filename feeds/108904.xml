@@ -2,9 +2,9 @@
 	<complex>
 		<id>108904</id>
 		<name>ЖК "Форум Сити"</name>
-		<latitude>56.83004</latitude>
-		<longitude>56.83004</longitude>
-		<address>г Екатеринбург, ул Радищева</address>
+		<latitude>56.830480</latitude>
+		<longitude>60.588714</longitude>
+		<address>г Екатеринбург, ул Радищева, 24</address>
 		<buildings>
 			<building>
 				<id>161093</id>
