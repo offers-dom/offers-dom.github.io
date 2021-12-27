@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>8128</id>
 		<name>ЖК "Федоскинская Слобода"</name>
 		<latitude>56.05238</latitude>
 		<longitude>37.58031</longitude>
-		<address>Россия, Московская область, Мытищинский район, село Федоскино</address>
+		<address>Московская область, городской округ Мытищи, деревня Аксаково, Слободская улица, 6к1</address>
 		<buildings>
 			<building>
-				<id>164359</id>
+				<id>42001</id>
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
@@ -172,6 +171,11 @@
 						<price>3881000</price>
 						<area>36,21</area>
 					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>53047</id>
+				<flats>
 					<flat>
 						<flat_id>19</flat_id>
 						<apartment>11</apartment>
