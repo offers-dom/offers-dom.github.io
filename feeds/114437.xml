@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>114437</id>
@@ -40,7 +39,8 @@
 						<room>2</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15173175/display/Flat8(1).JPG</plan>
 						<price>4400000</price>
-						<area>64,7</area>	
+						<area>64,7</area>
+					</flat>
 					<flat>
 						<flat_id>11</flat_id>
 						<floor>2</floor>
