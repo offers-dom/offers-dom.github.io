@@ -7,8 +7,76 @@
 		<address>Ставропольский край, г. Ессентуки, мкр. Северный - 2</address>
 		<buildings>
 			<building>
+				<id>162810</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>1</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/75841/1.PNG</plan>
+						<price>4 150 000</price>
+						<area>60,3</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>57</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/57.PNG</plan>
+						<price>2520000</price>
+						<area>37,6</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<apartment>12</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/12.PNG</plan>
+						<price>2556000</price>
+						<area>37,6</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<apartment>13</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/13.PNG</plan>
+						<price>2510000</price>
+						<area>36,9</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<apartment>15</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/15.PNG</plan>
+						<price>2312000</price>
+						<area>34,3</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<apartment>21</apartment>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/75841/21.PNG</plan>
+						<price>3979000</price>
+						<area>60,3</area>
+					</flat>
+				</flats>
+			</building>	
+				<building>
 				<id>162811</id>
 				<flats>
+					<flat>
+						<flat_id>7</flat_id>
+						<apartment>42</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/75841/42.PNG</plan>
+						<price>3570000</price>
+						<area>34,3</area>
+					</flat>							
 					<flat>
 						<flat_id>13</flat_id>
 						<apartment>30</apartment>
