@@ -18,14 +18,6 @@
 						<area>81,9</area>
 					</flat>
 					<flat>
-						<flat_id>50</flat_id>
-						<floor>8</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/9021/8.jpg</plan>
-						<price>4832100</price>
-						<area>81,9</area>
-					</flat>
-					<flat>
 						<flat_id>36</flat_id>
 						<floor>6</floor>
 						<room>3</room>
@@ -38,14 +30,6 @@
 						<floor>4</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/9021/4.jpg</plan>
-						<price>4832100</price>
-						<area>81,9</area>
-					</flat>
-					<flat>
-						<flat_id>15</flat_id>
-						<floor>3</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/9021/3.jpg</plan>
 						<price>4832100</price>
 						<area>81,9</area>
 					</flat>
@@ -218,34 +202,10 @@
 						<area>50,7</area>
 					</flat>
 					<flat>
-						<flat_id>54</flat_id>
-						<floor>8</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/9021/8.jpg</plan>
-						<price>2991300</price>
-						<area>50,7</area>
-					</flat>
-					<flat>
-						<flat_id>26</flat_id>
-						<floor>4</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/9021/4.jpg</plan>
-						<price>2991300</price>
-						<area>50,7</area>
-					</flat>
-					<flat>
 						<flat_id>19</flat_id>
 						<floor>3</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/9021/3.jpg</plan>
-						<price>2991300</price>
-						<area>50,7</area>
-					</flat>
-					<flat>
-						<flat_id>12</flat_id>
-						<floor>2</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/9021/2.jpg</plan>
 						<price>2991300</price>
 						<area>50,7</area>
 					</flat>
@@ -266,14 +226,6 @@
 						<area>69,3</area>
 					</flat>
 					<flat>
-						<flat_id>55</flat_id>
-						<floor>8</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/9021/8.jpg</plan>
-						<price>4088700</price>
-						<area>69,3</area>
-					</flat>
-					<flat>
 						<flat_id>48</flat_id>
 						<floor>7</floor>
 						<room>2</room>
@@ -286,14 +238,6 @@
 						<floor>6</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/9021/6.jpg</plan>
-						<price>4088700</price>
-						<area>69,3</area>
-					</flat>
-					<flat>
-						<flat_id>34</flat_id>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/9021/5.jpg</plan>
 						<price>4088700</price>
 						<area>69,3</area>
 					</flat>
