@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
-		<id>86546</id>
-		<name>ЖК «7 Ключей»</name>
-		<latitude>56.88016</latitude>
-		<longitude>60.50515</longitude>
-		<address>Россия, Свердловская область, Екатеринбург, Железнодорожный район, микрорайон Старая Сортировка, жилой комплекс 7 Ключей</address>
+		<id>7972</id>
+		<name>ЖК Новый Смоленск</name>
+		<latitude>54,7334</latitude>
+		<longitude>32,0568</longitude>
+		<address>Россия, Смоленск, Промышленный район, улица 100-летия Комсомола, д. 1</address>
 		<buildings>
 			<building>
 				<id>163631</id>
@@ -1937,7 +1937,7 @@
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+7 (343) 345-49-59</sales_phone>
+			<sales_phone>+ 7 (4812) 55 55 55</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
