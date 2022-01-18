@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
-		<id>86546</id>
-		<name>ЖК «7 Ключей»</name>
-		<latitude>56.88016</latitude>
-		<longitude>60.50515</longitude>
-		<address>Россия, Свердловская область, Екатеринбург, Железнодорожный район, микрорайон Старая Сортировка, жилой комплекс 7 Ключей</address>
+		<id>115034</id>
+		<name>ЖК Набережная Днепра</name>
+		<latitude>54.78983</latitude>
+		<longitude>32.04397</longitude>
+		<address>Россия, Смоленская область, Смоленск, Ленинский район, улица Большая Краснофлотская, д. 1а</address>
 		<buildings>
 			<building>
 				<id>160485</id>
@@ -221,7 +221,7 @@
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+7 (343) 345-49-59</sales_phone>
+			<sales_phone>+7 (4812) 55 55 55 </sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
