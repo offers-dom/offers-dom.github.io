@@ -10,14 +10,14 @@
 				<id>165074</id>
 				<flats>
 					<flat>
-						<flat_id>122</flat_id>
+						<flat_id>1</flat_id>
 						<apartment>1</apartment>
 						<floor>1</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/116205/1.png</plan>
 						<price>6450000</price>
 						<area>64,5</area>
-					</flat>		
+					</flat>
 					<flat>
 						<flat_id>2</flat_id>
 						<apartment>2</apartment>
@@ -109,7 +109,7 @@
 						<area>86,9</area>
 					</flat>
 					<flat>
-						<flat_id>111</flat_id>
+						<flat_id>12</flat_id>
 						<apartment>19</apartment>
 						<floor>4</floor>
 						<room>2</room>
@@ -121,7 +121,7 @@
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+79308383888</sales_phone>
+			<sales_phone>79308383888</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
