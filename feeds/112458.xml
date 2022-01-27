@@ -2,9 +2,9 @@
 	<complex>
 		<id>112458</id>
 		<name>Микрорайон "Поэзия"</name>
-		<latitude>54.737655</latitude>
-		<longitude>83.063450</longitude>
-		<address>Новосибирская обл, г Бердск, Южный мкр</address>
+		<latitude>54.73756</latitude>
+		<longitude>83.0629</longitude>
+		<address>Россия, Новосибирская область, Бердск, микрорайон Поэзия</address>
 		<buildings>
 			<building>
 				<id>162852</id>
