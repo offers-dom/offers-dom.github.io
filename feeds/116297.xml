@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>116297</id>
+		<name>ЖК по ул. Овинная</name>
+		<latitude>57.605300</latitude>
+		<longitude>39.838603</longitude>
+		<address>Ярославль, Овинная улица, 14</address>
+		<buildings>
+			<building>
+				<id>165479</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>2</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/116297/1.PNG</plan>
+						<price>5525000</price>
+						<area>65</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>6</apartment>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/116297/2.PNG</plan>
+						<price>5839500</price>
+						<area>68,7</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>8 (909) 276-64-56</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
