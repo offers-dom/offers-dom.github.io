@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>113416</id>
-		<name>ЖК "Шахматный" </name>
+		<name>ЖК "Шахматный"</name>
 		<latitude>60.96641</latitude>
 		<longitude>69.01736</longitude>
 		<address>Ханты-Мансийский Автономный округ - Югра, г Ханты-Мансийск, снт СОТ Разлив за р.Иртыш (район АБЗ)</address>
@@ -12,81 +11,36 @@
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
-						<floor>5</floor>
+						<apartment>147</apartment>
+						<floor>4</floor>
 						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113416/67,46.png</plan>
-						<price>5569000</price>
-						<area>67,46</area>
+						<plan>https://offers-dom.github.io/img/113416/84,63.png</plan>
+						<price>6729000</price>
+						<area>82,4</area>
 					</flat>
 					<flat>
 						<flat_id>2</flat_id>
+						<apartment>153</apartment>
 						<floor>6</floor>
 						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113416/67,46.png</plan>
-						<price>5569000</price>
-						<area>67,46</area>
+						<plan>https://offers-dom.github.io/img/113416/84,63.png</plan>
+						<price>6729000</price>
+						<area>82,4</area>
 					</flat>
 					<flat>
 						<flat_id>3</flat_id>
-						<floor>1</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113416/67,46.png</plan>
-						<price>5569000</price>
-						<area>67,46</area>
-					</flat>
-					<flat>
-						<flat_id>4</flat_id>
-						<floor>4</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113416/67,46.png</plan>
-						<price>5569000</price>
-						<area>67,46</area>
-					</flat>
-					<flat>
-						<flat_id>5</flat_id>
-						<floor>7</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113416/67,46.png</plan>
-						<price>5569000</price>
-						<area>67,46</area>
-					</flat>
-					<flat>
-						<flat_id>6</flat_id>
-						<floor>2</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113416/84,63.png</plan>
-						<price>6729000</price>
-						<area>84,63</area>
-					</flat>
-					<flat>
-						<flat_id>7</flat_id>
-						<floor>4</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113416/84,63.png</plan>
-						<price>6729000</price>
-						<area>84,63</area>
-					</flat>
-					<flat>
-						<flat_id>8</flat_id>
-						<floor>6</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113416/84,63.png</plan>
-						<price>6729000</price>
-						<area>84,63</area>
-					</flat>
-					<flat>
-						<flat_id>9</flat_id>
+						<apartment>162</apartment>
 						<floor>9</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/113416/84,63.png</plan>
 						<price>6729000</price>
-						<area>84,63</area>
+						<area>82,4</area>
 					</flat>
 				</flats>
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+78005511265</sales_phone>
+			<sales_phone>78005511265</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
