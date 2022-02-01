@@ -65,6 +65,50 @@
                                                 <renovation>чистовая</renovation>
 					</flat>
 					<flat>
+						<flat_id>300</flat_id>
+						<apartment>300</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/116361/78.8.png</plan>
+						<price>3996800</price>
+						<area>78,8</area>
+						<decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>301</flat_id>
+						<apartment>301</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/116361/78.8.png</plan>
+						<price>3996800</price>
+						<area>78,8</area>
+						<decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>302</flat_id>
+						<apartment>302</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/116361/78.8.png</plan>
+						<price>3996800</price>
+						<area>78,8</area>
+						<decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>
+					<flat>
+						<flat_id>303</flat_id>
+						<apartment>303</apartment>
+						<floor>4</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/116361/78.8.png</plan>
+						<price>3996800</price>
+						<area>78,8</area>
+						<decoration>1</decoration>
+                                                <renovation>чистовая</renovation>
+					</flat>			
+					<flat>
 						<flat_id>10</flat_id>
 						<apartment>12</apartment>
 						<floor>2</floor>
