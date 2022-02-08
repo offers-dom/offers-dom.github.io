@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>116761</id>
+		<name>ЖК "Шуберский"</name>
+		<latitude>51.75558</latitude>
+		<longitude>39.41549</longitude>
+		<address>Воронежская обл, Новоусманский р-н, поселок Шуберское</address>
+		<buildings>
+			<building>
+				<id>166992</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>2</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/116761/71,4.PNG</plan>
+						<price>4540000</price>
+						<area>71,4</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+74732050505</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
