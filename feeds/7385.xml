@@ -11,206 +11,219 @@
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
-						<apartment>93</apartment>
-						<floor>13</floor>
-						<room>4</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176069/18.png</plan>
-						<price>12826500</price>
-						<area>100.6</area>
+						<apartment>42</apartment>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/D4gLjfeKglpmi0qRo6t5AxnomI0vwp0N7xXndIRQ.png</plan>
+						<price>10846988</price>
+						<area>66,97</area>
 					</flat>
 					<flat>
 						<flat_id>2</flat_id>
-						<apartment>100</apartment>
-						<floor>14</floor>
-						<room>4</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176069/18.png</plan>
-						<price>13433334</price>
-						<area>100.6</area>
+						<apartment>72</apartment>
+						<floor>16</floor>
+						<room>3</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/HZLungOpwnI8rCigEYTKEPwoEKuNlDzrXjxHYKag.png</plan>
+						<price>11838077</price>
+						<area>79,98</area>
 					</flat>
 					<flat>
 						<flat_id>3</flat_id>
-						<apartment>102</apartment>
-						<floor>14</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176077/27.png</plan>
-						<price>9770580</price>
-						<area>72.1</area>
+						<apartment>41</apartment>
+						<floor>10</floor>
+						<room>3</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/19OGNInBafKopCtne7nR05TE8JEQ40SyS1ocSnli.png</plan>
+						<price>13961169</price>
+						<area>101,99</area>
 					</flat>
-				</flats>
-			</building>
-			<building>
-				<id>161212</id>
-				<flats>
 					<flat>
 						<flat_id>4</flat_id>
-						<apartment>205</apartment>
-						<floor>13</floor>
+						<apartment>50</apartment>
+						<floor>11</floor>
 						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176084/40.png</plan>
-						<price>10136535</price>
-						<area>76.5</area>
+						<plan>https://catalog.vysotadom.ru/storage/plan/Az5hfh0bUDSZXsDxzm7CXiJmOvvktqFM1yyctjkj.png</plan>
+						<price>11420000</price>
+						<area>83,98</area>
 					</flat>
 					<flat>
 						<flat_id>5</flat_id>
-						<apartment>226</apartment>
-						<floor>16</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176085/41.png</plan>
-						<price>11705171</price>
-						<area>78.5</area>
+						<apartment>59</apartment>
+						<floor>13</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/c0O6sCHKom9IZvbvJlGAlhn5E4nHZIXF52fLFQIz.png</plan>
+						<price>10925000</price>
+						<area>71,66</area>
 					</flat>
 					<flat>
 						<flat_id>6</flat_id>
-						<apartment>232</apartment>
-						<floor>17</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176077/27.png</plan>
-						<price>11331738</price>
-						<area>72.2</area>
+						<apartment>103</apartment>
+						<floor>7</floor>
+						<room>3</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/NAURs0Td9FsD4gTzWz1iIYiIP5aHf1IVcktaHVUC.png</plan>
+						<price>14015000</price>
+						<area>98,76</area>
 					</flat>
 					<flat>
 						<flat_id>7</flat_id>
-						<apartment>237</apartment>
-						<floor>18</floor>
-						<room>4</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176091/50.png</plan>
-						<price>12935675</price>
-						<area>100.7</area>
+						<apartment>236</apartment>
+						<floor>23</floor>
+						<room>1</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/0fB66OKWmNlkaj8OpA692wQ7NmTWeiGcPWS1Xl6K.png</plan>
+						<price>7521867</price>
+						<area>40,34</area>
 					</flat>
 					<flat>
 						<flat_id>8</flat_id>
-						<apartment>172</apartment>
-						<floor>9</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176088/45.png</plan>
-						<price>10723282</price>
-						<area>91</area>
+						<apartment>238</apartment>
+						<floor>23</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/6pvetH5F4ZRIAUAAz4cL6Eo6WTaYMuTsjNyFXknu.png</plan>
+						<price>9309223</price>
+						<area>61,91</area>
 					</flat>
 					<flat>
 						<flat_id>9</flat_id>
-						<apartment>180</apartment>
-						<floor>10</floor>
-						<room>2</room>
-						<plan>http://offers-dom.github.io/img/7385/60.png</plan>
-						<price>8575936</price>
-						<area>60</area>
+						<apartment>247</apartment>
+						<floor>25</floor>
+						<room>1</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/rlhTNYyK4X6gImM8G6umnaa3vSSVkUK584jMwMew.png</plan>
+						<price>7584378</price>
+						<area>40,37</area>
 					</flat>
 					<flat>
 						<flat_id>10</flat_id>
-						<apartment>191</apartment>
-						<floor>11</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176080/32-33.png</plan>
-						<price>7756611</price>
-						<area>63.1</area>
+						<apartment>254</apartment>
+						<floor>26</floor>
+						<room>1</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/0fB66OKWmNlkaj8OpA692wQ7NmTWeiGcPWS1Xl6K.png</plan>
+						<price>7643751</price>
+						<area>40,34</area>
 					</flat>
 					<flat>
 						<flat_id>11</flat_id>
-						<apartment>247</apartment>
-						<floor>19</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176085/41.png</plan>
-						<price>12431477</price>
-						<area>78.5</area>
+						<apartment>181</apartment>
+						<floor>14</floor>
+						<room>1</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/2eObUIJzFuzhsvryTXnfXuDr1wnxVRUG3Q4B11qa.png</plan>
+						<price>7023000</price>
+						<area>40,65</area>
 					</flat>
 					<flat>
 						<flat_id>12</flat_id>
-						<apartment>162</apartment>
-						<floor>7</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176059/2%20(1)</plan>
-						<price>5979592</price>
-						<area>44.8</area>
+						<apartment>201</apartment>
+						<floor>17</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/sx6i90jjPO1oWbUYIwBfpJnP7vl34xz3Niza3ea9.png</plan>
+						<price>9671403</price>
+						<area>60,77</area>
 					</flat>
 					<flat>
 						<flat_id>13</flat_id>
-						<apartment>168</apartment>
-						<floor>8</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176083/38-39.png</plan>
-						<price>9018927</price>
-						<area>76.4</area>
+						<apartment>194</apartment>
+						<floor>16</floor>
+						<room>1</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/O5vt9PhVuydzkD1Ji37ACVq5F7E6U0eh1yEAkHI7.png</plan>
+						<price>7271251</price>
+						<area>40,62</area>
 					</flat>
 					<flat>
 						<flat_id>14</flat_id>
-						<apartment>246</apartment>
-						<floor>19</floor>
+						<apartment>256</apartment>
+						<floor>26</floor>
 						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176077/27.png</plan>
-						<price>11747582</price>
-						<area>72.2</area>
+						<plan>https://catalog.vysotadom.ru/storage/plan/6pvetH5F4ZRIAUAAz4cL6Eo6WTaYMuTsjNyFXknu.png</plan>
+						<price>9500000</price>
+						<area>61,91</area>
 					</flat>
 					<flat>
 						<flat_id>15</flat_id>
-						<apartment>223</apartment>
-						<floor>16</floor>
-						<room>4</room>
-						<plan>http://offers-dom.github.io/img/7385/98,6.png</plan>
-						<price>11780682</price>
-						<area>98.6</area>
+						<apartment>264</apartment>
+						<floor>28</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/6pvetH5F4ZRIAUAAz4cL6Eo6WTaYMuTsjNyFXknu.png</plan>
+						<price>9720000</price>
+						<area>61,91</area>
 					</flat>
 					<flat>
 						<flat_id>16</flat_id>
-						<apartment>236</apartment>
-						<floor>17</floor>
-						<room>4</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176089/46-48.png</plan>
-						<price>10941507</price>
-						<area>95.4</area>
+						<apartment>267</apartment>
+						<floor>29</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/sx6i90jjPO1oWbUYIwBfpJnP7vl34xz3Niza3ea9.png</plan>
+						<price>10468638</price>
+						<area>60,77</area>
 					</flat>
 					<flat>
 						<flat_id>17</flat_id>
-						<apartment>211</apartment>
-						<floor>14</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176078/28-29.png</plan>
-						<price>10124304</price>
-						<area>69.7</area>
+						<apartment>168</apartment>
+						<floor>12</floor>
+						<room>1</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/TBufI5KVzLSGyh7SvqBjjzG4QzyLFKXmuonyuRf7.png</plan>
+						<price>7393000</price>
+						<area>45,63</area>
 					</flat>
 					<flat>
 						<flat_id>18</flat_id>
-						<apartment>227</apartment>
-						<floor>16</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176080/32-33.png</plan>
-						<price>8140601</price>
-						<area>63.1</area>
+						<apartment>198</apartment>
+						<floor>17</floor>
+						<room>1</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/TBufI5KVzLSGyh7SvqBjjzG4QzyLFKXmuonyuRf7.png</plan>
+						<price>7622000</price>
+						<area>45,63</area>
 					</flat>
 					<flat>
 						<flat_id>19</flat_id>
-						<apartment>212</apartment>
-						<floor>14</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176084/40.png</plan>
-						<price>10234948</price>
-						<area>76.5</area>
+						<apartment>241</apartment>
+						<floor>24</floor>
+						<room>1</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/rlhTNYyK4X6gImM8G6umnaa3vSSVkUK584jMwMew.png</plan>
+						<price>7593079</price>
+						<area>40,37</area>
 					</flat>
 					<flat>
 						<flat_id>20</flat_id>
-						<apartment>233</apartment>
-						<floor>17</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176085/41.png</plan>
-						<price>11759506</price>
-						<area>78.5</area>
+						<apartment>272</apartment>
+						<floor>30</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/c4RcOdFt8bme1Y0tT0LoTqkJ8YrK3Zi2hi4Fc6kZ.png</plan>
+						<price>10155950</price>
+						<area>61,31</area>
 					</flat>
 					<flat>
 						<flat_id>21</flat_id>
-						<apartment>244</apartment>
-						<floor>19</floor>
-						<room>4</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176091/50.png</plan>
-						<price>13288467</price>
-						<area>100.7</area>
+						<apartment>208</apartment>
+						<floor>18</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/6pvetH5F4ZRIAUAAz4cL6Eo6WTaYMuTsjNyFXknu.png</plan>
+						<price>9100000</price>
+						<area>61,91</area>
 					</flat>
 					<flat>
 						<flat_id>22</flat_id>
-						<apartment>254</apartment>
+						<apartment>249</apartment>
+						<floor>25</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/sx6i90jjPO1oWbUYIwBfpJnP7vl34xz3Niza3ea9.png</plan>
+						<price>10136000</price>
+						<area>60,77</area>
+					</flat>
+					<flat>
+						<flat_id>23</flat_id>
+						<apartment>215</apartment>
 						<floor>20</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176085/41.png</plan>
-						<price>12655468</price>
-						<area>78.5</area>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/rExYdpw8uBoUpbTvGR0d0LLmUr0gszCe5fGwOGqe.png</plan>
+						<price>11647000</price>
+						<area>76,86</area>
+					</flat>
+					<flat>
+						<flat_id>24</flat_id>
+						<apartment>232</apartment>
+						<floor>22</floor>
+						<room>2</room>
+						<plan>https://catalog.vysotadom.ru/storage/plan/6pvetH5F4ZRIAUAAz4cL6Eo6WTaYMuTsjNyFXknu.png</plan>
+						<price>9227564</price>
+						<area>61,91</area>
 					</flat>
 				</flats>
 			</building>
