@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>112470</id>
@@ -12,143 +11,66 @@
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
-						<floor>4</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176567/1%20(2).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>9592506</price>
-						<area>53</area>
-					</flat>
-					<flat>
-						<flat_id>2</flat_id>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176568/2.JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>9118956</price>
-						<area>58,38</area>
-					</flat>
-					<flat>
-						<flat_id>3</flat_id>
-						<floor>6</floor>
+						<apartment>234</apartment>
+						<floor>1</floor>
 						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176569/3%20(2).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>12204907</price>
-						<area>77</area>
-					</flat>
-					<flat>
-						<flat_id>4</flat_id>
-						<floor>7</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176570/4%20(6).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>10076230</price>
-						<area>66,73</area>
-					</flat>
-					<flat>
-						<flat_id>5</flat_id>
-						<floor>8</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176571/5%20(4).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>11692813</price>
-						<area>77,6</area>
-					</flat>
-					<flat>
-						<flat_id>6</flat_id>
-						<floor>9</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176572/6%20(4).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>10550250</price>
-						<area>78</area>
-					</flat>
-					<flat>
-						<flat_id>7</flat_id>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176573/7%20(3).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>12702096</price>
-						<area>80,19</area>
-					</flat>
-					<flat>
-						<flat_id>8</flat_id>
-						<floor>3</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176574/8%20(2).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>13947648</price>
-						<area>99,84</area>
-					</flat>
-					<flat>
-						<flat_id>9</flat_id>
-						<floor>5</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176575/9%20(4).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>14457360</price>
-						<area>122</area>
-					</flat>
-					<flat>
-						<flat_id>10</flat_id>
-						<floor>6</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176576/10%20(2).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>18093590</price>
-						<area>132,07</area>
-					</flat>
-					<flat>
-						<flat_id>11</flat_id>
-						<floor>7</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176577/11%20(1).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>18214560</price>
-						<area>126,49</area>
-					</flat>
-					<flat>
-						<flat_id>12</flat_id>
-						<floor>8</floor>
-						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176578/12%20(3).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>17560500</price>
-						<area>117,07</area>
-					</flat>
-					<flat>
-						<flat_id>13</flat_id>
-						<floor>9</floor>
-						<room>3</room>
 						<plan>http://moemesto.ru/Evgeny2802/file/15176579/13%20(4).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>16269110</price>
+						<price>15943728</price>
 						<area>113,77</area>
 					</flat>
 					<flat>
-						<flat_id>14</flat_id>
-						<floor>10</floor>
+						<flat_id>2</flat_id>
+						<apartment>197</apartment>
+						<floor>6</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176573/7%20(3).JPG</plan>
+						<price>14187165</price>
+						<area>78,15</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<apartment>215</apartment>
+						<floor>3</floor>
 						<room>3</room>
-						<plan>http://moemesto.ru/Evgeny2802/file/15176580/14%20(3).JPG</plan>
-						<decoration>1</decoration>
-                                                <renovation>предчистовая</renovation>
-						<price>17378250</price>
-						<area>123,25</area>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176575/9%20(4).JPG</plan>
+						<price>19616340</price>
+						<area>122,52</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<apartment>228</apartment>
+						<floor>8</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176573/7%20(3).JPG</plan>
+						<price>15648908</price>
+						<area>90,11</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<apartment>265</apartment>
+						<floor>8</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176568/2.JPG</plan>
+						<price>11973410</price>
+						<area>58,38</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<apartment>287</apartment>
+						<floor>4</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176573/7%20(3).JPG</plan>
+						<price>14474972</price>
+						<area>80,16</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<apartment>301</apartment>
+						<floor>7</floor>
+						<room>3</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176575/9%20(4).JPG</plan>
+						<price>18165715</price>
+						<area>112,86</area>
 					</flat>
 				</flats>
 			</building>
@@ -158,4 +80,3 @@
 		</sales_info>
 	</complex>
 </complexes>
-    
