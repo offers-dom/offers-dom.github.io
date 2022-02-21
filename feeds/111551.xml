@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>111551</id>
-		<name>ЖК Адмирал</name>
+		<name>ЖК "Адмирал"</name>
 		<latitude>43.789953</latitude>
 		<longitude>131.937520</longitude>
 		<address>Россия, Приморский край, Уссурийск, улица Нахимова, 11</address>
@@ -851,7 +850,7 @@
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+7(4234) 32-32-88</sales_phone>
+			<sales_phone>+74234323288</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
