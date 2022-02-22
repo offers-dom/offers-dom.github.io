@@ -7,93 +7,48 @@
 		<address>г Смоленск, ул Маршала Еременко</address>
 		<buildings>
 			<building>
-				<id>160488</id>
+				<id>160487</id>
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
-						<apartment>1</apartment>
+						<apartment>73</apartment>
 						<floor>1</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/60685/61.4.PNG</plan>
-						<price>2770000</price>
-						<area>61,4</area>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/60685/80.59.PNG</plan>
+						<price>3680000</price>
+						<area>80,59</area>
 					</flat>
 					<flat>
 						<flat_id>2</flat_id>
-						<apartment>2</apartment>
-						<floor>2</floor>
+						<apartment>104</apartment>
+						<floor>1</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/60685/61.4.PNG</plan>
-						<price>2770000</price>
+						<price>2870000</price>
 						<area>61,4</area>
-					</flat>
-					<flat>
-						<flat_id>3</flat_id>
-						<apartment>3</apartment>
-						<floor>9</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/60685/65.32.PNG</plan>
-						<price>2950000</price>
-						<area>65,32</area>
-					</flat>
-					<flat>
-						<flat_id>4</flat_id>
-						<apartment>4</apartment>
-						<floor>10</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/60685/65.32.PNG</plan>
-						<price>2950000</price>
-						<area>65,32</area>
-					</flat>
-					<flat>
-						<flat_id>5</flat_id>
-						<apartment>5</apartment>
-						<floor>3</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/60685/83.77.PNG</plan>
-						<price>3600000</price>
-						<area>83,77</area>
-					</flat>
-					<flat>
-						<flat_id>6</flat_id>
-						<apartment>6</apartment>
-						<floor>4</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/60685/83.77.PNG</plan>
-						<price>3600000</price>
-						<area>83,77</area>
-					</flat>
-					<flat>
-						<flat_id>7</flat_id>
-						<apartment>7</apartment>
-						<floor>1</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/60685/80.59.PNG</plan>
-						<price>3500000</price>
-						<area>80,59</area>
-					</flat>
-					<flat>
-						<flat_id>8</flat_id>
-						<apartment>8</apartment>
-						<floor>2</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/60685/80.59.PNG</plan>
-						<price>3500000</price>
-						<area>80,59</area>
 					</flat>
 				</flats>
 			</building>
 			<building>
-				<id>160701</id>
+				<id>160488</id>
 				<flats>
 					<flat>
-						<flat_id>9</flat_id>
-						<apartment>9</apartment>
+						<flat_id>3</flat_id>
+						<apartment>3</apartment>
 						<floor>1</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/60685/80.59.PNG</plan>
-						<price>3500000</price>
+						<price>3680000</price>
 						<area>80,59</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<apartment>34</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/60685/61.4.PNG</plan>
+						<price>2870000</price>
+						<area>61,4</area>
 					</flat>
 				</flats>
 			</building>
