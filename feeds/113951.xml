@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>113951</id>
@@ -7,10 +8,10 @@
 		<address>Московская обл, г Красногорск, поселок Светлые Горы</address>
 		<buildings>
 			<building>
-				<id>156909</id>
+				<id>корпус 1</id>
 				<flats>
 					<flat>
-						<flat_id>1</flat_id>
+						<flat_id>28</flat_id>
 						<apartment>28</apartment>
 						<floor>2</floor>
 						<room>0</room>
@@ -18,41 +19,36 @@
 						<price>4650000</price>
 						<area>22,1</area>
 					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<apartment>5</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/113951/56.6.jpg</plan>
+						<price>9400000</price>
+						<area>54,3</area>
+					</flat>
 				</flats>
 			</building>
 			<building>
-				<id>156908</id>
+				<id>корпус 7</id>
 				<flats>
 					<flat>
 						<flat_id>2</flat_id>
-						<apartment>27</apartment>
-						<floor>3</floor>
-						<room>0</room>
-						<plan>https://offers-dom.github.io/img/113951/24.2.jpg</plan>
-						<price>4700000</price>
-						<area>24,2</area>
-					</flat>
-				</flats>
-			</building>
-			<building>
-				<id>160844</id>
-				<flats>
-					<flat>
-						<flat_id>3</flat_id>
-						<apartment>10</apartment>
+						<apartment>2</apartment>
 						<floor>1</floor>
-						<room>0</room>
-						<plan>https://offers-dom.github.io/img/113951/23.9.jpg</plan>
-						<price>4800000</price>
-						<area>23,9</area>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/113951/37.8.PNG</plan>
+						<price>7800000</price>
+						<area>37,8</area>
 					</flat>
 				</flats>
 			</building>
 			<building>
-				<id>158566</id>
+				<id>корпус 8</id>
 				<flats>
 					<flat>
-						<flat_id>4</flat_id>
+						<flat_id>74</flat_id>
 						<apartment>74</apartment>
 						<floor>4</floor>
 						<room>1</room>
@@ -60,8 +56,22 @@
 						<price>7600000</price>
 						<area>43,3</area>
 					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>корпус 8 </id>
+				<flats>
 					<flat>
-						<flat_id>5</flat_id>
+						<flat_id>95</flat_id>
+						<apartment>95</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/113951/32.jpg</plan>
+						<price>6400000</price>
+						<area>32</area>
+					</flat>
+					<flat>
+						<flat_id>109</flat_id>
 						<apartment>109</apartment>
 						<floor>5</floor>
 						<room>2</room>
@@ -72,10 +82,10 @@
 				</flats>
 			</building>
 			<building>
-				<id>156982</id>
+				<id>корпус 10 </id>
 				<flats>
 					<flat>
-						<flat_id>6</flat_id>
+						<flat_id>28</flat_id>
 						<apartment>28</apartment>
 						<floor>3</floor>
 						<room>1</room>
@@ -83,40 +93,36 @@
 						<price>7400000</price>
 						<area>39,3</area>
 					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>корпус 14 </id>
+				<flats>
 					<flat>
 						<flat_id>7</flat_id>
-						<apartment>39</apartment>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113951/39..jpg</plan>
-						<price>7400000</price>
-						<area>39,1</area>
+						<apartment>7</apartment>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/113951/72.5.PNG</plan>
+						<price>8903400</price>
+						<area>62,7</area>
+					</flat>
+					<flat>
+						<flat_id>56</flat_id>
+						<apartment>56</apartment>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/113951/59.3.jpg</plan>
+						<price>9013600</price>
+						<area>59,3</area>
 					</flat>
 				</flats>
 			</building>
 			<building>
-				<id>164781</id>
+				<id>корпус 17</id>
 				<flats>
 					<flat>
-						<flat_id>8</flat_id>
-						<apartment>36</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113951/34,7.jpeg</plan>
-						<price>6003100</price>
-						<area>34,7</area>
-					</flat>
-					<flat>
-						<flat_id>9</flat_id>
-						<apartment>2</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113951/36.7.jpg</plan>
-						<price>6349100</price>
-						<area>36,7</area>
-					</flat>
-					<flat>
-						<flat_id>10</flat_id>
+						<flat_id>33</flat_id>
 						<apartment>33</apartment>
 						<floor>1</floor>
 						<room>1</room>
@@ -124,52 +130,53 @@
 						<price>6804000</price>
 						<area>40,5</area>
 					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>корпус 17 </id>
+				<flats>
 					<flat>
-						<flat_id>11</flat_id>
-						<apartment>66</apartment>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113951/44.6.jpg</plan>
-						<price>6957600</price>
-						<area>44,6</area>
-					</flat>
-					<flat>
-						<flat_id>12</flat_id>
-						<apartment>35</apartment>
+						<flat_id>36</flat_id>
+						<apartment>36</apartment>
 						<floor>1</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113951/46.2.PNG</plan>
-						<price>7422100</price>
-						<area>46,1</area>
+						<plan>https://offers-dom.github.io/img/113951/34.8.jpg</plan>
+						<price>6003100</price>
+						<area>34,7</area>
 					</flat>
 				</flats>
 			</building>
 			<building>
-				<id>161689</id>
+				<id>корпус 21</id>
 				<flats>
 					<flat>
-						<flat_id>13</flat_id>
-						<apartment>9</apartment>
-						<floor>2</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113951/39..jpg</plan>
-						<price>6240000</price>
-						<area>39</area>
-					</flat>
-					<flat>
-						<flat_id>14</flat_id>
-						<apartment>65</apartment>
-						<floor>4</floor>
+						<flat_id>36</flat_id>
+						<apartment>36</apartment>
+						<floor>1</floor>
 						<room>2</room>
-						<plan>https://offers-dom.github.io/img/113951/59,1.jpeg</plan>
-						<price>9500000</price>
-						<area>59,1</area>
+						<plan>https://offers-dom.github.io/img/113951/56.6.jpg</plan>
+						<price>9104400</price>
+						<area>56,2</area>
+					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>корпус 21 </id>
+				<flats>
+					<flat>
+						<flat_id>69</flat_id>
+						<apartment>69</apartment>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/113951/58.6.PNG</plan>
+						<price>8835000</price>
+						<area>58,9</area>
 					</flat>
 				</flats>
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+79629110211</sales_phone>
+			<sales_phone>79629110211</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
