@@ -1,193 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
-<complex>
-<id>7629</id>
-<name>ЖК "Северное Сияние"</name>
-<latitude>56.15069</latitude>
-<longitude>37.49237</longitude>
-<address>
-Россия, Московская область, Дмитровский район, городское поселение Икша, поселок опытного хозяйства Ермолино, Центральная улица
-</address>
-<buildings>
-<building>
-<id>164496</id>
-<flats>
-<flat>
-<flat_id>1</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4340000</price>
-<area>54,3</area>
-</flat>
-<flat>
-<flat_id>2</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4340000</price>
-<area>54,3</area>
-</flat>
-<flat>
-<flat_id>3</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4340000</price>
-<area>54,3</area>
-</flat>
-<flat>
-<flat_id>4</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4400000</price>
-<area>54,3</area>
-</flat>
-<flat>
-<flat_id>5</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4290000</price>
-<area>54,3</area>
-</flat>
-<flat>
-<flat_id>6</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4290000</price>
-<area>54,3</area>
-</flat>
-<flat>
-<flat_id>7</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4500000</price>
-<area>54,3</area>
-</flat>
-</flats>
-</building>
-<building>
-<id>164502</id>
-<flats>
-<flat>
-<flat_id>8</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4650000</price>
-<area>54,3</area>
-</flat>
-<flat>
-<flat_id>9</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4750000</price>
-<area>54,3</area>
-</flat>
-<flat>
-<flat_id>10</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4650000</price>
-<area>54,3</area>
-</flat>
-<flat>
-<flat_id>11</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>https://offers-dom.github.io/img/7629/1.png</plan>
-<price>4750000</price>
-<area>54,3</area>
-</flat>
-</flats>
-</building>
-<building>
-<id>164506</id>
-<flats>
-<flat>
-<flat_id>12</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/7629/2.png</plan>
-<price>7000000</price>
-<area>86,2</area>
-</flat>
-<flat>
-<flat_id>13</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/7629/2.png</plan>
-<price>7000000</price>
-<area>86,2</area>
-</flat>
-<flat>
-<flat_id>18</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/7629/2.png</plan>
-<price>7000000</price>
-<area>86,2</area>
-</flat>
-<flat>
-<flat_id>19</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/7629/2.png</plan>
-<price>7000000</price>
-<area>86,2</area>
-</flat>
-</flats>
-</building>
-<building>
-<id>164503</id>
-<flats>
-<flat>
-<flat_id>14</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/7629/2.png</plan>
-<price>7450000</price>
-<area>86,2</area>
-</flat>
-<flat>
-<flat_id>15</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/7629/2.png</plan>
-<price>7450000</price>
-<area>86,2</area>
-</flat>
-</flats>
-</building>
-<building>
-<id>164505</id>
-<flats>
-<flat>
-<flat_id>16</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/7629/2.png</plan>
-<price>7000000</price>
-<area>86,2</area>
-</flat>
-<flat>
-<flat_id>17</flat_id>
-<floor>1</floor>
-<room>3</room>
-<plan>https://offers-dom.github.io/img/7629/2.png</plan>
-<price>7000000</price>
-<area>86,2</area>
-</flat>
-</flats>
-</building>
-</buildings>
-<sales_info>
-<sales_phone>+7 (495) 374-84-58</sales_phone>
-</sales_info>
-</complex>
+	<complex>
+		<id>7629</id>
+		<name>ЖК "Северное Сияние"</name>
+		<latitude>56.15069</latitude>
+		<longitude>37.49237</longitude>
+		<address>Россия, Московская область, Дмитровский район, городское поселение Икша, поселок опытного хозяйства Ермолино, Центральная улица</address>
+		<buildings>
+			<building>
+				<id>дом 22</id>
+				<flats>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>2</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/7629/1.png</plan>
+						<price>4550000</price>
+						<area>54,3</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<apartment>3</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/7629/1.png</plan>
+						<price>4550000</price>
+						<area>54,3</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<apartment>7</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/7629/1.png</plan>
+						<price>4550000</price>
+						<area>54,3</area>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<apartment>10</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/7629/1.png</plan>
+						<price>4600000</price>
+						<area>54,3</area>
+					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>дом 12</id>
+				<flats>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>2</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/7629/2.png</plan>
+						<price>7000000</price>
+						<area>86,2</area>
+					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>дом 14</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>1</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/7629/2.png</plan>
+						<price>7000000</price>
+						<area>86,2</area>
+					</flat>
+				</flats>
+			</building>
+			<building>
+				<id>дом 15</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>1</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/7629/2.png</plan>
+						<price>7000000</price>
+						<area>86,2</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+7 (495) 374-84-58</sales_phone>
+		</sales_info>
+	</complex>
 </complexes>
