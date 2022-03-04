@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>115806</id>
@@ -16,7 +15,7 @@
 						<floor>2</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115806/60.png</plan>
-						<price>3816000</price>
+						<price>4452000</price>
 						<area>63,6</area>
 					</flat>
 					<flat>
@@ -25,7 +24,7 @@
 						<floor>3</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115806/86.png</plan>
-						<price>2454000</price>
+						<price>2863000</price>
 						<area>40,9</area>
 					</flat>
 					<flat>
@@ -34,7 +33,7 @@
 						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115806/86.png</plan>
-						<price>2628000</price>
+						<price>3066000</price>
 						<area>43,8</area>
 					</flat>
 					<flat>
@@ -43,7 +42,7 @@
 						<floor>2</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115806/105.png</plan>
-						<price>5370000</price>
+						<price>6265000</price>
 						<area>89,5</area>
 					</flat>
 					<flat>
@@ -52,7 +51,7 @@
 						<floor>4</floor>
 						<room>1</room>
 						<plan>offers-dom.github.io/img/115806/106.png</plan>
-						<price>2436000</price>
+						<price>2842000</price>
 						<area>40,6</area>
 					</flat>
 				</flats>
