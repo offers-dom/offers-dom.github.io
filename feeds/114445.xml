@@ -11,272 +11,218 @@
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
-						<apartment>1</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/114445/36,1.jpg</plan>
-						<price>3322000</price>
-						<area>36,1</area>
-					</flat>
-					<flat>
-						<flat_id>2</flat_id>
-						<apartment>3</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3123000</price>
-						<area>34,7</area>
-					</flat>
-					<flat>
-						<flat_id>3</flat_id>
 						<apartment>7</apartment>
 						<floor>1</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/114445/46,4.jpg</plan>
-						<price>4600000</price>
+						<price>5000000</price>
 						<area>46,2</area>
 					</flat>
 					<flat>
-						<flat_id>4</flat_id>
-						<apartment>9</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/114445/35,5.jpg</plan>
-						<price>3339000</price>
-						<area>35,9</area>
-					</flat>
-					<flat>
-						<flat_id>5</flat_id>
+						<flat_id>2</flat_id>
 						<apartment>12</apartment>
 						<floor>2</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3890000</price>
+						<price>4164000</price>
 						<area>34,7</area>
 					</flat>
 					<flat>
-						<flat_id>6</flat_id>
-						<apartment>21</apartment>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3287000</price>
-						<area>34,6</area>
-					</flat>
-					<flat>
-						<flat_id>7</flat_id>
+						<flat_id>3</flat_id>
 						<apartment>31</apartment>
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3210000</price>
+						<price>3795000</price>
 						<area>34,5</area>
 					</flat>
 					<flat>
-						<flat_id>8</flat_id>
+						<flat_id>4</flat_id>
 						<apartment>32</apartment>
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3210000</price>
+						<price>3806000</price>
 						<area>34,6</area>
 					</flat>
 					<flat>
-						<flat_id>9</flat_id>
+						<flat_id>5</flat_id>
 						<apartment>33</apartment>
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3210000</price>
+						<price>3784000</price>
 						<area>34,4</area>
 					</flat>
 					<flat>
-						<flat_id>10</flat_id>
+						<flat_id>6</flat_id>
 						<apartment>36</apartment>
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/35,5.jpg</plan>
-						<price>3450000</price>
+						<price>3927000</price>
 						<area>35,7</area>
 					</flat>
 					<flat>
-						<flat_id>11</flat_id>
+						<flat_id>7</flat_id>
 						<apartment>39</apartment>
 						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3190000</price>
+						<price>3470000</price>
 						<area>34,7</area>
 					</flat>
 					<flat>
-						<flat_id>12</flat_id>
-						<apartment>40</apartment>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3190000</price>
-						<area>34,6</area>
-					</flat>
-					<flat>
-						<flat_id>13</flat_id>
+						<flat_id>8</flat_id>
 						<apartment>41</apartment>
 						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3820000</price>
+						<price>4092000</price>
 						<area>34,1</area>
 					</flat>
 					<flat>
-						<flat_id>14</flat_id>
+						<flat_id>9</flat_id>
 						<apartment>45</apartment>
 						<floor>5</floor>
 						<room>1</room>
-						<plan>https://offers-dom.github.io/img/114445/35,5.jpg</plan>
-						<price>3420000</price>
+						<plan>https://offers-dom.github.io/img/114445/36,1.jpg</plan>
+						<price>3600000</price>
 						<area>36</area>
 					</flat>
 					<flat>
-						<flat_id>15</flat_id>
+						<flat_id>10</flat_id>
 						<apartment>46</apartment>
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/35,5.jpg</plan>
-						<price>3285000</price>
+						<price>3498600</price>
 						<area>35,7</area>
 					</flat>
 					<flat>
-						<flat_id>16</flat_id>
+						<flat_id>11</flat_id>
 						<apartment>50</apartment>
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3141000</price>
+						<price>3420200</price>
 						<area>34,9</area>
 					</flat>
 					<flat>
-						<flat_id>17</flat_id>
+						<flat_id>12</flat_id>
 						<apartment>51</apartment>
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3123000</price>
+						<price>3400600</price>
 						<area>34,7</area>
 					</flat>
 					<flat>
-						<flat_id>18</flat_id>
+						<flat_id>13</flat_id>
 						<apartment>53</apartment>
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/36,1.jpg</plan>
-						<price>3295000</price>
+						<price>3547600</price>
 						<area>36,2</area>
 					</flat>
 					<flat>
-						<flat_id>19</flat_id>
+						<flat_id>14</flat_id>
 						<apartment>55</apartment>
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/35,5.jpg</plan>
-						<price>3295000</price>
+						<price>3508400</price>
 						<area>35,8</area>
 					</flat>
 					<flat>
-						<flat_id>20</flat_id>
+						<flat_id>15</flat_id>
 						<apartment>73</apartment>
 						<floor>3</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/36,1.jpg</plan>
-						<price>3400000</price>
+						<price>4015000</price>
 						<area>36,5</area>
 					</flat>
 					<flat>
-						<flat_id>21</flat_id>
-						<apartment>75</apartment>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/114445/35,5.jpg</plan>
-						<price>3440000</price>
-						<area>35,8</area>
-					</flat>
-					<flat>
-						<flat_id>22</flat_id>
+						<flat_id>16</flat_id>
 						<apartment>79</apartment>
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3239000</price>
+						<price>3828000</price>
 						<area>34,8</area>
 					</flat>
 					<flat>
-						<flat_id>23</flat_id>
+						<flat_id>17</flat_id>
 						<apartment>80</apartment>
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3240000</price>
+						<price>3817000</price>
 						<area>34,7</area>
 					</flat>
 					<flat>
-						<flat_id>24</flat_id>
+						<flat_id>18</flat_id>
 						<apartment>81</apartment>
 						<floor>4</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3240000</price>
+						<price>3839000</price>
 						<area>34,9</area>
 					</flat>
 					<flat>
-						<flat_id>25</flat_id>
+						<flat_id>19</flat_id>
 						<apartment>86</apartment>
 						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/35,5.jpg</plan>
-						<price>3420000</price>
+						<price>3580000</price>
 						<area>35,8</area>
 					</flat>
 					<flat>
-						<flat_id>26</flat_id>
+						<flat_id>20</flat_id>
 						<apartment>89</apartment>
 						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3200000</price>
+						<price>3470000</price>
 						<area>34,7</area>
 					</flat>
 					<flat>
-						<flat_id>27</flat_id>
+						<flat_id>21</flat_id>
 						<apartment>90</apartment>
 						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3200000</price>
+						<price>3480000</price>
 						<area>34,8</area>
 					</flat>
 					<flat>
-						<flat_id>28</flat_id>
+						<flat_id>22</flat_id>
 						<apartment>91</apartment>
 						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/34,4.jpg</plan>
-						<price>3200000</price>
+						<price>3480000</price>
 						<area>34,8</area>
 					</flat>
 					<flat>
-						<flat_id>29</flat_id>
+						<flat_id>23</flat_id>
 						<apartment>94</apartment>
 						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/35,5.jpg</plan>
-						<price>3420000</price>
+						<price>3580000</price>
 						<area>35,8</area>
 					</flat>
 					<flat>
-						<flat_id>30</flat_id>
+						<flat_id>24</flat_id>
 						<apartment>95</apartment>
 						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/114445/35,5.jpg</plan>
-						<price>3420000</price>
+						<price>3590000</price>
 						<area>35,9</area>
 					</flat>
 				</flats>
