@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>115737</id>
@@ -204,7 +205,7 @@
 						<floor>9</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115737/37,19.png</plan>
-						<price>2677680</price>
+						<price>2789250</price>
 						<area>37,19</area>
 					</flat>
 					<flat>
@@ -353,15 +354,6 @@
 					</flat>
 					<flat>
 						<flat_id>39</flat_id>
-						<apartment>77</apartment>
-						<floor>7</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/115737/37,19.png</plan>
-						<price>2789250</price>
-						<area>37,19</area>
-					</flat>
-					<flat>
-						<flat_id>40</flat_id>
 						<apartment>80</apartment>
 						<floor>7</floor>
 						<room>3</room>
@@ -370,7 +362,7 @@
 						<area>82,14</area>
 					</flat>
 					<flat>
-						<flat_id>41</flat_id>
+						<flat_id>40</flat_id>
 						<apartment>81</apartment>
 						<floor>8</floor>
 						<room>3</room>
@@ -379,7 +371,7 @@
 						<area>82,24</area>
 					</flat>
 					<flat>
-						<flat_id>42</flat_id>
+						<flat_id>41</flat_id>
 						<apartment>85</apartment>
 						<floor>8</floor>
 						<room>3</room>
@@ -388,13 +380,22 @@
 						<area>82,14</area>
 					</flat>
 					<flat>
-						<flat_id>43</flat_id>
+						<flat_id>42</flat_id>
 						<apartment>86</apartment>
 						<floor>9</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115737/82,24.png</plan>
 						<price>5756800</price>
 						<area>82,24</area>
+					</flat>
+					<flat>
+						<flat_id>43</flat_id>
+						<apartment>89</apartment>
+						<floor>9</floor>
+						<room>1</room>
+						<plan>https://offers-dom.github.io/img/115737/37,19.png</plan>
+						<price>2789250</price>
+						<area>37,19</area>
 					</flat>
 					<flat>
 						<flat_id>44</flat_id>
@@ -1172,6 +1173,15 @@
 					</flat>
 					<flat>
 						<flat_id>130</flat_id>
+						<apartment>299</apartment>
+						<floor>9</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/115737/70,17.png</plan>
+						<price>5262750</price>
+						<area>70,17</area>
+					</flat>
+					<flat>
+						<flat_id>131</flat_id>
 						<apartment>304</apartment>
 						<floor>9</floor>
 						<room>2</room>
