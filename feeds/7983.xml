@@ -1,10 +1,10 @@
 <complexes>
 	<complex>
 		<id>117078</id>
-		<name>ЖК район "Солнечный"</name>
-		<latitude>56.10394</latitude>
-		<longitude>47.32949</longitude>
-		<address>Россия, Чувашская Республика, Чебоксары, микрорайон Солнечный</address>
+		<name>ЖК в районе "Солнечный", Позиция 53"</name>
+		<latitude>56.10482306156685</latitude>
+		<longitude>47.32930428703252</longitude>
+		<address>Россия, Чувашская Республика, Чебоксары, Солнечный бульвар, поз53</address>
 		<buildings>
 			<building>
 				<id>166929</id>
