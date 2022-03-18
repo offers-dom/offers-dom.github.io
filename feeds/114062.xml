@@ -20,6 +20,15 @@
 					</flat>
 					<flat>
 						<flat_id>2</flat_id>
+						<apartment>1036</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>https://offers-dom.github.io/img/114062/76,86.png</plan>
+						<price>4770000</price>
+						<area>76,86</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
 						<apartment>2022</apartment>
 						<floor>2</floor>
 						<room>3</room>
@@ -31,7 +40,7 @@
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>78422275537</sales_phone>
+			<sales_phone>+78422275537</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
