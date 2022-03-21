@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>116367</id>
-		<name>ЖК Дом по ул Грязелечебница</name>
+		<name>ЖК "Дом по ул Грязелечебница"</name>
 		<latitude>43.263888</latitude>
 		<longitude>132.026574</longitude>
 		<address>Россия, Владивосток, ул Грязелечебница, д 27а</address>
@@ -15,68 +16,59 @@
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/116367/1%20%D1%8D%D1%82.%D0%BA%D0%B2.1.jpg</plan>
-						<price>4785600</price>
+						<price>4905240</price>
 						<area>39,88</area>
 					</flat>
 					<flat>
-						<flat_id>2</flat_id>
-						<apartment>10</apartment>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/116367/1%D1%8D%D1%82.%D0%BA%D0%B2.21.jpg</plan>
-						<price>7890320</price>
-						<area>68,02</area>
-					</flat>
-					<flat>
-						<flat_id>3</flat_id>
+						<flat_id>15</flat_id>
 						<apartment>15</apartment>
 						<floor>3</floor>
 						<room>2</room>
-						<plan>https://offers-dom.github.io/img/116367/1%D1%8D%D1%82.%D0%BA%D0%B2.21.jpg</plan>
-						<price>7890320</price>
+						<plan>https://offers-dom.github.io/img/116367/2%D1%8D%D1%82.%D0%BA%D0%B226%203%D1%8D%D1%82.%D0%BA%D0%B2.29.jpg</plan>
+						<price>8094380</price>
 						<area>68,02</area>
 					</flat>
 					<flat>
-						<flat_id>4</flat_id>
+						<flat_id>30</flat_id>
 						<apartment>30</apartment>
 						<floor>4</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/116367/4%D1%8D%D1%82.%D0%BA%D0%B2.30.jpg</plan>
-						<price>7864800</price>
+						<price>8068200</price>
 						<area>67,8</area>
 					</flat>
 					<flat>
-						<flat_id>5</flat_id>
+						<flat_id>23</flat_id>
 						<apartment>23</apartment>
 						<floor>1</floor>
 						<room>4</room>
 						<plan>https://offers-dom.github.io/img/116367/1%D1%8D%D1%82.%D0%BA%D0%B2.23.jpg</plan>
-						<price>13163700</price>
+						<price>13403040</price>
 						<area>119,67</area>
 					</flat>
 					<flat>
-						<flat_id>6</flat_id>
+						<flat_id>26</flat_id>
 						<apartment>26</apartment>
 						<floor>2</floor>
 						<room>4</room>
-						<plan>https://github.com/offers-dom/offers-dom.github.io/blob/main/img/116367/2%D1%8D%D1%82.%D0%BA%D0%B226%203%D1%8D%D1%82.%D0%BA%D0%B2.29.jpg</plan>
-						<price>14614600</price>
+						<plan>https://offers-dom.github.io/img/116367/2%D1%8D%D1%82.%D0%BA%D0%B226%203%D1%8D%D1%82.%D0%BA%D0%B2.29.jpg</plan>
+						<price>14880320</price>
 						<area>132,86</area>
 					</flat>
 					<flat>
-						<flat_id>7</flat_id>
+						<flat_id>29</flat_id>
 						<apartment>29</apartment>
 						<floor>3</floor>
 						<room>4</room>
-						<plan>https://github.com/offers-dom/offers-dom.github.io/blob/main/img/116367/2%D1%8D%D1%82.%D0%BA%D0%B226%203%D1%8D%D1%82.%D0%BA%D0%B2.29.jpg</plan>
-						<price>14614600</price>
+						<plan>https://offers-dom.github.io/img/116367/2%D1%8D%D1%82.%D0%BA%D0%B226%203%D1%8D%D1%82.%D0%BA%D0%B2.29.jpg</plan>
+						<price>14880320</price>
 						<area>132,86</area>
 					</flat>
 				</flats>
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>8 (423) 226-94-40</sales_phone>
+			<sales_phone>84232269440</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
