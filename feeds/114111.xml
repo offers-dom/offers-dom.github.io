@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>114111</id>
 		<name>Европейский квартал</name>
-		<latitude>46.94717</latitude>
-		<longitude>142.75622</longitude>
+		<latitude>46.94736</latitude>
+		<longitude>142.75624</longitude>
 		<address>Россия, Сахалинская область, Южно-Сахалинск, 16-й микрорайон</address>
 		<buildings>
 			<building>
