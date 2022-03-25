@@ -1,1756 +1,370 @@
 <complexes>
-<complex>
-<id>111806</id>
-<name>Царицынский VI</name>
-<latitude>51.53742</latitude>
-<longitude>45.97607</longitude>
-<address>Россия, Саратов, жилой комплекс Царицынский, 4к2</address>
-<description_main>
-<title>Царицынский VI</title>
-<text>
-«Царицынский VI» – завершающий дом в комплексе, построенном в едином архитектурном стиле. Этот комплекс спроектирован для тех, кто хочет жить с действительно царским комфортом. Дом находится в благополучном и очень живописном районе, где квартиры Саратова традиционно пользуются спросом. Комплекс построен по кирпично-монолитной технологии. Ее особенность – отсутствие швов в наружных стенах, толстые монолитные перекрытия. Благодаря этому квартиры теплые, с хорошей звукоизоляцией. Это уютное и комфортное жилье, где вам не помешает шум от соседей, не придется столкнуться со сквозняками и перепадами температур. «Царицынский VI» – пятисекционное, 23-х этажное здание, в котором сдано 643 квартиры со свободной планировкой. Все помещения сдаются без отделки и перегородок. Такое решение хорошо подходит для людей не готовых жить в типовой многоэтажке и мириться с неудобным расположением комнат. Вы сами создаете дизайн Вашей квартиры, выбирая тот вариант планировки, который лучше всего подходит для вашего образа жизни. Квартиры разной площади, учитывающие пожелания и молодых активных людей, и семейных пар с детьми. Проект включает в себя полное обустройство придомовых территорий и обеспечение безопасности. На территории оборудованы две площадки – для отдыха взрослых и игровая для детей. На детской площадке установлено игровое и спортивное оборудование, а для обеспечения безопасности малышей в случае падения использовано специальное травмобезопасное покрытие из резиновой крошки. Все дома «Царицынского» полностью отвечают понятию «комфортная городская среда». Здесь объединены современные технологии и стремление человека жить в экологически чистом месте, с обилием зелени. К дому организованы удобные подъездные пути, что очень важно для жильцов с собственным автотранспортом. Все придомовые территории, включая подъездные дорожки, площадки, малые архитектурные формы, освещаются в темное время суток.
-</text>
-</description_main>
-<description_secondary>
-<title>Инфраструктура</title>
-<text>
-Хорошие квартиры Саратова отличают не только современные строительные технологии и полное инженерное обеспечение. Хорошая квартира – это еще и расположение в районе с развитой инфраструктурой. Комплекс «Царицынский» находится во Фрунзенском районе. Положение ЖК уникально – практически в шаговой доступности от него находятся не только магазины, фитнес-центры, аптеки, но и культурные объекты. Всего в получасе езды – цирк, Театр юного зрителя, Театр оперы и балета. В лесопарковой зоне – Детском парке – можно просто побродить по тенистым аллеям, но и людям, предпочитающим активный отдых, здесь есть немало интересных возможностей. Для детей работают аттракционы, спортивные площадки, где ваш малыш может с удовольствием бегать и играть. Вы сможете не просто проводить выходные дни вместе с семьей, но и сделать досуг активным, наполненным интересными событиями и яркими эмоциями. Для семей с детьми или молодых пар, только планирующих стать родителями, «Царицынский VI» – лучший выбор квартиры Саратова. Рядом с домом находится детский сад «Маячок», школа №77. Вам не придется каждый день тратить время на то, чтобы отвозить вашего малыша в детсад или школу. Близость к дому детских развивающих центров оценят те родители, для которых раннее развитие малыша – это не просто модный тренд, а необходимость и забота о его будущем. Хорошо развита и медицинская инфраструктура. В шаговой доступности находятся детская городская больница и клиническая больница №5. Также здесь функционируют негосударственные лечебные учреждения, самым известным из которых можно считать клинику профессора Чуракова. Этот медицинский центр специализируется на акушерстве и гинекологии, вопросах продления рода, здорового материнства.
-</text>
-</description_secondary>
-<infrastructure>
-<sports_ground>true</sports_ground>
-<playground>true</playground>
-<school>true</school>
-<kindergarten>true</kindergarten>
-</infrastructure>
-<videos>
-<video>
-<type>youtube</type>
-<url/>
-</video>
-</videos>
-<profits_main>
-<profit_main>
-<title/>
-<text/>
-<image/>
-</profit_main>
-</profits_main>
-<profits_secondary>
-<profit_secondary>
-<title/>
-<text/>
-<image/>
-</profit_secondary>
-</profits_secondary>
-<buildings>
-<building>
-<id>149870</id>
-<fz_214>true</fz_214>
-<name>Царицынский VI, Дом № 4</name>
-<floors>23</floors>
-<floors_ready>23</floors_ready>
-<building_state>unfinished</building_state>
-<built_year>2020</built_year>
-<ready_quarter>3</ready_quarter>
-<building_type>кирпично-монолитный</building_type>
-<flats>
-<flat>
-<flat_id>1</flat_id>
-<apartment>1</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>2</flat_id>
-<apartment>2</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>3</flat_id>
-<apartment>3</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>4</flat_id>
-<apartment>4</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>5</flat_id>
-<apartment>5</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>6</flat_id>
-<apartment>6</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>7</flat_id>
-<apartment>7</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>8</flat_id>
-<apartment>8</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>9</flat_id>
-<apartment>9</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>10</flat_id>
-<apartment>10</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>11</flat_id>
-<apartment>11</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>12</flat_id>
-<apartment>12</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>13</flat_id>
-<apartment>13</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>14</flat_id>
-<apartment>14</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>15</flat_id>
-<apartment>15</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>16</flat_id>
-<apartment>16</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>17</flat_id>
-<apartment>17</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>18</flat_id>
-<apartment>18</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>19</flat_id>
-<apartment>19</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>20</flat_id>
-<apartment>20</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>21</flat_id>
-<apartment>21</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>22</flat_id>
-<apartment>22</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>23</flat_id>
-<apartment>23</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>24</flat_id>
-<apartment>24</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>25</flat_id>
-<apartment>25</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>26</flat_id>
-<apartment>26</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>  
-<flat>
-<flat_id>27</flat_id>
-<apartment>27</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115682</flat_id>
-<apartment>115682</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115683</flat_id>
-<apartment>126</apartment>
-<floor>2</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115684</flat_id>
-<apartment>115684</apartment>
-<floor>4</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115685</flat_id>
-<apartment>115685</apartment>
-<floor>5</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115675</flat_id>
-<apartment>147</apartment>
-<floor>6</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3700000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115686</flat_id>
-<apartment>150</apartment>
-<floor>6</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115676</flat_id>
-<apartment>153</apartment>
-<floor>7</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115677</flat_id>
-<apartment>159</apartment>
-<floor>8</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115687</flat_id>
-<apartment>162</apartment>
-<floor>8</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115678</flat_id>
-<apartment>165</apartment>
-<floor>9</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115689</flat_id>
-<apartment>174</apartment>
-<floor>10</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115690</flat_id>
-<apartment>180</apartment>
-<floor>11</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115679</flat_id>
-<apartment>183</apartment>
-<floor>12</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115680</flat_id>
-<apartment>189</apartment>
-<floor>13</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115681</flat_id>
-<apartment>213</apartment>
-<floor>17</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115733</flat_id>
-<apartment>255</apartment>
-<floor>1</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115753</flat_id>
-<apartment>266</apartment>
-<floor>3</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115731</flat_id>
-<apartment>269</apartment>
-<floor>4</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115730</flat_id>
-<apartment>274</apartment>
-<floor>5</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115751</flat_id>
-<apartment>281</apartment>
-<floor>6</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115728</flat_id>
-<apartment>289</apartment>
-<floor>8</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115749</flat_id>
-<apartment>291</apartment>
-<floor>8</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115727</flat_id>
-<apartment>294</apartment>
-<floor>9</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115726</flat_id>
-<apartment>299</apartment>
-<floor>10</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115718</flat_id>
-<apartment>300</apartment>
-<floor>10</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/uhPdwkk/rs:fit:1600:1200/plain/local:///k9/5l/k95lampa2lvc9b20j18zbllw2yjl@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.39</area>
-<living_area>43.02</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115748</flat_id>
-<apartment>301</apartment>
-<floor>10</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115725</flat_id>
-<apartment>304</apartment>
-<floor>11</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115747</flat_id>
-<apartment>306</apartment>
-<floor>11</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115724</flat_id>
-<apartment>309</apartment>
-<floor>12</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115709</flat_id>
-<apartment>310</apartment>
-<floor>12</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/uhPdwkk/rs:fit:1600:1200/plain/local:///k9/5l/k95lampa2lvc9b20j18zbllw2yjl@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.39</area>
-<living_area>43.02</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115746</flat_id>
-<apartment>311</apartment>
-<floor>12</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115710</flat_id>
-<apartment>315</apartment>
-<floor>13</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/uhPdwkk/rs:fit:1600:1200/plain/local:///k9/5l/k95lampa2lvc9b20j18zbllw2yjl@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.39</area>
-<living_area>43.02</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115745</flat_id>
-<apartment>316</apartment>
-<floor>13</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115722</flat_id>
-<apartment>324</apartment>
-<floor>15</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115713</flat_id>
-<apartment>325</apartment>
-<floor>15</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/uhPdwkk/rs:fit:1600:1200/plain/local:///k9/5l/k95lampa2lvc9b20j18zbllw2yjl@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.39</area>
-<living_area>43.02</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115744</flat_id>
-<apartment>326</apartment>
-<floor>15</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115721</flat_id>
-<apartment>329</apartment>
-<floor>16</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>3750000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115720</flat_id>
-<apartment>334</apartment>
-<floor>17</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115711</flat_id>
-<apartment>335</apartment>
-<floor>17</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/uhPdwkk/rs:fit:1600:1200/plain/local:///k9/5l/k95lampa2lvc9b20j18zbllw2yjl@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.39</area>
-<living_area>43.02</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115742</flat_id>
-<apartment>336</apartment>
-<floor>17</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115712</flat_id>
-<apartment>340</apartment>
-<floor>18</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/uhPdwkk/rs:fit:1600:1200/plain/local:///k9/5l/k95lampa2lvc9b20j18zbllw2yjl@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.39</area>
-<living_area>43.02</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115719</flat_id>
-<apartment>344</apartment>
-<floor>19</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115714</flat_id>
-<apartment>345</apartment>
-<floor>19</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/uhPdwkk/rs:fit:1600:1200/plain/local:///k9/5l/k95lampa2lvc9b20j18zbllw2yjl@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.39</area>
-<living_area>43.02</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115740</flat_id>
-<apartment>346</apartment>
-<floor>19</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115734</flat_id>
-<apartment>349</apartment>
-<floor>20</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115834</flat_id>
-<apartment>543</apartment>
-<floor>7</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115835</flat_id>
-<apartment>549</apartment>
-<floor>8</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115836</flat_id>
-<apartment>561</apartment>
-<floor>10</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115837</flat_id>
-<apartment>567</apartment>
-<floor>11</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115838</flat_id>
-<apartment>573</apartment>
-<floor>12</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115839</flat_id>
-<apartment>591</apartment>
-<floor>15</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115840</flat_id>
-<apartment>633</apartment>
-<floor>22</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-<flat>
-<flat_id>115841</flat_id>
-<apartment>639</apartment>
-<floor>23</floor>
-<room>3</room>
-<plan>
-https://images.kvartirogramma.ru/K_6j3Jo/rs:fit:1600:1200/plain/local:///jk/41/jk4194py0wormajze2ig6l47yphn@jpg
-</plan>
-<balcony/>
-<price>4200000</price>
-<area>80.85</area>
-<living_area>48.81</living_area>
-<kitchen_area/>
-<window_view/>
-<bathroom/>
-<rooms_area>
-<area/>
-</rooms_area>
-<decoration>0</decoration>
-<renovation>нет</renovation>
-</flat>
-</flats>
-</building>
-</buildings>
-<sales_info>
-<sales_address>г. Саратов ул.Кисилева 64/66</sales_address>
-<sales_phone>+79873774180</sales_phone>
-<responsible_officer_phone>+79955124618</responsible_officer_phone>
-</sales_info>
-<developer>
-<id> 6966</id>
-<name>Шэлдом</name>
-<phone>+79873774180</phone>
-<site>http://shaldom.com/</site>
-<logo>
-https://images.kvartirogramma.ru/LkigDho/rs:fit:480:300/plain/local:///zk/ji/zkji13vmx64vgcuq0ezupbk748tv
-</logo>
-</developer>
-</complex>
+	<complex>
+		<id>111806</id>
+		<name>Царицынский VI</name>
+		<latitude>51.53742</latitude>
+		<longitude>45.97607</longitude>
+		<address>Россия, Саратов, жилой комплекс Царицынский, 4к2</address>
+		<buildings>
+			<building>
+				<id>149870</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>1</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111806/1.png</plan>
+						<price>5897300</price>
+						<area>69,38</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>2</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<apartment>3</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<apartment>4</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<apartment>5</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<apartment>6</apartment>
+						<floor>4</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<apartment>7</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<apartment>8</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>9</flat_id>
+						<apartment>9</apartment>
+						<floor>20</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<apartment>10</apartment>
+						<floor>23</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>11</flat_id>
+						<apartment>11</apartment>
+						<floor>21</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>12</flat_id>
+						<apartment>12</apartment>
+						<floor>22</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>13</flat_id>
+						<apartment>13</apartment>
+						<floor>19</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>14</flat_id>
+						<apartment>14</apartment>
+						<floor>18</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>15</flat_id>
+						<apartment>15</apartment>
+						<floor>13</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>16</flat_id>
+						<apartment>16</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>17</flat_id>
+						<apartment>17</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>18</flat_id>
+						<apartment>18</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>19</flat_id>
+						<apartment>19</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111806/1.png</plan>
+						<price>5897300</price>
+						<area>69,38</area>
+					</flat>
+					<flat>
+						<flat_id>20</flat_id>
+						<apartment>20</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111806/1.png</plan>
+						<price>5897300</price>
+						<area>69,38</area>
+					</flat>
+					<flat>
+						<flat_id>21</flat_id>
+						<apartment>21</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>22</flat_id>
+						<apartment>22</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>23</flat_id>
+						<apartment>23</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>24</flat_id>
+						<apartment>24</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>25</flat_id>
+						<apartment>25</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>26</flat_id>
+						<apartment>26</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111806/1.png</plan>
+						<price>5897300</price>
+						<area>69,38</area>
+					</flat>
+					<flat>
+						<flat_id>27</flat_id>
+						<apartment>27</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/111806/1.png</plan>
+						<price>5897300</price>
+						<area>69,38</area>
+					</flat>
+					<flat>
+						<flat_id>28</flat_id>
+						<apartment>28</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>29</flat_id>
+						<apartment>29</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>30</flat_id>
+						<apartment>30</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>31</flat_id>
+						<apartment>31</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>32</flat_id>
+						<apartment>32</apartment>
+						<floor>4</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>33</flat_id>
+						<apartment>33</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>34</flat_id>
+						<apartment>34</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>35</flat_id>
+						<apartment>35</apartment>
+						<floor>4</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>36</flat_id>
+						<apartment>36</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>37</flat_id>
+						<apartment>37</apartment>
+						<floor>3</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>38</flat_id>
+						<apartment>38</apartment>
+						<floor>4</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+					<flat>
+						<flat_id>39</flat_id>
+						<apartment>39</apartment>
+						<floor>5</floor>
+						<room>3</room>
+						<plan>https://images.kvartirogramma.ru/cMcsOKU/rs:fit:1600:1200/plain/local:///gf/en/gfenp7sf5wbjwfd5f3ewkwuw5ekw@jpg</plan>
+						<price>6872249</price>
+						<area>80,85</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+79873774180</sales_phone>
+		</sales_info>
+	</complex>
 </complexes>
