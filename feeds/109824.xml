@@ -11,15 +11,6 @@
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
-						<apartment>1</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/109824/38,89.PNG</plan>
-						<price>2450070</price>
-						<area>38,89</area>
-					</flat>
-					<flat>
-						<flat_id>2</flat_id>
 						<apartment>2</apartment>
 						<floor>1</floor>
 						<room>2</room>
@@ -28,16 +19,7 @@
 						<area>56,38</area>
 					</flat>
 					<flat>
-						<flat_id>3</flat_id>
-						<apartment>3</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/109824/45,89.PNG</plan>
-						<price>2891070</price>
-						<area>45,89</area>
-					</flat>
-					<flat>
-						<flat_id>4</flat_id>
+						<flat_id>2</flat_id>
 						<apartment>5</apartment>
 						<floor>1</floor>
 						<room>3</room>
@@ -46,7 +28,7 @@
 						<area>79,64</area>
 					</flat>
 					<flat>
-						<flat_id>5</flat_id>
+						<flat_id>3</flat_id>
 						<apartment>7</apartment>
 						<floor>2</floor>
 						<room>2</room>
@@ -55,7 +37,7 @@
 						<area>56,38</area>
 					</flat>
 					<flat>
-						<flat_id>6</flat_id>
+						<flat_id>4</flat_id>
 						<apartment>10</apartment>
 						<floor>2</floor>
 						<room>3</room>
@@ -64,7 +46,7 @@
 						<area>79,64</area>
 					</flat>
 					<flat>
-						<flat_id>7</flat_id>
+						<flat_id>5</flat_id>
 						<apartment>15</apartment>
 						<floor>3</floor>
 						<room>3</room>
@@ -73,25 +55,7 @@
 						<area>79,64</area>
 					</flat>
 					<flat>
-						<flat_id>8</flat_id>
-						<apartment>17</apartment>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/109824/56,38.PNG</plan>
-						<price>3664700</price>
-						<area>56,38</area>
-					</flat>
-					<flat>
-						<flat_id>9</flat_id>
-						<apartment>22</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/109824/56,38.PNG</plan>
-						<price>3664700</price>
-						<area>56,38</area>
-					</flat>
-					<flat>
-						<flat_id>10</flat_id>
+						<flat_id>6</flat_id>
 						<apartment>25</apartment>
 						<floor>5</floor>
 						<room>3</room>
@@ -100,16 +64,7 @@
 						<area>79,64</area>
 					</flat>
 					<flat>
-						<flat_id>11</flat_id>
-						<apartment>27</apartment>
-						<floor>6</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/109824/56,38.PNG</plan>
-						<price>3664700</price>
-						<area>56,38</area>
-					</flat>
-					<flat>
-						<flat_id>12</flat_id>
+						<flat_id>7</flat_id>
 						<apartment>30</apartment>
 						<floor>6</floor>
 						<room>3</room>
@@ -118,16 +73,7 @@
 						<area>79,64</area>
 					</flat>
 					<flat>
-						<flat_id>13</flat_id>
-						<apartment>33</apartment>
-						<floor>7</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/109824/45,89.PNG</plan>
-						<price>2982850</price>
-						<area>45,89</area>
-					</flat>
-					<flat>
-						<flat_id>14</flat_id>
+						<flat_id>8</flat_id>
 						<apartment>35</apartment>
 						<floor>7</floor>
 						<room>3</room>
@@ -136,7 +82,7 @@
 						<area>79,64</area>
 					</flat>
 					<flat>
-						<flat_id>15</flat_id>
+						<flat_id>9</flat_id>
 						<apartment>37</apartment>
 						<floor>8</floor>
 						<room>2</room>
@@ -145,7 +91,7 @@
 						<area>56,38</area>
 					</flat>
 					<flat>
-						<flat_id>16</flat_id>
+						<flat_id>10</flat_id>
 						<apartment>40</apartment>
 						<floor>8</floor>
 						<room>3</room>
@@ -154,7 +100,7 @@
 						<area>79,64</area>
 					</flat>
 					<flat>
-						<flat_id>17</flat_id>
+						<flat_id>11</flat_id>
 						<apartment>42</apartment>
 						<floor>9</floor>
 						<room>2</room>
@@ -163,7 +109,7 @@
 						<area>56,38</area>
 					</flat>
 					<flat>
-						<flat_id>18</flat_id>
+						<flat_id>12</flat_id>
 						<apartment>45</apartment>
 						<floor>9</floor>
 						<room>3</room>
@@ -172,16 +118,7 @@
 						<area>79,64</area>
 					</flat>
 					<flat>
-						<flat_id>19</flat_id>
-						<apartment>46</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/109824/46,02.PNG</plan>
-						<price>2899260</price>
-						<area>46,02</area>
-					</flat>
-					<flat>
-						<flat_id>20</flat_id>
+						<flat_id>13</flat_id>
 						<apartment>48</apartment>
 						<floor>1</floor>
 						<room>2</room>
@@ -190,7 +127,7 @@
 						<area>57,45</area>
 					</flat>
 					<flat>
-						<flat_id>21</flat_id>
+						<flat_id>14</flat_id>
 						<apartment>49</apartment>
 						<floor>1</floor>
 						<room>3</room>
@@ -199,7 +136,7 @@
 						<area>67,41</area>
 					</flat>
 					<flat>
-						<flat_id>22</flat_id>
+						<flat_id>15</flat_id>
 						<apartment>50</apartment>
 						<floor>1</floor>
 						<room>2</room>
@@ -208,7 +145,7 @@
 						<area>64,7</area>
 					</flat>
 					<flat>
-						<flat_id>23</flat_id>
+						<flat_id>16</flat_id>
 						<apartment>51</apartment>
 						<floor>2</floor>
 						<room>2</room>
@@ -217,7 +154,7 @@
 						<area>67,03</area>
 					</flat>
 					<flat>
-						<flat_id>24</flat_id>
+						<flat_id>17</flat_id>
 						<apartment>53</apartment>
 						<floor>2</floor>
 						<room>2</room>
@@ -226,7 +163,7 @@
 						<area>57,45</area>
 					</flat>
 					<flat>
-						<flat_id>25</flat_id>
+						<flat_id>18</flat_id>
 						<apartment>54</apartment>
 						<floor>2</floor>
 						<room>3</room>
@@ -235,7 +172,7 @@
 						<area>67,41</area>
 					</flat>
 					<flat>
-						<flat_id>26</flat_id>
+						<flat_id>19</flat_id>
 						<apartment>55</apartment>
 						<floor>2</floor>
 						<room>2</room>
@@ -244,16 +181,7 @@
 						<area>64,7</area>
 					</flat>
 					<flat>
-						<flat_id>27</flat_id>
-						<apartment>63</apartment>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/109824/57,45.PNG</plan>
-						<price>3734250</price>
-						<area>57,45</area>
-					</flat>
-					<flat>
-						<flat_id>28</flat_id>
+						<flat_id>20</flat_id>
 						<apartment>65</apartment>
 						<floor>4</floor>
 						<room>2</room>
@@ -262,7 +190,7 @@
 						<area>64,7</area>
 					</flat>
 					<flat>
-						<flat_id>29</flat_id>
+						<flat_id>21</flat_id>
 						<apartment>66</apartment>
 						<floor>5</floor>
 						<room>2</room>
@@ -271,7 +199,7 @@
 						<area>67,03</area>
 					</flat>
 					<flat>
-						<flat_id>30</flat_id>
+						<flat_id>22</flat_id>
 						<apartment>69</apartment>
 						<floor>5</floor>
 						<room>3</room>
@@ -280,7 +208,7 @@
 						<area>67,41</area>
 					</flat>
 					<flat>
-						<flat_id>31</flat_id>
+						<flat_id>23</flat_id>
 						<apartment>70</apartment>
 						<floor>5</floor>
 						<room>2</room>
@@ -289,7 +217,7 @@
 						<area>64,7</area>
 					</flat>
 					<flat>
-						<flat_id>32</flat_id>
+						<flat_id>24</flat_id>
 						<apartment>71</apartment>
 						<floor>6</floor>
 						<room>2</room>
@@ -298,7 +226,7 @@
 						<area>67,03</area>
 					</flat>
 					<flat>
-						<flat_id>33</flat_id>
+						<flat_id>25</flat_id>
 						<apartment>76</apartment>
 						<floor>7</floor>
 						<room>2</room>
@@ -307,7 +235,7 @@
 						<area>67,03</area>
 					</flat>
 					<flat>
-						<flat_id>34</flat_id>
+						<flat_id>26</flat_id>
 						<apartment>79</apartment>
 						<floor>7</floor>
 						<room>3</room>
@@ -316,7 +244,7 @@
 						<area>67,41</area>
 					</flat>
 					<flat>
-						<flat_id>35</flat_id>
+						<flat_id>27</flat_id>
 						<apartment>80</apartment>
 						<floor>7</floor>
 						<room>2</room>
@@ -325,7 +253,7 @@
 						<area>64,7</area>
 					</flat>
 					<flat>
-						<flat_id>36</flat_id>
+						<flat_id>28</flat_id>
 						<apartment>81</apartment>
 						<floor>8</floor>
 						<room>2</room>
@@ -334,7 +262,7 @@
 						<area>67,03</area>
 					</flat>
 					<flat>
-						<flat_id>37</flat_id>
+						<flat_id>29</flat_id>
 						<apartment>83</apartment>
 						<floor>8</floor>
 						<room>2</room>
@@ -343,7 +271,7 @@
 						<area>57,45</area>
 					</flat>
 					<flat>
-						<flat_id>38</flat_id>
+						<flat_id>30</flat_id>
 						<apartment>84</apartment>
 						<floor>8</floor>
 						<room>3</room>
@@ -352,7 +280,7 @@
 						<area>67,41</area>
 					</flat>
 					<flat>
-						<flat_id>39</flat_id>
+						<flat_id>31</flat_id>
 						<apartment>85</apartment>
 						<floor>8</floor>
 						<room>2</room>
@@ -361,7 +289,7 @@
 						<area>64,7</area>
 					</flat>
 					<flat>
-						<flat_id>40</flat_id>
+						<flat_id>32</flat_id>
 						<apartment>86</apartment>
 						<floor>9</floor>
 						<room>2</room>
@@ -370,7 +298,7 @@
 						<area>67,03</area>
 					</flat>
 					<flat>
-						<flat_id>41</flat_id>
+						<flat_id>33</flat_id>
 						<apartment>88</apartment>
 						<floor>9</floor>
 						<room>2</room>
@@ -379,7 +307,7 @@
 						<area>57,45</area>
 					</flat>
 					<flat>
-						<flat_id>42</flat_id>
+						<flat_id>34</flat_id>
 						<apartment>89</apartment>
 						<floor>9</floor>
 						<room>3</room>
@@ -388,7 +316,7 @@
 						<area>67,41</area>
 					</flat>
 					<flat>
-						<flat_id>43</flat_id>
+						<flat_id>35</flat_id>
 						<apartment>90</apartment>
 						<floor>9</floor>
 						<room>2</room>
