@@ -12,15 +12,6 @@
 					<flat>
 						<flat_id>1</flat_id>
 						<apartment>1</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://novastroyrt.ru/turanova/tura_nova_2A_56,46.jpg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4687200</price>
-						<area>55,8</area>
-					</flat>
-					<flat>
-						<flat_id>2</flat_id>
-						<apartment>2</apartment>
 						<floor>1</floor>
 						<room>3</room>
 						<plan>https://novastroyrt.ru/turanova/tura_nova_3a_2_74,26.jpg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -28,8 +19,8 @@
 						<area>74,1</area>
 					</flat>
 					<flat>
-						<flat_id>3</flat_id>
-						<apartment>3</apartment>
+						<flat_id>2</flat_id>
+						<apartment>2</apartment>
 						<floor>1</floor>
 						<room>3</room>
 						<plan>https://novastroyrt.ru/turanova/tura_nova_3a_2_74,26.jpg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -37,8 +28,8 @@
 						<area>73,9</area>
 					</flat>
 					<flat>
-						<flat_id>4</flat_id>
-						<apartment>4</apartment>
+						<flat_id>3</flat_id>
+						<apartment>3</apartment>
 						<floor>5</floor>
 						<room>2</room>
 						<plan>https://novastroyrt.ru/turanova/tura_nova_2A_56,46.jpg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -51,53 +42,12 @@
 				<id>159941</id>
 				<flats>
 					<flat>
-						<flat_id>5</flat_id>
-						<apartment>5</apartment>
+						<flat_id>4</flat_id>
+						<apartment>4</apartment>
 						<floor>5</floor>
 						<room>2</room>
 						<plan>https://novastroyrt.ru/turanova/tura_nova_2A_56,46.jpg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4629720</price>
-						<area>56,46</area>
-					</flat>
-				</flats>
-			</building>
-			<building>
-				<id>159942</id>
-				<flats>
-					<flat>
-						<flat_id>6</flat_id>
-						<apartment>6</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://novastroyrt.ru/turanova/tura_nova_2A_56,46.jpg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4629720</price>
-						<area>56,46</area>
-					</flat>
-					<flat>
-						<flat_id>7</flat_id>
-						<apartment>7</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://novastroyrt.ru/turanova/tura_nova_2A_56,46.jpg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4629720</price>
-						<area>56,46</area>
-					</flat>
-					<flat>
-						<flat_id>8</flat_id>
-						<apartment>8</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://novastroyrt.ru/turanova/tura_nova_2A_56,46.jpg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4629720</price>
-						<area>56,46</area>
-					</flat>
-					<flat>
-						<flat_id>9</flat_id>
-						<apartment>9</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://novastroyrt.ru/turanova/tura_nova_2A_56,46.jpg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4629720</price>
+						<price>4742640</price>
 						<area>56,46</area>
 					</flat>
 				</flats>
@@ -106,8 +56,8 @@
 				<id>166251</id>
 				<flats>
 					<flat>
-						<flat_id>10</flat_id>
-						<apartment>10</apartment>
+						<flat_id>5</flat_id>
+						<apartment>5</apartment>
 						<floor>1</floor>
 						<room>3</room>
 						<plan>https://static.tildacdn.com/tild6562-6563-4065-b837-376536666339/3A_79_4.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -115,8 +65,8 @@
 						<area>79,4</area>
 					</flat>
 					<flat>
-						<flat_id>11</flat_id>
-						<apartment>11</apartment>
+						<flat_id>6</flat_id>
+						<apartment>6</apartment>
 						<floor>1</floor>
 						<room>3</room>
 						<plan>https://static.tildacdn.com/tild6562-6563-4065-b837-376536666339/3A_79_4.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -124,12 +74,12 @@
 						<area>79,4</area>
 					</flat>
 					<flat>
-						<flat_id>12</flat_id>
-						<apartment>12</apartment>
+						<flat_id>7</flat_id>
+						<apartment>7</apartment>
 						<floor>4</floor>
 						<room>2</room>
 						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4750130</price>
+						<price>4837510</price>
 						<area>61,69</area>
 					</flat>
 				</flats>
@@ -138,8 +88,8 @@
 				<id>167459</id>
 				<flats>
 					<flat>
-						<flat_id>13</flat_id>
-						<apartment>13</apartment>
+						<flat_id>8</flat_id>
+						<apartment>8</apartment>
 						<floor>1</floor>
 						<room>3</room>
 						<plan>https://static.tildacdn.com/tild6562-6563-4065-b837-376536666339/3A_79_4.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -147,39 +97,21 @@
 						<area>79,4</area>
 					</flat>
 					<flat>
-						<flat_id>14</flat_id>
-						<apartment>14</apartment>
+						<flat_id>9</flat_id>
+						<apartment>9</apartment>
+						<floor>1</floor>
+						<room>3</room>
+						<plan>https://static.tildacdn.com/tild6562-6563-4065-b837-376536666339/3A_79_4.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>5558000</price>
+						<area>79,4</area>
+					</flat>
+					<flat>
+						<flat_id>10</flat_id>
+						<apartment>10</apartment>
 						<floor>5</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4626750</price>
-						<area>61,69</area>
-					</flat>
-					<flat>
-						<flat_id>15</flat_id>
-						<apartment>15</apartment>
-						<floor>1</floor>
-						<room>3</room>
-						<plan>https://static.tildacdn.com/tild6562-6563-4065-b837-376536666339/3A_79_4.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>5558000</price>
-						<area>79,4</area>
-					</flat>
-					<flat>
-						<flat_id>16</flat_id>
-						<apartment>16</apartment>
-						<floor>4</floor>
 						<room>2</room>
 						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>4750130</price>
-						<area>61,69</area>
-					</flat>
-					<flat>
-						<flat_id>17</flat_id>
-						<apartment>17</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4626750</price>
 						<area>61,69</area>
 					</flat>
 				</flats>
@@ -188,46 +120,28 @@
 				<id>166252</id>
 				<flats>
 					<flat>
-						<flat_id>18</flat_id>
-						<apartment>18</apartment>
-						<floor>2</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4328200</price>
-						<area>50,92</area>
-					</flat>
-					<flat>
-						<flat_id>19</flat_id>
-						<apartment>19</apartment>
-						<floor>2</floor>
+						<flat_id>11</flat_id>
+						<apartment>11</apartment>
+						<floor>5</floor>
 						<room>2</room>
-						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4480960</price>
-						<area>50,92</area>
-					</flat>
-					<flat>
-						<flat_id>20</flat_id>
-						<apartment>20</apartment>
-						<floor>2</floor>
-						<room>5</room>
 						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4626750</price>
+						<price>4750130</price>
 						<area>61,69</area>
 					</flat>
 					<flat>
-						<flat_id>21</flat_id>
-						<apartment>21</apartment>
-						<floor>3</floor>
-						<room>1</room>
+						<flat_id>12</flat_id>
+						<apartment>12</apartment>
+						<floor>1</floor>
+						<room>3</room>
 						<plan>https://static.tildacdn.com/tild6562-6563-4065-b837-376536666339/3A_79_4.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>5558000</price>
 						<area>79,4</area>
 					</flat>
 					<flat>
-						<flat_id>22</flat_id>
-						<apartment>22</apartment>
-						<floor>3</floor>
-						<room>1</room>
+						<flat_id>13</flat_id>
+						<apartment>13</apartment>
+						<floor>1</floor>
+						<room>3</room>
 						<plan>https://static.tildacdn.com/tild6562-6563-4065-b837-376536666339/3A_79_4.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>5558000</price>
 						<area>79,4</area>
@@ -238,26 +152,26 @@
 				<id>167460</id>
 				<flats>
 					<flat>
-						<flat_id>23</flat_id>
-						<apartment>23</apartment>
+						<flat_id>14</flat_id>
+						<apartment>14</apartment>
 						<floor>1</floor>
 						<room>2</room>
 						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4328200</price>
+						<price>4531880</price>
 						<area>50,92</area>
 					</flat>
 					<flat>
-						<flat_id>24</flat_id>
-						<apartment>24</apartment>
+						<flat_id>15</flat_id>
+						<apartment>15</apartment>
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4075000</price>
+						<price>4278750</price>
 						<area>40,75</area>
 					</flat>
 					<flat>
-						<flat_id>25</flat_id>
-						<apartment>25</apartment>
+						<flat_id>16</flat_id>
+						<apartment>16</apartment>
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -265,8 +179,8 @@
 						<area>30,86</area>
 					</flat>
 					<flat>
-						<flat_id>26</flat_id>
-						<apartment>26</apartment>
+						<flat_id>17</flat_id>
+						<apartment>17</apartment>
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -274,8 +188,8 @@
 						<area>30,86</area>
 					</flat>
 					<flat>
-						<flat_id>27</flat_id>
-						<apartment>27</apartment>
+						<flat_id>18</flat_id>
+						<apartment>18</apartment>
 						<floor>1</floor>
 						<room>3</room>
 						<plan>https://static.tildacdn.com/tild6562-6563-4065-b837-376536666339/3A_79_4.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -283,126 +197,207 @@
 						<area>79,4</area>
 					</flat>
 					<flat>
-						<flat_id>28</flat_id>
-						<apartment>28</apartment>
+						<flat_id>19</flat_id>
+						<apartment>19</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4401000</price>
+						<area>40,75</area>
+					</flat>
+					<flat>
+						<flat_id>20</flat_id>
+						<apartment>20</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3795780</price>
+						<area>30,86</area>
+					</flat>
+					<flat>
+						<flat_id>21</flat_id>
+						<apartment>21</apartment>
 						<floor>2</floor>
 						<room>2</room>
+						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4837510</price>
+						<area>61,69</area>
+					</flat>
+					<flat>
+						<flat_id>22</flat_id>
+						<apartment>22</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3930000</price>
+						<area>32,75</area>
+					</flat>
+					<flat>
+						<flat_id>23</flat_id>
+						<apartment>23</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4401000</price>
+						<area>40,75</area>
+					</flat>
+					<flat>
+						<flat_id>24</flat_id>
+						<apartment>24</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3795780</price>
+						<area>30,86</area>
+					</flat>
+					<flat>
+						<flat_id>25</flat_id>
+						<apartment>25</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3795780</price>
+						<area>30,86</area>
+					</flat>
+					<flat>
+						<flat_id>26</flat_id>
+						<apartment>26</apartment>
+						<floor>3</floor>
+						<room>2</room>
+						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4837510</price>
+						<area>61,69</area>
+					</flat>
+					<flat>
+						<flat_id>27</flat_id>
+						<apartment>27</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3930000</price>
+						<area>32,75</area>
+					</flat>
+					<flat>
+						<flat_id>28</flat_id>
+						<apartment>28</apartment>
+						<floor>4</floor>
+						<room>2</room>
 						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4480960</price>
+						<price>4633720</price>
 						<area>50,92</area>
 					</flat>
 					<flat>
 						<flat_id>29</flat_id>
 						<apartment>29</apartment>
-						<floor>2</floor>
+						<floor>4</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4278750</price>
+						<price>4401000</price>
 						<area>40,75</area>
 					</flat>
 					<flat>
 						<flat_id>30</flat_id>
 						<apartment>30</apartment>
-						<floor>2</floor>
+						<floor>4</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3703200</price>
+						<price>3795780</price>
 						<area>30,86</area>
 					</flat>
 					<flat>
 						<flat_id>31</flat_id>
 						<apartment>31</apartment>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4750130</price>
-						<area>61,69</area>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3795780</price>
+						<area>30,86</area>
 					</flat>
 					<flat>
 						<flat_id>32</flat_id>
 						<apartment>32</apartment>
-						<floor>3</floor>
+						<floor>4</floor>
 						<room>2</room>
-						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4480960</price>
-						<area>50,92</area>
+						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4837510</price>
+						<area>61,69</area>
 					</flat>
 					<flat>
 						<flat_id>33</flat_id>
 						<apartment>33</apartment>
-						<floor>3</floor>
+						<floor>4</floor>
 						<room>1</room>
-						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4278750</price>
-						<area>40,75</area>
+						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3930000</price>
+						<area>32,75</area>
 					</flat>
 					<flat>
 						<flat_id>34</flat_id>
 						<apartment>34</apartment>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3703200</price>
-						<area>30,86</area>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4531880</price>
+						<area>50,92</area>
 					</flat>
 					<flat>
 						<flat_id>35</flat_id>
 						<apartment>35</apartment>
-						<floor>3</floor>
+						<floor>5</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4075000</price>
+						<area>40,75</area>
+					</flat>
+					<flat>
+						<flat_id>36</flat_id>
+						<apartment>36</apartment>
+						<floor>5</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>3703200</price>
 						<area>30,86</area>
 					</flat>
 					<flat>
-						<flat_id>36</flat_id>
-						<apartment>36</apartment>
-						<floor>3</floor>
+						<flat_id>37</flat_id>
+						<apartment>37</apartment>
+						<floor>5</floor>
 						<room>2</room>
 						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>4750130</price>
 						<area>61,69</area>
 					</flat>
 					<flat>
-						<flat_id>37</flat_id>
-						<apartment>37</apartment>
-						<floor>3</floor>
+						<flat_id>38</flat_id>
+						<apartment>38</apartment>
+						<floor>5</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>3864500</price>
 						<area>32,75</area>
 					</flat>
 					<flat>
-						<flat_id>38</flat_id>
-						<apartment>38</apartment>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4480960</price>
-						<area>50,92</area>
-					</flat>
-					<flat>
 						<flat_id>39</flat_id>
 						<apartment>39</apartment>
-						<floor>4</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4278750</price>
-						<area>40,75</area>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4531880</price>
+						<area>50,92</area>
 					</flat>
 					<flat>
 						<flat_id>40</flat_id>
 						<apartment>40</apartment>
-						<floor>4</floor>
+						<floor>1</floor>
 						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3703200</price>
-						<area>30,86</area>
+						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4075000</price>
+						<area>40,75</area>
 					</flat>
 					<flat>
 						<flat_id>41</flat_id>
 						<apartment>41</apartment>
-						<floor>4</floor>
+						<floor>1</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>3703200</price>
@@ -411,96 +406,6 @@
 					<flat>
 						<flat_id>42</flat_id>
 						<apartment>42</apartment>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4750130</price>
-						<area>61,69</area>
-					</flat>
-					<flat>
-						<flat_id>43</flat_id>
-						<apartment>43</apartment>
-						<floor>4</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3864500</price>
-						<area>32,75</area>
-					</flat>
-					<flat>
-						<flat_id>44</flat_id>
-						<apartment>44</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4328200</price>
-						<area>50,92</area>
-					</flat>
-					<flat>
-						<flat_id>45</flat_id>
-						<apartment>45</apartment>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4075000</price>
-						<area>40,75</area>
-					</flat>
-					<flat>
-						<flat_id>46</flat_id>
-						<apartment>46</apartment>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3703200</price>
-						<area>30,86</area>
-					</flat>
-					<flat>
-						<flat_id>47</flat_id>
-						<apartment>47</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4626750</price>
-						<area>61,69</area>
-					</flat>
-					<flat>
-						<flat_id>48</flat_id>
-						<apartment>48</apartment>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3766250</price>
-						<area>32,75</area>
-					</flat>
-					<flat>
-						<flat_id>49</flat_id>
-						<apartment>49</apartment>
-						<floor>1</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4328200</price>
-						<area>50,92</area>
-					</flat>
-					<flat>
-						<flat_id>50</flat_id>
-						<apartment>50</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4075000</price>
-						<area>40,75</area>
-					</flat>
-					<flat>
-						<flat_id>51</flat_id>
-						<apartment>51</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3703200</price>
-						<area>30,86</area>
-					</flat>
-					<flat>
-						<flat_id>52</flat_id>
-						<apartment>52</apartment>
 						<floor>1</floor>
 						<room>3</room>
 						<plan>https://static.tildacdn.com/tild6562-6563-4065-b837-376536666339/3A_79_4.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
@@ -508,175 +413,175 @@
 						<area>79,4</area>
 					</flat>
 					<flat>
-						<flat_id>53</flat_id>
-						<apartment>53</apartment>
+						<flat_id>43</flat_id>
+						<apartment>43</apartment>
 						<floor>2</floor>
 						<room>2</room>
 						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4480960</price>
+						<price>4633720</price>
 						<area>50,92</area>
+					</flat>
+					<flat>
+						<flat_id>44</flat_id>
+						<apartment>44</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3795780</price>
+						<area>30,86</area>
+					</flat>
+					<flat>
+						<flat_id>45</flat_id>
+						<apartment>45</apartment>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4837510</price>
+						<area>61,69</area>
+					</flat>
+					<flat>
+						<flat_id>46</flat_id>
+						<apartment>46</apartment>
+						<floor>2</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3930000</price>
+						<area>32,75</area>
+					</flat>
+					<flat>
+						<flat_id>47</flat_id>
+						<apartment>47</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4401000</price>
+						<area>40,75</area>
+					</flat>
+					<flat>
+						<flat_id>48</flat_id>
+						<apartment>48</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3795780</price>
+						<area>30,86</area>
+					</flat>
+					<flat>
+						<flat_id>49</flat_id>
+						<apartment>49</apartment>
+						<floor>3</floor>
+						<room>2</room>
+						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4837510</price>
+						<area>61,69</area>
+					</flat>
+					<flat>
+						<flat_id>50</flat_id>
+						<apartment>50</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3930000</price>
+						<area>32,75</area>
+					</flat>
+					<flat>
+						<flat_id>51</flat_id>
+						<apartment>51</apartment>
+						<floor>4</floor>
+						<room>2</room>
+						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4633720</price>
+						<area>50,92</area>
+					</flat>
+					<flat>
+						<flat_id>52</flat_id>
+						<apartment>52</apartment>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4401000</price>
+						<area>40,75</area>
+					</flat>
+					<flat>
+						<flat_id>53</flat_id>
+						<apartment>53</apartment>
+						<floor>4</floor>
+						<room>1</room>
+						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>3795780</price>
+						<area>30,86</area>
 					</flat>
 					<flat>
 						<flat_id>54</flat_id>
 						<apartment>54</apartment>
-						<floor>2</floor>
+						<floor>4</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3703200</price>
+						<price>3795780</price>
 						<area>30,86</area>
 					</flat>
 					<flat>
 						<flat_id>55</flat_id>
 						<apartment>55</apartment>
-						<floor>2</floor>
+						<floor>4</floor>
 						<room>2</room>
 						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4750130</price>
+						<price>4837510</price>
 						<area>61,69</area>
 					</flat>
 					<flat>
 						<flat_id>56</flat_id>
 						<apartment>56</apartment>
-						<floor>2</floor>
+						<floor>4</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3864500</price>
+						<price>3930000</price>
 						<area>32,75</area>
 					</flat>
 					<flat>
 						<flat_id>57</flat_id>
 						<apartment>57</apartment>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4278750</price>
-						<area>40,75</area>
+						<floor>5</floor>
+						<room>2</room>
+						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
+						<price>4531880</price>
+						<area>50,92</area>
 					</flat>
 					<flat>
 						<flat_id>58</flat_id>
 						<apartment>58</apartment>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3703200</price>
-						<area>30,86</area>
-					</flat>
-					<flat>
-						<flat_id>59</flat_id>
-						<apartment>59</apartment>
-						<floor>3</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4750130</price>
-						<area>61,69</area>
-					</flat>
-					<flat>
-						<flat_id>60</flat_id>
-						<apartment>60</apartment>
-						<floor>3</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3864500</price>
-						<area>32,75</area>
-					</flat>
-					<flat>
-						<flat_id>61</flat_id>
-						<apartment>61</apartment>
-						<floor>4</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4480960</price>
-						<area>50,92</area>
-					</flat>
-					<flat>
-						<flat_id>62</flat_id>
-						<apartment>62</apartment>
-						<floor>4</floor>
+						<floor>5</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>4278750</price>
 						<area>40,75</area>
 					</flat>
 					<flat>
-						<flat_id>63</flat_id>
-						<apartment>63</apartment>
-						<floor>4</floor>
+						<flat_id>59</flat_id>
+						<apartment>59</apartment>
+						<floor>5</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>3703200</price>
 						<area>30,86</area>
 					</flat>
 					<flat>
-						<flat_id>64</flat_id>
-						<apartment>64</apartment>
-						<floor>4</floor>
+						<flat_id>60</flat_id>
+						<apartment>60</apartment>
+						<floor>5</floor>
 						<room>1</room>
 						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>3703200</price>
 						<area>30,86</area>
 					</flat>
 					<flat>
-						<flat_id>65</flat_id>
-						<apartment>65</apartment>
-						<floor>4</floor>
+						<flat_id>61</flat_id>
+						<apartment>61</apartment>
+						<floor>5</floor>
 						<room>2</room>
 						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
 						<price>4750130</price>
 						<area>61,69</area>
-					</flat>
-					<flat>
-						<flat_id>66</flat_id>
-						<apartment>66</apartment>
-						<floor>4</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3864500</price>
-						<area>32,75</area>
-					</flat>
-					<flat>
-						<flat_id>67</flat_id>
-						<apartment>67</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild3063-3062-4037-b137-376236616166/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4328200</price>
-						<area>50,92</area>
-					</flat>
-					<flat>
-						<flat_id>68</flat_id>
-						<apartment>68</apartment>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild6561-3164-4665-b339-316132386161/photo_2021-12-03_105.jpeg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4075000</price>
-						<area>40,75</area>
-					</flat>
-					<flat>
-						<flat_id>69</flat_id>
-						<apartment>69</apartment>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3263-6331-4136-b431-353539386535/1b_30_86.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3703200</price>
-						<area>30,86</area>
-					</flat>
-					<flat>
-						<flat_id>70</flat_id>
-						<apartment>70</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://static.tildacdn.com/tild6565-3561-4939-a131-613233613061/2b_61_69.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>4626750</price>
-						<area>61,69</area>
-					</flat>
-					<flat>
-						<flat_id>71</flat_id>
-						<apartment>71</apartment>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://static.tildacdn.com/tild3232-6634-4533-a138-303739343832/1A_2_34_9.svg | https://sun9-67.userapi.com/sun9-57/impg/hkNcQsgeQOXHFJWuwiy0VAs2thtK6G89wKPR_Q/qUaIT5oRdI4.jpg?size=1080x1080&amp;quality=96&amp;sign=2bfc4cc67c738b8206929e80efd2d400&amp;type=album | https://sun9-67.userapi.com/sun9-80/impg/Xvjfg0vLgQKB-gl_VZyDu7VNXIbExkJBeOHIGw/xHfVNr8weVo.jpg?size=1280x853&amp;quality=96&amp;sign=b83b0e97f424012dfdc3b8734fb2143d&amp;type=album | https://sun9-67.userapi.com/sun9-32/impg/zMQwlNGJd-Zg1vvdeHOt9HuDT8AUoJktkCLkgw/NcjjhFVZsWs.jpg?size=1280x853&amp;quality=96&amp;sign=2b9f5787354491a52fcad8a403bfdc6b&amp;type=album</plan>
-						<price>3766250</price>
-						<area>32,75</area>
 					</flat>
 				</flats>
 			</building>
