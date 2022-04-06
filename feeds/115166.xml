@@ -15,7 +15,7 @@
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
@@ -24,7 +24,7 @@
 						<floor>1</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3316320</price>
+						<price>3375540</price>
 						<area>59,22</area>
 					</flat>
 					<flat>
@@ -33,7 +33,7 @@
 						<floor>2</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3316320</price>
+						<price>3375540</price>
 						<area>59,22</area>
 					</flat>
 					<flat>
@@ -42,7 +42,7 @@
 						<floor>2</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
@@ -51,347 +51,302 @@
 						<floor>3</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
 						<flat_id>6</flat_id>
-						<apartment>20</apartment>
-						<floor>3</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
-						<area>76,67</area>
-					</flat>
-					<flat>
-						<flat_id>7</flat_id>
 						<apartment>44</apartment>
 						<floor>7</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>8</flat_id>
+						<flat_id>7</flat_id>
 						<apartment>55</apartment>
 						<floor>8</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>9</flat_id>
+						<flat_id>8</flat_id>
 						<apartment>62</apartment>
 						<floor>9</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>10</flat_id>
+						<flat_id>9</flat_id>
 						<apartment>79</apartment>
 						<floor>12</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>11</flat_id>
+						<flat_id>10</flat_id>
 						<apartment>81</apartment>
 						<floor>12</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3316320</price>
+						<price>3375540</price>
 						<area>59,22</area>
 					</flat>
 					<flat>
-						<flat_id>12</flat_id>
+						<flat_id>11</flat_id>
 						<apartment>83</apartment>
 						<floor>12</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>13</flat_id>
+						<flat_id>12</flat_id>
 						<apartment>85</apartment>
 						<floor>13</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3327520</price>
+						<price>3386940</price>
 						<area>59,42</area>
 					</flat>
 					<flat>
-						<flat_id>14</flat_id>
+						<flat_id>13</flat_id>
 						<apartment>88</apartment>
 						<floor>13</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3316320</price>
+						<price>3375540</price>
 						<area>59,22</area>
 					</flat>
 					<flat>
-						<flat_id>15</flat_id>
+						<flat_id>14</flat_id>
 						<apartment>90</apartment>
 						<floor>13</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>16</flat_id>
+						<flat_id>15</flat_id>
 						<apartment>93</apartment>
 						<floor>14</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>17</flat_id>
+						<flat_id>16</flat_id>
 						<apartment>95</apartment>
 						<floor>14</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3316320</price>
+						<price>3375540</price>
 						<area>59,22</area>
 					</flat>
 					<flat>
-						<flat_id>18</flat_id>
+						<flat_id>17</flat_id>
 						<apartment>100</apartment>
 						<floor>1</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>19</flat_id>
+						<flat_id>18</flat_id>
 						<apartment>102</apartment>
 						<floor>1</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3197880</price>
+						<price>3375540</price>
 						<area>59,22</area>
 					</flat>
 					<flat>
-						<flat_id>20</flat_id>
+						<flat_id>19</flat_id>
 						<apartment>104</apartment>
 						<floor>1</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>21</flat_id>
+						<flat_id>20</flat_id>
 						<apartment>105</apartment>
 						<floor>1</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3327520</price>
+						<price>3386940</price>
 						<area>59,42</area>
 					</flat>
 					<flat>
-						<flat_id>22</flat_id>
+						<flat_id>21</flat_id>
 						<apartment>107</apartment>
 						<floor>2</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>23</flat_id>
-						<apartment>109</apartment>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3197880</price>
-						<area>59,22</area>
-					</flat>
-					<flat>
-						<flat_id>24</flat_id>
+						<flat_id>22</flat_id>
 						<apartment>111</apartment>
 						<floor>2</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>25</flat_id>
+						<flat_id>23</flat_id>
 						<apartment>112</apartment>
 						<floor>2</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3327520</price>
+						<price>3386940</price>
 						<area>59,42</area>
 					</flat>
 					<flat>
-						<flat_id>26</flat_id>
+						<flat_id>24</flat_id>
 						<apartment>118</apartment>
 						<floor>3</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>27</flat_id>
+						<flat_id>25</flat_id>
 						<apartment>128</apartment>
 						<floor>5</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>28</flat_id>
+						<flat_id>26</flat_id>
 						<apartment>142</apartment>
 						<floor>7</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>29</flat_id>
+						<flat_id>27</flat_id>
 						<apartment>149</apartment>
 						<floor>8</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>30</flat_id>
+						<flat_id>28</flat_id>
 						<apartment>151</apartment>
 						<floor>8</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3316320</price>
+						<price>3375540</price>
 						<area>59,22</area>
 					</flat>
 					<flat>
-						<flat_id>31</flat_id>
+						<flat_id>29</flat_id>
 						<apartment>153</apartment>
 						<floor>8</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>32</flat_id>
+						<flat_id>30</flat_id>
 						<apartment>156</apartment>
 						<floor>9</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>33</flat_id>
-						<apartment>158</apartment>
-						<floor>9</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3316320</price>
-						<area>59,22</area>
-					</flat>
-					<flat>
-						<flat_id>34</flat_id>
+						<flat_id>31</flat_id>
 						<apartment>163</apartment>
 						<floor>10</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
+						<price>4216850</price>
 						<area>76,67</area>
 					</flat>
 					<flat>
-						<flat_id>35</flat_id>
+						<flat_id>32</flat_id>
 						<apartment>167</apartment>
 						<floor>10</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>36</flat_id>
-						<apartment>172</apartment>
-						<floor>11</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3316320</price>
-						<area>59,22</area>
-					</flat>
-					<flat>
-						<flat_id>37</flat_id>
+						<flat_id>33</flat_id>
 						<apartment>174</apartment>
 						<floor>11</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>38</flat_id>
+						<flat_id>34</flat_id>
 						<apartment>175</apartment>
 						<floor>11</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3327520</price>
+						<price>3386940</price>
 						<area>59,42</area>
 					</flat>
 					<flat>
-						<flat_id>39</flat_id>
-						<apartment>177</apartment>
-						<floor>12</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>4063510</price>
-						<area>76,67</area>
-					</flat>
-					<flat>
-						<flat_id>40</flat_id>
+						<flat_id>35</flat_id>
 						<apartment>179</apartment>
 						<floor>12</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3316320</price>
+						<price>3375540</price>
 						<area>59,22</area>
 					</flat>
 					<flat>
-						<flat_id>41</flat_id>
+						<flat_id>36</flat_id>
 						<apartment>181</apartment>
 						<floor>12</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>2701800</price>
+						<price>2749200</price>
 						<area>47,4</area>
 					</flat>
 					<flat>
-						<flat_id>42</flat_id>
+						<flat_id>37</flat_id>
 						<apartment>182</apartment>
 						<floor>12</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115166/otlichny-block-a.png</plan>
-						<price>3327520</price>
+						<price>3386940</price>
 						<area>59,42</area>
 					</flat>
 				</flats>
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+7 (835) 264-04-01</sales_phone>
+			<sales_phone>89623218080</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
