@@ -15,7 +15,7 @@
 						<floor>7</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
-						<price>4877600</price>
+						<price>4971400</price>
 						<area>93,8</area>
 					</flat>
 					<flat>
@@ -24,7 +24,7 @@
 						<floor>9</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
-						<price>4877600</price>
+						<price>4971400</price>
 						<area>93,8</area>
 					</flat>
 					<flat>
@@ -33,23 +33,23 @@
 						<floor>10</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
-						<price>4877600</price>
+						<price>4971400</price>
 						<area>93,8</area>
 					</flat>
 					<flat>
 						<flat_id>4</flat_id>
-						<apartment>41</apartment>
-						<floor>12</floor>
+						<apartment>37</apartment>
+						<floor>11</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/113073/1.png</plan>
-						<price>4877600</price>
+						<price>4971400</price>
 						<area>93,8</area>
 					</flat>
 				</flats>
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+79128350029</sales_phone>
+			<sales_phone>89128350029</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
