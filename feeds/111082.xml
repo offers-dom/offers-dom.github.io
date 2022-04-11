@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>111082</id>
 		<name>ЖК Парковый</name>
-		<latitude>53.30175029390102</latitude>
-		<longitude>83.76941198280312</longitude>
-		<address>Россия, Алтайский край, Барнаул, микрорайон Гора</address>
+		<latitude>53.30119084799703</latitude>
+		<longitude>83.76905594840943</longitude>
+		<address>Россия, Алтайский край, Барнаул, Парковая улица, 71</address>
 		<buildings>
 			<building>
 				<id>147797</id>
