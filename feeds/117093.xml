@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>117093</id>
 		<name>ЖК «ВЕСНА»</name>
-		<latitude>52.25971016481773</latitude>
-		<longitude>104.47604895833523</longitude>
-		<address>Россия, Иркутский район, Ушаковское муниципальное образование, посёлок Первомайский</address>
+		<latitude>52.23827</latitude>
+		<longitude>104.22394</longitude>
+		<address>Россия, Иркутский район, рабочий посёлок Маркова, жилой комплекс Весна, 1</address>
 		<buildings>
 			<building>
 				<id>168144</id>
