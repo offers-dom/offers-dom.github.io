@@ -21,7 +21,7 @@
 					<flat>
 						<flat_id>1</flat_id>
 						<apartment>60</apartment>
-						<floor>2</floor>
+						<floor>5</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/115806/60.png</plan>
 						<price>4770000</price>
@@ -30,7 +30,7 @@
 					<flat>
 						<flat_id>2</flat_id>
 						<apartment>86</apartment>
-						<floor>3</floor>
+						<floor>5</floor>
 						<room>1</room>
 						<plan>https://offers-dom.github.io/img/115806/86.png</plan>
 						<price>3067500</price>
@@ -48,7 +48,7 @@
 					<flat>
 						<flat_id>4</flat_id>
 						<apartment>102</apartment>
-						<floor>2</floor>
+						<floor>5</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/115806/105.png</plan>
 						<price>6712500</price>
@@ -57,7 +57,7 @@
 					<flat>
 						<flat_id>5</flat_id>
 						<apartment>106</apartment>
-						<floor>4</floor>
+						<floor>5</floor>
 						<room>1</room>
 						<plan>offers-dom.github.io/img/115806/106.png</plan>
 						<price>3045000</price>
