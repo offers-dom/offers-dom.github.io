@@ -10,6 +10,15 @@
 				<id>163804</id>
 				<flats>
 					<flat>
+						<flat_id>6</flat_id>
+						<apartment>6</apartment>
+						<floor>3</floor>
+						<room>1</room>
+						<plan></plan>
+						<price>3024000</price>
+						<area>37,8</area>
+					</flat>
+					<flat>
 						<flat_id>1</flat_id>
 						<apartment>60</apartment>
 						<floor>2</floor>
