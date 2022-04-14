@@ -11,7 +11,16 @@
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
-						<apartment>4</apartment>
+						<apartment>43</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/1997/4.png</plan>
+						<price>2771850</price>
+						<area>54,35</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>1</apartment>
 						<floor>1</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/1997/4.png</plan>
@@ -19,18 +28,9 @@
 						<area>56,95</area>
 					</flat>
 					<flat>
-						<flat_id>2</flat_id>
+						<flat_id>3</flat_id>
 						<apartment>5</apartment>
 						<floor>2</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/1997/4.png</plan>
-						<price>2904450</price>
-						<area>56,95</area>
-					</flat>
-					<flat>
-						<flat_id>3</flat_id>
-						<apartment>29</apartment>
-						<floor>8</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/1997/4.png</plan>
 						<price>2904450</price>
@@ -54,11 +54,38 @@
 						<price>2904450</price>
 						<area>56,95</area>
 					</flat>
+					<flat>
+						<flat_id>6</flat_id>
+						<apartment>71</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/1997/4.png</plan>
+						<price>2904450</price>
+						<area>56,95</area>
+					</flat>
+					<flat>
+						<flat_id>7</flat_id>
+						<apartment>74</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/1997/4.png</plan>
+						<price>2904450</price>
+						<area>56,95</area>
+					</flat>
+					<flat>
+						<flat_id>8</flat_id>
+						<apartment>110</apartment>
+						<floor>10</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/1997/4.png</plan>
+						<price>2904450</price>
+						<area>56,95</area>
+					</flat>
 				</flats>
 			</building>
 		</buildings>
 		<sales_info>
-			<sales_phone>+79128350029</sales_phone>
+			<sales_phone>89128350029</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
