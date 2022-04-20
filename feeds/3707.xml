@@ -7,34 +7,34 @@
 		<address>Россия, Уфа, ул. Октябрьской Революции</address>
 		<buildings>
 			<building>
-				<id>36593</id>
+				<id>165618</id>
 				<flats>
 					<flat>
 						<flat_id>1</flat_id>
+						<apartment>1163</apartment>
+						<floor>2</floor>
+						<room>3</room>
+						<plan>offers-dom.github.io/img/3707/54.45.png</plan>
+						<price>10544076</price>
+						<area>54,96</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
 						<apartment>1174</apartment>
 						<floor>4</floor>
 						<room>2</room>
 						<plan>offers-dom.github.io/img/3707/36.39.png</plan>
-						<price>7614608</price>
+						<price>7068758</price>
 						<area>36,39</area>
 					</flat>
 					<flat>
-						<flat_id>2</flat_id>
+						<flat_id>3</flat_id>
 						<apartment>1175</apartment>
 						<floor>4</floor>
 						<room>2</room>
 						<plan>https://offers-dom.github.io/img/3707/37.28.png</plan>
 						<price>7800840</price>
 						<area>37,28</area>
-					</flat>
-					<flat>
-						<flat_id>3</flat_id>
-						<apartment>1177</apartment>
-						<floor>4</floor>
-						<room>3</room>
-						<plan>offers-dom.github.io/img/3707/55.09.png</plan>
-						<price>11292267</price>
-						<area>55,93</area>
 					</flat>
 					<flat>
 						<flat_id>4</flat_id>
@@ -47,15 +47,6 @@
 					</flat>
 					<flat>
 						<flat_id>5</flat_id>
-						<apartment>1183</apartment>
-						<floor>5</floor>
-						<room>3</room>
-						<plan>offers-dom.github.io/img/3707/59.72.png</plan>
-						<price>10021016</price>
-						<area>59,72</area>
-					</flat>
-					<flat>
-						<flat_id>6</flat_id>
 						<apartment>1186</apartment>
 						<floor>6</floor>
 						<room>4</room>
@@ -64,7 +55,7 @@
 						<area>78,13</area>
 					</flat>
 					<flat>
-						<flat_id>7</flat_id>
+						<flat_id>6</flat_id>
 						<apartment>1188</apartment>
 						<floor>6</floor>
 						<room>2</room>
@@ -73,16 +64,16 @@
 						<area>37,38</area>
 					</flat>
 					<flat>
-						<flat_id>8</flat_id>
+						<flat_id>7</flat_id>
 						<apartment>1190</apartment>
 						<floor>6</floor>
 						<room>3</room>
-						<plan>offers-dom.github.io/img/3707/60.71.pn</plan>
+						<plan>https://offers-dom.github.io/img/3707/60.71.png</plan>
 						<price>10715315</price>
 						<area>60,71</area>
 					</flat>
 					<flat>
-						<flat_id>9</flat_id>
+						<flat_id>8</flat_id>
 						<apartment>1191</apartment>
 						<floor>6</floor>
 						<room>3</room>
@@ -91,7 +82,7 @@
 						<area>55,93</area>
 					</flat>
 					<flat>
-						<flat_id>10</flat_id>
+						<flat_id>9</flat_id>
 						<apartment>1194</apartment>
 						<floor>7</floor>
 						<room>3</room>
