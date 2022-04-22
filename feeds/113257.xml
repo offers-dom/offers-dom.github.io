@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>113257</id>
@@ -94,32 +93,9 @@
 					</flat>
 				</flats>
 			</building>
-			<building>
-				<id>157379</id>
-				<flats>
-					<flat>
-						<flat_id>9</flat_id>
-						<apartment>145</apartment>
-						<floor>14</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>7156000</price>
-						<area>89,45</area>
-					</flat>
-					<flat>
-						<flat_id>10</flat_id>
-						<apartment>155</apartment>
-						<floor>16</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>7156000</price>
-						<area>89,45</area>
-					</flat>
-				</flats>
-			</building>
-		</buildings>
+			</buildings>
 		<sales_info>
-			<sales_phone>+7 (475) 272-69-56</sales_phone>
+			<sales_phone>+79158765050</sales_phone>
 		</sales_info>
 	</complex>
 </complexes>
