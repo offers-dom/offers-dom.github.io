@@ -9,16 +9,7 @@
 			<building>
 				<id>165618</id>
 				<flats>
-					<flat>
-						<flat_id>1</flat_id>
-						<apartment>1163</apartment>
-						<floor>2</floor>
-						<room>3</room>
-						<plan>offers-dom.github.io/img/3707/54.45.png</plan>
-						<price>10544076</price>
-						<area>54,96</area>
-					</flat>
-					<flat>
+				   	<flat>
 						<flat_id>2</flat_id>
 						<apartment>1174</apartment>
 						<floor>4</floor>
