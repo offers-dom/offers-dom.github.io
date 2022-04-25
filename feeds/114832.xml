@@ -1,69 +1,64 @@
 <complexes>
-<complex>
-<id>114832</id>
-<name>ЖК «Новый мир»</name>
-<latitude>51.82872</latitude>
-<longitude>55.16422</longitude>
-<address>Россия, Оренбург, микрорайон Северный</address>
-<buildings>
-<building>
-<id>159798</id>
-<flats>
-<flat>
-<flat_id>2</flat_id>
-<floor>3</floor>
-<room>1</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG
-</plan>
-<price>2280000</price>
-<area>59,37</area>
-</flat>
-<flat>
-<flat_id>3</flat_id>
-<floor>4</floor>
-<room>1</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG
-</plan>
-<price>2280000</price>
-<area>59,37</area>
-</flat>
-<flat>
-<flat_id>4</flat_id>
-<floor>3</floor>
-<room>1</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG
-</plan>
-<price>2460000</price>
-<area>59,37</area>
-</flat>
-<flat>
-<flat_id>5</flat_id>
-<floor>4</floor>
-<room>1</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG
-</plan>
-<price>2460000</price>
-<area>59,37</area>
-</flat>
-<flat>
-<flat_id>6</flat_id>
-<floor>1</floor>
-<room>1</room>
-<plan>
-http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG
-</plan>
-<price>2280000</price>
-<area>59,37</area>
-</flat>
-</flats>
-</building>
-</buildings>
-<sales_info>
-<sales_phone>+79228869917</sales_phone>
-</sales_info>
-</complex>
+	<complex>
+		<id>114832</id>
+		<name>ЖК «Новый мир»</name>
+		<latitude>51.82872</latitude>
+		<longitude>55.16422</longitude>
+		<address>Россия, Оренбург, микрорайон Северный</address>
+		<buildings>
+			<building>
+				<id>159798</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>1</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG</plan>
+						<price>2501100</price>
+						<area>35,73</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>2</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG</plan>
+						<price>2618880</price>
+						<area>39,68</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<apartment>3</apartment>
+						<floor>1</floor>
+						<room>1</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG</plan>
+						<price>2641320</price>
+						<area>40,02</area>
+					</flat>
+					<flat>
+						<flat_id>4</flat_id>
+						<apartment>4</apartment>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG</plan>
+						<price>3752910</price>
+						<area>59,57</area>
+					</flat>
+					<flat>
+						<flat_id>5</flat_id>
+						<apartment>5</apartment>
+						<floor>2</floor>
+						<room>2</room>
+						<plan>http://moemesto.ru/Evgeny2802/file/15176908/114832.JPG</plan>
+						<price>3778340</price>
+						<area>61,94</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+79228869917</sales_phone>
+		</sales_info>
+	</complex>
 </complexes>
