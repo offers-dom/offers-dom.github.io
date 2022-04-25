@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+	<complex>
+		<id>115272</id>
+		<name>Русские Сезоны</name>
+		<latitude>55.74199</latitude>
+		<longitude>37.62542</longitude>
+		<address>г Москва, ул Большая Ордынка, д 19 стр 9</address>
+		<buildings>
+			<building>
+				<id>161567</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>4.3.1</apartment>
+						<floor>3</floor>
+						<room>4</room>
+						<plan>https://offers-dom.github.io/img/115272/108,49.png</plan>
+						<price>227 488 775,36 </price>
+						<area>108,49</area>
+					</flat>
+				</flats>
+			</building>
+		</buildings>
+		<sales_info>
+			<sales_phone>+7 (985) 995-79-57</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
