@@ -372,19 +372,4 @@
 						<area>60,47</area>
 					</flat>
 					<flat>
-						<flat_id>39</flat_id>
-						<apartment>37</apartment>
-						<floor>5</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/3887/47,36.jpg</plan>
-						<price>3552000</price>
-						<area>47,36</area>
-					</flat>
-				</flats>
-			</building>
-		</buildings>
-		<sales_info>
-			<sales_phone>+74852673800</sales_phone>
-		</sales_info>
-	</complex>
-</complexes>
+	
