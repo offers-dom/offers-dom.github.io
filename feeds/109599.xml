@@ -306,15 +306,6 @@
 						<price>6050772</price>
 						<area>55,41</area>
 					</flat>
-					<flat>
-						<flat_id>9</flat_id>
-						<apartment>9</apartment>
-						<floor>2</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/109599/55%20квм%20-%202.png</plan>
-						<price>7400000</price>
-						<area>55,41</area>
-					</flat>
 				</flats>
 			</building>
 			<building>
@@ -337,33 +328,6 @@
 						<plan>https://offers-dom.github.io/img/109599/дуплекс%20с%20антресолью.jpeg</plan>
 						<price>9980744</price>
 						<area>118,96</area>
-					</flat>
-					<flat>
-						<flat_id>6</flat_id>
-						<apartment>6</apartment>
-						<floor>2</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/109599/45%20квм%20-%202.png</plan>
-						<price>6370000</price>
-						<area>45,54</area>
-					</flat>
-					<flat>
-						<flat_id>5</flat_id>
-						<apartment>5</apartment>
-						<floor>1</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/109599/45%20квм%20-%202.png</plan>
-						<price>6370000</price>
-						<area>45,24</area>
-					</flat>
-					<flat>
-						<flat_id>4</flat_id>
-						<apartment>4</apartment>
-						<floor>1</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/109599/55%20квм%20-%202.png</plan>
-						<price>7300000</price>
-						<area>55,11</area>
 					</flat>
 				</flats>
 			</building>
