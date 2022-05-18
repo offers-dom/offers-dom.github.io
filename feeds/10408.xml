@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <complexes>
 	<complex>
 		<id>10408</id>
@@ -18,15 +17,6 @@
 						<plan>https://offers-dom.github.io/img/10408/37,72.jpg</plan>
 						<price>5858000</price>
 						<area>37,72</area>
-					</flat>
-					<flat>
-						<flat_id>2</flat_id>
-						<apartment>2</apartment>
-						<floor>5</floor>
-						<room>2</room>
-						<plan>https://offers-dom.github.io/img/10408/57,53.jpg</plan>
-						<price>8016550</price>
-						<area>57,53</area>
 					</flat>
 					<flat>
 						<flat_id>3</flat_id>
