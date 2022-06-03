@@ -3,9 +3,9 @@
 	<complex>
 		<id>109057</id>
 		<name>Дом  по ул. Щорса</name>
-		<latitude>54.17554</latitude>
-		<longitude>45.14927</longitude>
-		<address>г Саранск, ул Щорса, д 29</address>
+		<latitude>54.175102</latitude>
+		<longitude>45.150359</longitude>
+		<address>г Саранск, ул Щорса, д 27А</address>
 		<buildings>
 			<building>
 				<id>142712</id>
