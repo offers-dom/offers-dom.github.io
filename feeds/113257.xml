@@ -7,38 +7,6 @@
 		<address>г Тамбов, ул Селезневская</address>
 		<buildings>
 			<building>
-				<id>161275</id>
-				<flats>
-					<flat>
-						<flat_id>1</flat_id>
-						<apartment>57</apartment>
-						<floor>9</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>7128000</price>
-						<area>89,1</area>
-					</flat>
-					<flat>
-						<flat_id>2</flat_id>
-						<apartment>105</apartment>
-						<floor>15</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>6796000</price>
-						<area>84,95</area>
-					</flat>
-					<flat>
-						<flat_id>3</flat_id>
-						<apartment>106</apartment>
-						<floor>16</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>7208000</price>
-						<area>90,1</area>
-					</flat>
-				</flats>
-			</building>
-			<building>
 				<id>156041</id>
 				<flats>
 					<flat>
@@ -47,52 +15,10 @@
 						<floor>16</floor>
 						<room>3</room>
 						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>6804000</price>
+						<price>6081075</price>
 						<area>85,05</area>
 					</flat>
 				</flats>
-			</building>
-			<building>
-				<id>154730</id>
-				<flats>
-					<flat>
-						<flat_id>5</flat_id>
-						<apartment>136</apartment>
-						<floor>12</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>7156000</price>
-						<area>89,45</area>
-					</flat>
-					<flat>
-						<flat_id>6</flat_id>
-						<apartment>138</apartment>
-						<floor>12</floor>
-						<room>1</room>
-						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>3638000</price>
-						<area>42,8</area>
-					</flat>
-					<flat>
-						<flat_id>7</flat_id>
-						<apartment>141</apartment>
-						<floor>13</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>7156000</price>
-						<area>89,45</area>
-					</flat>
-					<flat>
-						<flat_id>8</flat_id>
-						<apartment>156</apartment>
-						<floor>16</floor>
-						<room>3</room>
-						<plan>https://offers-dom.github.io/img/113257/1.png</plan>
-						<price>7156000</price>
-						<area>89,45</area>
-					</flat>
-				</flats>
-			</building>
 			</buildings>
 		<sales_info>
 			<sales_phone>+79158765050</sales_phone>
