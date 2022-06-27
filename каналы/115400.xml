@@ -1,0 +1,46 @@
+<complexes>
+	<complex>
+		<id>115400</id>
+		<name>Дом по ул.Петрова</name>
+		<latitude>54.0739</latitude>
+		<longitude>44.95502</longitude>
+		<address>Респ Мордовия, г Рузаевка, ул Петрова</address>
+		<buildings>
+			<building>
+				<id>161991</id>
+				<flats>
+					<flat>
+						<flat_id>1</flat_id>
+						<apartment>1</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/115400/59,66.png</plan>
+						<price>3151200</price>
+						<area>62,4</area>
+					</flat>
+					<flat>
+						<flat_id>2</flat_id>
+						<apartment>3</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/115400/59,66.png</plan>
+						<price>3034232</price>
+						<area>61,31</area>
+					</flat>
+					<flat>
+						<flat_id>3</flat_id>
+						<apartment>6</apartment>
+						<floor>1</floor>
+						<room>2</room>
+						<plan>https://offers-dom.github.io/img/115400/59,66.png</plan>
+						<price>2967946</price>
+						<area>61,22</area>
+					</flat>
+				</flats>
+			</building>
+		      </buildings>
+		<sales_info>
+			<sales_phone>+79271717666</sales_phone>
+		</sales_info>
+	</complex>
+</complexes>
