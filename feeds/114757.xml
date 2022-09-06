@@ -14,9 +14,11 @@
 						<apartment>1</apartment>
 						<floor>7</floor>
 						<room>3</room>
+			<plans>
 						<plan>https://offers-dom.github.io/img/114757/116,12.JPG</plan>
 						<plan>https://offers-dom.github.io/img/114757/116,12.JPG</plan>
-						<price>17998600</price>
+			</plans>
+			         		<price>17998600</price>
 						<area>116,12</area>
 					</flat>
 					<flat>
